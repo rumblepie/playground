@@ -216,16 +216,21 @@ page.open('http://monadsproject.com/', function(status) {
                             // Go through google_ad_frame_n iframe's <a> tags, often the ad is here with id aw0
                             var aTags = aswiftNFrames[index2].window.document.getElementsByTagName("a");
                             for(var tagIndex = 0; tagIndex < aTags.length; tagIndex++) {
-                                if (aTags[tagIndex].href.indexOf('//www.googleadservices') !== -1) {
-                                    result['aTags'].push(aTags[tagIndex].outerHTML);
-                                    continue;
-                                }
+
+                                // This typically contains a unique image resource, along with adurl
                                 if (aTags[tagIndex].id == 'aw0') {
                                     result['aTags'].push(aTags[tagIndex].outerHTML);
                                     continue;
                                 }
                                 if (aTags[tagIndex].id == 'adContent-clickOverlay') {
-                                    result['aTags'].push(aTags[tagIndex].outerHTML);
+                                    // This has the link to the advertiser
+                                    // result['aTags'].push(aTags[tagIndex].outerHTML);
+
+                                    // This has the entire ad, within it somewhere is
+                                    // usually an img with a unique resource
+                                    // So we look for <img src="https://tpc.*"
+                                    // Within this, we need to get the a tag with the id above, to get the adurl
+                                    result['aTags'].push(aswiftNFrames[index2].window.document.getElementById('adContent').outerHTML);
                                 }
                             }
 
@@ -233,22 +238,33 @@ page.open('http://monadsproject.com/', function(status) {
                             for(var index3 = 0; index3 < googleAdFrames.length; index3++) {
                                 if (typeof googleAdFrames[index3].window.name !== 'undefined') {
                                     if (googleAdFrames[index3].window.name.indexOf('google_ad') !== -1) {
-                                        console.log("yeah");
+                                        // In here there can be a <div id="banner" which typically contains unique resource. //TODO: Find adurl
+
+                                        // It can be a <div id="container" which contains unique resource. The adurl is on window.clickTag
+                                        // result['aTags'].push(googleAdFrames[index3].window.document.getElementById('container').outerHTML + 'adurl: ' + googleAdFrames[index3].window.clickTag)
+                                        // console.log(googleAdFrames[index3].window.document.getElementById('container').outerHTML + 'adurl: ' + googleAdFrames[index3].window.clickTag);
+                                        console.log("FIXME");
+                                        // The clickTag is the adurl in these cases.
+                                        console.log(googleAdFrames[index3].window.clickTag);
                                     }
 
                                     if (googleAdFrames[index3].window.name.indexOf('ad_iframe') !== -1) {
                                         var aTags2 = googleAdFrames[index3].window.document.getElementsByTagName("a");
                                         for(var tagIndex2 = 0; tagIndex2 < aTags2.length; tagIndex2++) {
-                                            if (aTags2[tagIndex2].href.indexOf('//www.googleadservices') !== -1) {
-                                                result['aTags'].push(aTags2[tagIndex2].outerHTML);
-                                                continue;
-                                            }
+                                            // This typically contains a unique image resource, along with adurl
                                             if (aTags2[tagIndex2].id == 'aw0') {
                                                 result['aTags'].push(aTags2[tagIndex2].outerHTML);
                                                 continue;
                                             }
                                             if (aTags2[tagIndex2].id == 'adContent-clickOverlay') {
-                                                result['aTags'].push(aTags2[tagIndex2].outerHTML);
+                                                // This has the link to the advertiser
+                                                // result['aTags'].push(aTags2[tagIndex2].outerHTML);
+
+                                                // This has the entire ad, within it somewhere is
+                                                // usually an img with a unique resource
+                                                // So we look for <img src="https://tpc.*"
+                                                // Within this, we need to get the a tag with the id above, to get the adurl
+                                                result['aTags'].push(googleAdFrames[index3].window.document.getElementById('adContent').outerHTML);
                                             }
                                         }
                                     }
