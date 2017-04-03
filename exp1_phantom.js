@@ -284,7 +284,7 @@ page.open('http://monadsproject.com/', function(status) {
         }
         page.render('monadsproject.png');
         phantom.exit();
-    }, 10000);
+    }, 30000);
 
     // console.log(page.frameName);
     // page.render('monadsproject.png');

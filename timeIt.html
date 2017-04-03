@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image inference through caching</title>
+    <input type="checkbox" name="vehicle" value="Car" id="isCookie">
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+//    if ('serviceWorker' in navigator) {
+//        window.addEventListener('load', function() {
+//            navigator.serviceWorker.register('/sw.js').then(function(registration) {
+//                // Registration was successful
+//                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+//            }).catch(function(err) {
+//                // registration failed :(
+//                console.log('ServiceWorker registration failed: ', err);
+//            });
+//        });
+//    }
+
+    function httpGetAsync(theUrl, callback)
+    {
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.onreadystatechange = function() {
+            if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+                callback(xmlHttp.responseText);
+        }
+        xmlHttp.open("GET", theUrl, true); // true for asynchronous
+        xmlHttp.send(null);
+    }
+
+    httpGetAsync('/adUrls', function(response) {
+        var urls = response.split('\n');
+        console.log(urls.length);
+        var url = "https://tpc.googlesyndication.com/simgad/16618625416754035772";
+//        var imgsrc2 = 'https://tpc.googlesyndication.com/daca_images/simgad/2615470076511362015';
+//
+
+//        urls.forEach(function(url) {
+//            console.log("current url: " + url);
+
+            var image = document.createElement('img');
+            document.body.appendChild(image);
+            image.setAttribute('startTime', (new Date().getTime()));
+            image.onload = function () {
+                var endTime = new Date().getTime();
+                var loadTime = endTime - parseInt(this.getAttribute('startTime'));
+                var startTime2 = new Date().getTime();
+                console.log("loadtime 1: " + loadTime);
+
+                image.onload = function() {
+                    var endTime2 = new Date().getTime();
+                    var loadTime2 = endTime2 - startTime2;
+                    var startTime3 = new Date().getTime();
+                    console.log("loadtime 2: " + loadTime2);
+
+                    image.onload = function() {
+                        var endTime3 = new Date().getTime();
+                        var loadTime3 = endTime3 - startTime3;
+                        console.log("loadtime 3: " + loadTime3);
+
+                        console.log("difference: " + (parseInt(loadTime) - parseInt(loadTime3)));
+                        if((parseInt(loadTime) - parseInt(loadTime3)) > 32) {
+                            console.log("this url was not cached: " + url);
+                        } else {
+                            console.log("this url was cached: " + url);
+                        }
+                    };
+
+                    image.src = url;
+                };
+
+                image.src = '/dummy.jpg';
+            };
+
+            image.src = url;
+
+
+
+
+
+
+//            var image = document.createElement('img');
+//            document.body.appendChild(image);
+//            image.setAttribute('startTime', (new Date().getTime()));
+//            image.onload = function () {
+//                var endTime = new Date().getTime();
+//                var loadTime = endTime - parseInt(this.getAttribute('startTime'));
+//                console.log("loadtime 1: " + loadTime);
+//            };
+//            image.src = url;
+//
+//            setTimeout(function() {
+//                image.setAttribute('startTime', (new Date().getTime()));
+//                image.src = '/dummy.jpg';
+//            }, 5000);
+//
+//
+//            setTimeout(function() {
+//                image.setAttribute('startTime', (new Date().getTime()));
+//                image.src = url;
+//            }, 15000);
+//        });
+
+    });
+
+
+//    var image2 = document.createElement('img');
+//    document.body.appendChild(image2);
+//    image2.setAttribute('startTime', (new Date().getTime()));
+//    image2.onload = function () {
+//        var endTime2 = new Date().getTime();
+//        var loadTime2 = endTime2 - parseInt(this.getAttribute('startTime'));
+//        console.log("loadtime 2: " + loadTime2);
+//    };
+//    image2.src = imagesrc;
+//
+//
+//    var image3 = document.createElement('img');
+//    document.body.appendChild(image3);
+//    image3.setAttribute('startTime', (new Date().getTime()));
+//    image3.onload = function () {
+//        var endTime3 = new Date().getTime();
+//        var loadTime3 = endTime3 - parseInt(this.getAttribute('startTime'));
+//        console.log("loadtime 3: " + loadTime3);
+//    };
+//    image3.src = imagesrc;
+
+</script>
+</html>

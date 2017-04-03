@@ -6,10 +6,25 @@ var app = express();
 var path = require('path');
 var fs = require('fs');
 
+app.use(express.static('public'));
 
 // Cookie inference
 app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/cookieInference.html'));
+});
+
+app.get('/timeit', function(req, res) {
+    res.sendFile(path.join(__dirname + '/timeIt.html'));
+});
+
+app.get('/adUrls', function(req, res) {
+    fs.readFile(__dirname + '/imageAdUrls.txt', 'utf8', function (err,data) {
+        if (err) {
+            return console.log(err);
+        }
+        console.log(data);
+        res.send(data);
+    });
 });
 
 app.get('/save', function(req, res) {
@@ -29,6 +44,8 @@ app.get('/save', function(req, res) {
     }
 
 });
+
+
 
 
 // Some name here
