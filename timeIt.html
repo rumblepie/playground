@@ -22,9 +22,6 @@
 
     httpGetAsync('/adUrls', function(response) {
         var urls = response.split('\n');
-//        var url = "https://tpc.googlesyndication.com/simgad/16618625416754035772";
-//        var imgsrc2 = 'https://tpc.googlesyndication.com/daca_images/simgad/2615470076511362015';
-//
 
         urls.forEach(function(url, counter) {
             var xmlHttp1 = new XMLHttpRequest();
