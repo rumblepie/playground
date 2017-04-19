@@ -6,9 +6,8 @@
     <input type="checkbox" name="vehicle" value="Car" id="isCookie">
 </head>
 <body>
-
-</body>
 <script type="text/javascript">
+
     function httpGetAsync(theUrl, callback)
     {
         var xmlHttp = new XMLHttpRequest();
@@ -27,17 +26,8 @@
             var xmlHttp1 = new XMLHttpRequest();
             var xmlHttp2 = new XMLHttpRequest();
 
-            var start1;
-            var start2;
-            var end1;
-            var end2;
-
             xmlHttp1.onreadystatechange = function() {
                 if (xmlHttp1.readyState == 4 && xmlHttp1.status == 200) {
-                    end1 = new Date().getTime();
-//                    console.log("loadingTime 1 for image " + counter + ": " + (parseInt(end1) - parseInt((start1))));
-
-                    start2 = new Date().getTime();
                     xmlHttp2.open("GET", url, true); // true for asynchronous
                     xmlHttp2.send(null);
                 }
@@ -45,28 +35,31 @@
 
             xmlHttp2.onreadystatechange = function() {
                 if (xmlHttp2.readyState == 4 && xmlHttp2.status == 200) {
-                    end2 = new Date().getTime();
-//                    console.log("loadingTime 2 for image " + counter + ": " + (parseInt(end2) - parseInt((start2))));
+                    var current = window.performance.getEntries().filter(function(entry) {
+                        if (entry.name === url) {
+                            return true;
+                        }
+                    });
 
-                    var first = parseInt(end1) - parseInt((start1));
-                    var third = parseInt(end2) - parseInt((start2));
-
-                    console.log("difference for image " + counter + ": " + (first - third));
-
-                    if((first - third) > 22) {
-                        console.log("NOT CACHED: " + url);
-                    } else {
-                        console.log("CACHED: " + url);
+                    if (current.length == 2) {
+                        console.log("difference: " + Math.abs(current[0].duration - current[1].duration));
+                        if (Math.abs(current[0].duration - current[1].duration) > 15) {
+                            console.log("This url was NOT cached: " + url);
+                        } else {
+                            console.log("This url WAS cached: " + url);
+                        }
                     }
                 }
             };
 
-            start1 = new Date().getTime();
-
             xmlHttp1.open("GET", url, true); // true for asynchronous
+            xmlHttp1.setRequestHeader("Accept","text/plain");
             xmlHttp1.send(null);
         });
     });
 
 </script>
+
+</body>
+
 </html>

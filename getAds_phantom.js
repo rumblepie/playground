@@ -189,17 +189,6 @@ page.open('http://monadsproject.com/', function(status) {
 
 
     setTimeout(function () {
-        console.log("---------------inside timeout function");
-
-        // page.switchToMainFrame();
-        // page.switchToChildFrame('aswift_2'); // e.g. aswift_0
-        // page.switchToChildFrame('google_ads_frame3'); // google_ads frames have number of aswift +1
-        // page.switchToChildFrame('ad_iframe');
-        // page.switchToFrame(0);
-        // page.switchToChildFrame('ad_frame');
-
-        console.log("child frames count: " + page.childFramesCount());
-
         // Typical img add: aswift_n -> google_ads_frame<n> -> ad_iframe -> a tag
         var imageAdLinks = page.evaluate(function() {
             var frames = this.window.frames;
