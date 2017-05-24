@@ -39,16 +39,16 @@ module.exports = function(self, username, password) {
             });
 
             self.then(function() {
-                self.wait(2000, function() {
-                    self.capture('_loginProcess_0.png');
+                self.wait(8000, function() {
+                    self.capture('renderings/_loginProcess_0.png');
                 });
             });
 
             self.then(function() {
                 self.thenClick('div[id="identifierNext"]', function() {
-                    self.capture('_loginProcess_1.png');
-                    self.wait(6000, function() {
-                        self.capture('_loginProcess_2.png');
+                    self.capture('renderings/_loginProcess_1.png');
+                    self.wait(10000, function() {
+                        self.capture('renderings/_loginProcess_2.png');
                     });
                 });
             });
@@ -63,15 +63,15 @@ module.exports = function(self, username, password) {
 
             self.then(function() {
                 self.wait(2000, function() {
-                    self.capture('_loginProcess_3.png');
+                    self.capture('renderings/_loginProcess_3.png');
                 });
             });
 
             self.then(function() {
-                self.capture('_loginProcess_4.png');
+                self.capture('renderings/_loginProcess_4.png');
                 self.thenClick('div[id="passwordNext"]', function() {
                     self.wait(2000, function() {
-                        self.capture('_loginProcess_5.png');
+                        self.capture('renderings/_loginProcess_5.png');
                     });
                 });
             });
