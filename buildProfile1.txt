@@ -1,0 +1,10 @@
+{
+	"urls": [
+		"http://sports.ndtv.com",
+		"http://thesportreview.com",
+		"http://sportsgolive.com",
+		"http://iforsports.com",
+		"http://skysports.com"
+	],
+	"topic": "Sports"
+}
