@@ -4,7 +4,7 @@ var readCookies = function(self, cookiesFileName) {
         self.exit(1);
     } else {
         if(typeof fs === 'undefined') {
-            self.echo("You must include fs in the script requiring this script");
+            self.echo("Could not find fs function");
             self.exit(1);
         }
 
@@ -15,8 +15,6 @@ var readCookies = function(self, cookiesFileName) {
 
         if (fs.exists(cookiesFileName)) {
             self.echo("Reading " + cookiesFileName + " file");
-            // var cookies = fs.read("cookiesSavedByPhantomjs.txt");
-            // phantom.cookies = JSON.parse(cookies);
             var cookiesNetscape = fs.read(cookiesFileName).split('\n');
             for(var i = 0; i < cookiesNetscape.length; i++) {
                 var line = cookiesNetscape[i];
@@ -64,7 +62,7 @@ var getAbsoluteUrl = (function() {
 
 
 //https://s1.adform.net/Banners/17774310/17774310.jpg?bv=2
-var goThroughIframes = function goThroughIframes(frames, start, index, result) {
+var getAds = function getAds(frames, start, index, result) {
     if (start) {
         result = {
             'ads': [],
@@ -120,13 +118,13 @@ var goThroughIframes = function goThroughIframes(frames, start, index, result) {
     }
 
     if (childFrames) {
-        goThroughIframes(childFrames, null, 0, result);
+        getAds(childFrames, null, 0, result);
     }
 
-    goThroughIframes(frames, null, index + 1, result);
+    getAds(frames, null, index + 1, result);
 
     return result;
 };
 
 module.exports.readCookies = readCookies;
-module.exports.goThroughIframes = goThroughIframes;
+module.exports.getAds = getAds;

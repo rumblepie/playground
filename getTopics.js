@@ -1,54 +1,18 @@
-var fs = require('fs');
-var utils = require('utils');
-
-var casper = require('casper').create ({
-    debug:true,
-    waitTimeout: 15000,
-    stepTimeout: 15000,
-    verbose: true,
-    viewportSize: {
-        width: 1400,
-        height: 1024
-    },
-    exitOnError: false,
-    pageSettings: {
-        "userAgent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
-        "loadImages": false,
-        "webSecurityEnabled": false,
-        "ignoreSslErrors": true
-    },
-    onWaitTimeout: function() {
-        this.echo("A timeout occured through waitTimeout");
-    },
-    onStepTimeout: function() {
-        this.echo("A timeout occured through stepTimeout");
+function init(self) {
+    if (typeof readCookies === 'undefined') {
+        self.echo("Could not find readCookies function");
+        self.exit(1);
     }
-});
 
-casper.on('remote.message', function(msg) {
-    this.echo('remote message caught: ' + msg);
-});
-
-casper.on("page.error", function(msg, trace) {
-    this.echo("Error: " + msg, "ERROR");
-});
-
-var readCookies = require("commonUtils").readCookies;
-var cookies = casper.cli.get("cookies");
-readCookies(casper, cookies);
-var endpointFileName = casper.cli.get("endpoints");
-var endpoints;
-
-var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
-var initSelector = '#root > div.sm-c > div:nth-child(2) > div > div.sn-e.sn-b > div > div.sx-c';
-
-
-if (fs.exists(endpointFileName)) {
-    console.log("Reading endpoints file");
-    endpoints = JSON.parse(fs.read(endpointFileName));
-} else {
-    console.log("You need to supply a file with the endpoints to get topics for");
-    casper.exit(1);
+    self.then(function() {
+        var adWordsCookieFileName = self.cli.get("adWordsCookie");
+        if(!adWordsCookieFileName) {
+            self.echo("You need to supply --adWordsCookie");
+            self.exit(1);
+        } else {
+            readCookies(self, adWordsCookieFileName);
+        }
+    });
 }
 
 function parseTopicsPage(self) {
@@ -102,7 +66,31 @@ function fillInputAndClick(self, endpoint) {
     }, endpoint);
 }
 
-function getTopics(self, endpoint) {
+function getTopics(self, endpoint, start, cb) {
+    if(start) {
+        init(self);
+    } else {
+        self.clear();
+    }
+
+    var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
+    var initSelector = '#root > div.sm-c > div:nth-child(2) > div > div.sn-e.sn-b > div > div.sx-c';
+
+    self.thenOpen(adWordsUrl, function() {
+        self.echo('Getting topics for: ' + endpoint);
+        self.capture('renderings/adwords0.png');
+        self.waitForSelector(
+            initSelector,
+            function then() {
+                self.capture('renderings/adwords1.png');
+            },
+            function onTimeout() {
+                self.echo('Initial opening of adwords timed out');
+            },
+            10000
+        );
+    });
+
     self.then(function() {
         fillInputAndClick(self, endpoint);
     });
@@ -116,39 +104,9 @@ function getTopics(self, endpoint) {
     self.then(function() {
         var topics = parseTopicsPage(self);
         self.then(function() {
-            fs.write('files/topics_' + endpoint + '_' + Date.now() + '.txt', JSON.stringify(topics, null, 2), 'w');
+            cb(topics);
         });
     });
-
 };
 
-casper.start('http://localhost:8000', function(status) {});
-
-casper.eachThen(endpoints, function(response) {
-    var endpoint = response.data;
-
-    this.then(function() {
-        this.clear();
-    });
-
-    this.then(function() {
-        this.echo('Current endpoint: ' + endpoint);
-        this.thenOpen(adWordsUrl, function() {
-            this.waitForSelector(
-                initSelector,
-                function then() {
-                    this.capture('renderings/adwords1.png');
-                    getTopics(this, endpoint);
-                },
-                function onTimeout() {
-                    this.echo('Initial opening of adwords timed out');
-                },
-                10000
-            );
-        });
-    });
-});
-
-casper.run(function() {
-    this.exit();
-});
+module.exports.getTopics = getTopics;
