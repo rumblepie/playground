@@ -118,37 +118,37 @@ casper.then(function() {
     });
 });
 
-// casper.eachThen(profileData.urls, function(response){
-//     var baseUrl = response.data;
-//     var matchUrl = baseUrl.split("://")[1];
-//     var captureString = matchUrl.split(".")[0] + "_" + matchUrl.split(".")[1];
-//
-//     this.then(function() {
-//         clickLinksAsync(this, matchUrl, 0, maxLinksClicked, baseUrl, captureString, 0);
-//         this.then(function() {
-//             this.clear();
-//         });
-//         this.then(function() {
-//             this.page.stop();
-//         });
-//         this.then(function() {
-//             this.echo("Finished clicking links on " + baseUrl + ", moving to Google Search");
-//         });
-//     });
-//
-//     this.then(function() {
-//         searchGoogleAndFollowLinkAsync(this, matchUrl, profileData, captureString);
-//         this.then(function() {
-//             this.clear();
-//         });
-//         this.then(function() {
-//             this.page.stop();
-//         });
-//         this.then(function() {
-//             this.echo("Finished with base url: " + baseUrl + ", moving on to next base url");
-//         });
-//     });
-// });
+casper.eachThen(profileData.urls, function(response){
+    var baseUrl = response.data;
+    var matchUrl = baseUrl.split("://")[1];
+    var captureString = matchUrl.split(".")[0] + "_" + matchUrl.split(".")[1];
+
+    this.then(function() {
+        clickLinksAsync(this, matchUrl, 0, maxLinksClicked, baseUrl, captureString, 0);
+        this.then(function() {
+            this.clear();
+        });
+        this.then(function() {
+            this.page.stop();
+        });
+        this.then(function() {
+            this.echo("Finished clicking links on " + baseUrl + ", moving to Google Search");
+        });
+    });
+
+    this.then(function() {
+        searchGoogleAndFollowLinkAsync(this, matchUrl, profileData, captureString);
+        this.then(function() {
+            this.clear();
+        });
+        this.then(function() {
+            this.page.stop();
+        });
+        this.then(function() {
+            this.echo("Finished with base url: " + baseUrl + ", moving on to next base url");
+        });
+    });
+});
 
 
 records = {
