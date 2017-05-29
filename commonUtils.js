@@ -1,4 +1,4 @@
-var readCookies = function(self, cookiesFileName) {
+function readCookies(self, cookiesFileName) {
     if (!cookiesFileName) {
         self.echo("You need to supply the name of a cookies file like --cookies=<cookiesFileName>");
         self.exit(1);
@@ -62,7 +62,7 @@ var getAbsoluteUrl = (function() {
 
 
 //https://s1.adform.net/Banners/17774310/17774310.jpg?bv=2
-var getAds = function getAds(frames, start, index, result) {
+function getAds(frames, start, index, result) {
     if (start) {
         result = {
             'ads': [],
@@ -126,5 +126,55 @@ var getAds = function getAds(frames, start, index, result) {
     return result;
 };
 
+function lookForAdSingle(frames, ucr, index, result) {
+    if (frames === null) {
+        result = {'numTimes': 0};
+        frames = this.window.frames;
+    }
+
+    if (typeof frames[index] === 'undefined') {
+        return result;
+    }
+
+    // Dont know how to escape question mark in dynamic regex
+    var regex = new RegExp(ucr.split('?')[0].replace(/\//g, '\\/'), 'gi');
+    var currentFrame = frames[index];
+    var childFrames = currentFrame.window.frames;
+    var domHTML = currentFrame.window.document.body.outerHTML;
+    var match = regex.exec(domHTML);
+
+    if (match) {
+        result.numTimes += 1;
+    }
+
+    if (childFrames) {
+        lookForAdSingle(childFrames, ucr, 0, result);
+    }
+
+    lookForAdSingle(frames, ucr, index + 1, result);
+
+    return result;
+};
+
+
+function findAd(self, advertisement, basePage, counter, result, cb) {
+    if (counter === 3) {
+        return cb(result);
+    }
+
+    self.thenOpen(basePage, function() {
+        self.wait(10000, function() {
+            self.capture('renderings/findAd_' + counter + '.png');
+            var numTimes = self.evaluate(lookForAdSingle, null, advertisement.ucr, 0, null);
+            self.then(function() {
+                findAd(self, advertisement, basePage, counter + 1, result + numTimes.numTimes, cb);
+            });
+        });
+    });
+}
+
+
+
 module.exports.readCookies = readCookies;
 module.exports.getAds = getAds;
+module.exports.findAd = findAd;
