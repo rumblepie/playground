@@ -31,6 +31,7 @@ var fs = require('fs');
 var utils = require('utils');
 var x = require('casper').selectXPath;
 var getAds = require("commonUtils").getAds;
+var findAd = require("commonUtils").findAd;
 
 
 casper.on('remote.message', function(msg) {
@@ -45,11 +46,13 @@ var getTopics = require('getTopics').getTopics;
 var readCookies = require('commonUtils').readCookies;
 var __topics;
 var __ads;
+var __numAds;
 
 casper.start('http://localhost:7777');
 
 casper.then(function() {
-    getTopics(this, 'https://pages.plantronics.com/easier-engagement-dk.html', true, function(topics) {
+    getTopics(this, 'https://eqagqegadvaedgfaegegfasdggqegqegqg.com', true, function(topics) {
+    // getTopics(this, 'https://pages.plantronics.com/easier-engagement-dk.html', true, function(topics) {
         __topics = topics;
     });
     this.then(function() {
@@ -58,17 +61,41 @@ casper.then(function() {
     });
 });
 
-casper.then(function() {
-    this.thenOpen('http://sports.ndtv.com', function() {
-        this.wait(8000);
-    });
-    this.then(function() {
-        this.capture('renderings/ads.png');
-        __ads = this.evaluate(getAds, null, true, 0, null);
-        this.echo('Got the following ads: ');
-        this.echo(JSON.stringify(__ads, null, 2));
-    });
-});
+// casper.then(function() {
+//     // this.thenOpen('http://eb.dk', function() {
+//     this.thenOpen('http://sports.ndtv.com', function() {
+//         this.wait(15000);
+//     });
+//     this.then(function() {
+//         this.capture('renderings/ads.png');
+//         __ads = this.evaluate(getAds, null, true, 0, null);
+//         this.echo('Got the following ads: ');
+//         this.echo(JSON.stringify(__ads, null, 2));
+//         this.then(function() {
+//             if (__ads.ads.length > 0) {
+//                 this.echo('finding ads');
+//                 findAd(this, __ads.ads[0], __ads.basePage, 0, 0, function(num) {
+//                     __numAds = num;
+//                 });
+//                 this.then(function() {
+//                     this.echo('Got the following number of ads: ' + __numAds);
+//                 });
+//             } else {
+//                 this.echo('Found no ads');
+//             }
+//
+//         });
+//     });
+// });
+
+// casper.then(function() {
+//     this.thenOpen('http://sports.ndtv.com', function() {
+//         this.wait(8000);
+//     });
+//     this.then(function() {
+//         // var testUcr = 'https://tpc.googlesyndication.com/simgad/9975285276584498712?w=600&amp;h=314';
+//     });
+// });
 
 casper.run(function() {
     this.exit();

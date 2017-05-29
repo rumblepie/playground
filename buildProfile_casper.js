@@ -100,7 +100,7 @@ if (!baseUrlsAndTopic) {
 }
 
 var addZero = require("profileBuilderUtils").addZero;
-var loginToGoogleAsync = require("loginToGoogleAsync");
+var loginToGoogleAsync = require("loginToGoogleAsync").loginToGoogleAsync;
 var verifyActivityHistoryAsync = require("profileBuilderUtils").verifyActivityHistoryAsync;
 var clickLinksAsync = require("profileBuilderUtils").clickLinksAsync;
 var getRecords = require("profileBuilderUtils").getRecords;

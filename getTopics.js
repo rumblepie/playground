@@ -4,15 +4,13 @@ function init(self) {
         self.exit(1);
     }
 
-    self.then(function() {
-        var adWordsCookieFileName = self.cli.get("adWordsCookie");
-        if(!adWordsCookieFileName) {
-            self.echo("You need to supply --adWordsCookie");
-            self.exit(1);
-        } else {
-            readCookies(self, adWordsCookieFileName);
-        }
-    });
+    var adWordsCookieFileName = self.cli.get("adWordsCookie");
+    if(!adWordsCookieFileName) {
+        self.echo("You need to supply --adWordsCookie");
+        self.exit(1);
+    } else {
+        readCookies(self, adWordsCookieFileName);
+    }
 }
 
 function parseTopicsPage(self) {
@@ -20,7 +18,7 @@ function parseTopicsPage(self) {
         var check = document.querySelector('#root > div.sm-c > div:nth-child(2) > div:nth-child(2) > div.ssb-b > div.ssb-f > div > div > div.ssb-a > div > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(3) > div:nth-child(1) > div.smc-d');
         if (check.getAttribute('style') !== 'display: none;') {
             console.log("The url did not yield any topics");
-            return;
+            return null;
         }
 
         var firstTopics = document.querySelector('#root > div.sm-c > div:nth-child(2) > div:nth-child(2) > div.ssb-b > div.ssb-f > div > div > div.ssb-a > div > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div.sRc-k > div:nth-child(3) > table.sib-z.sRc-j > tbody').childNodes[0].childNodes[0].childNodes[0].childNodes[0];
@@ -66,6 +64,8 @@ function fillInputAndClick(self, endpoint) {
     }, endpoint);
 }
 
+//TODO: Sometimes timeouts seem to break this function
+//TODO: This happened when the cookie was no good. It might be that a login is needed instead of cookie uses.
 function getTopics(self, endpoint, start, cb) {
     if(start) {
         init(self);
@@ -74,11 +74,17 @@ function getTopics(self, endpoint, start, cb) {
     }
 
     var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
+    // var adWordsUrl = 'http://sports.ndtv.com';
     var initSelector = '#root > div.sm-c > div:nth-child(2) > div > div.sn-e.sn-b > div > div.sx-c';
 
+
+
     self.thenOpen(adWordsUrl, function() {
-        self.echo('Getting topics for: ' + endpoint);
         self.capture('renderings/adwords0.png');
+    });
+
+    self.then(function() {
+        self.echo('Getting topics for: ' + endpoint);
         self.waitForSelector(
             initSelector,
             function then() {

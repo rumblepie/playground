@@ -1,16 +1,89 @@
-function loadProfileOfUnrelatedTopic(self, topic) {
+function loadProfileOfUnrelatedTopicAsync(self, topic) {
+    var profilesFileName = self.cli.get("profiles");
+    var profiles;
+    if (!profilesFileName) {
+        self.echo('You must supply a set of --profiles');
+        self.exit(1);
+    }
 
+    if (fs.exists(profilesFileName)) {
+        profiles = JSON.parse(fs.read(profilesFileName));
+    } else {
+        self.echo('Could not find ' + profilesFileName);
+        self.exit(1);
+    }
+
+    if (profiles.length < 1) {
+        self.echo('Did not find any profiles in the profiles file');
+        self.exit(1);
+    }
+
+    for(var i = 0; i < profiles.length; i++) {
+        if (profiles[i].canBeUsedForFiltering === true) {
+            if (profiles[i].topic !== topic) {
+                //load
+                loginToGoogleAsync(self, profiles[i].email, profiles[i].password);
+                self.then(function() {
+                    self.echo('Loaded profile: ' + profiles[i].email);
+                    return;
+                });
+            }
+        }
+    }
 }
 
-function isAdContextual(self, lpu, basePage) {
+function isAdContextual(self, lpu, basePage, cb) {
+    // The statefulness of some cookies might interfer with Google AdWords, so we must clear
+    phantom.clearCookies();
+    self.clear();
 
-}
+    var basePageTopics;
+    var lpuTopics;
 
-function isAdGeneric(self, ucr, farmerTopic) {
-    // Could this also simply be without any cookies?
-    loadProfileOfUnrelatedTopic(self, farmerTopic);
     self.then(function() {
-        var adFoundNumTimes = findAd(self, null, ucr, 0, 0, 0);
+        getTopics(self, basePage, true, function(basePageTopics) {
+            basePageTopics = basePageTopics;
+            getTopics(self, lpu, false, function(lpuTopics) {
+                lpuTopics = lpuTopics;
+            });
+        });
+    });
+
+    self.then(function() {
+        if (basePageTopics && lpuTopics) {
+            var allBase = basePageTopics.allTopics.split('Topics: ')[1].split(' > ');
+            var allLpu = lpuTopics.allTopics.split('Topics: ')[1].split(' > ');
+            var intersection = allBase.filter(function(topic) {
+                return allLpu.indexOf(topic) > -1;
+            });
+            if (intersection.length > 0) {
+                cb(true);
+            } else {
+                cb(false);
+            }
+        } else {
+            self.echo('Could not find any topics for: ' + basePage + ' and/or ' + lpu);
+            cb(null);
+        }
+
+    });
+}
+
+function isAdGeneric(self, ucr, basePage, farmerTopic, cb) {
+    // Could this also simply be without any cookies?
+    phantom.clearCookies();
+    self.clear();
+
+    self.then(function() {
+        loadProfileOfUnrelatedTopicAsync(self, farmerTopic);
+    });
+
+    self.then(function() {
+        findAd(self, ucr, basePage, 0, 0, function(num) {
+            if (num > 0) {
+                cb(true);
+            }
+        });
     });
 }
 
@@ -20,6 +93,28 @@ function filterAdvertisement(self, advertisement, cb) {
         self.exit(1);
     }
 
+    if (typeof getTopics === 'undefined') {
+        self.echo('Could not find getTopics function');
+        self.exit(1);
+    }
+
+    if (typeof fs === 'undefined') {
+        self.echo('Could not find fs function');
+        self.exit(1);
+    }
+
+    if (typeof phantom === 'undefined') {
+        self.echo('Could not find phantom object');
+        self.exit(1);
+    }
+
+    if (typeof loginToGoogleAsync === 'undefined') {
+        self.echo('Could not find Google login function');
+        self.exit(1);
+    }
+
+
+    var adWordsCookieFileName = self.cli.get("pass");
     var basePage = advertisement.basePage;
     var lpu = advertisement.lpu;
     var ucr = advertisement.ucr;
@@ -35,8 +130,7 @@ function filterAdvertisement(self, advertisement, cb) {
                 return;
             }
             else {
-                var isGeneric = isAdGeneric(self, ucr, farmerTopic);
-                self.then(function() {
+                isAdGeneric(self, ucr, basePage, farmerTopic, function(isGeneric) {
                     if(isGeneric) {
                         cb('generic');
                         return;

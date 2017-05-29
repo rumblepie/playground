@@ -1,4 +1,4 @@
-module.exports = function(self, username, password) {
+function loginToGoogleAsync(self, username, password) {
     var loginButtonFound;
 
     self.thenOpen("http://www.gooogle.com", function() {
@@ -79,4 +79,4 @@ module.exports = function(self, username, password) {
     });
 };
 
-
+module.exports.loginToGoogleAsync = loginToGoogleAsync;

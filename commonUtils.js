@@ -59,8 +59,6 @@ var getAbsoluteUrl = (function() {
     };
 })();
 
-
-
 //https://s1.adform.net/Banners/17774310/17774310.jpg?bv=2
 function getAds(frames, start, index, result) {
     if (start) {
@@ -105,7 +103,6 @@ function getAds(frames, start, index, result) {
 
     // Get LPU
     for(var k = 0; k < lpuRegexes.length; k++) {
-        // var match = new RegExp(lpuRegexes[k], 'g').exec(domHTML);
         var match = lpuRegexes[k].exec(domHTML);
 
         if (match) {
@@ -158,8 +155,14 @@ function lookForAdSingle(frames, ucr, index, result) {
 
 
 function findAd(self, advertisement, basePage, counter, result, cb) {
+    if (!advertisement) {
+        cb(null);
+        return;
+    }
+
     if (counter === 3) {
-        return cb(result);
+        cb(result);
+        return;
     }
 
     self.thenOpen(basePage, function() {
