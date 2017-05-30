@@ -7,20 +7,9 @@ var addZero = function(i) {
 
 var mid = 6500;
 var high = 10000;
-var recentActivity = {
-    "inTime": [],
-    "all": []
-};
 var date = new Date();
-var records = {
-    "start": date.getHours() + ":" + addZero(date.getMinutes()),
-    "links": [],
-    "searches": [],
-    "googleLinks": [],
-    "bases": []
-};
 
-var getRecentAcitivtyEntriesAsync = function(self, records) {
+var getRecentAcitivtyEntriesAsync = function(self, recentActivity, records) {
     var numberOfBundleButtons;
     self.then(function() {
         numberOfBundleButtons = self.evaluate(function() {
@@ -96,16 +85,16 @@ var getRecentAcitivtyEntriesAsync = function(self, records) {
 };
 
 var compareRecentWithActual = function(self, recentActivityEntries, records) {
-    self.echo("=======================================================================================");
-    self.echo("Data recorded by us: ");
-    self.echo(JSON.stringify(records, null, 2));
-    fs.write("data_us.txt", JSON.stringify(records, null, 2), 'w');
-    self.echo("==================================");
-    self.echo("==================================");
-    self.echo("Data recorded by Google: ");
-    self.echo(JSON.stringify(recentActivityEntries, null, 2));
-    fs.write("data_google.txt", JSON.stringify(recentActivityEntries, null, 2), 'w');
-    self.echo("=======================================================================================");
+    // self.echo("=======================================================================================");
+    // self.echo("Data recorded by us: ");
+    // self.echo(JSON.stringify(records, null, 2));
+    // fs.write("data_us.txt", JSON.stringify(records, null, 2), 'w');
+    // self.echo("==================================");
+    // self.echo("==================================");
+    // self.echo("Data recorded by Google: ");
+    // self.echo(JSON.stringify(recentActivityEntries, null, 2));
+    // fs.write("data_google.txt", JSON.stringify(recentActivityEntries, null, 2), 'w');
+    // self.echo("=======================================================================================");
 
     var matches = records.links.filter(function(record) {
         for(var i = 0; i < recentActivityEntries.length; i++) {
@@ -115,28 +104,37 @@ var compareRecentWithActual = function(self, recentActivityEntries, records) {
         }
     });
 
-    self.echo("Matches:");
-    self.echo(JSON.stringify(matches, null, 2));
-
     var diff = records.links.filter(function(x) { return matches.indexOf(x) < 0 });
-    self.echo("Difference:");
-    self.echo(JSON.stringify(diff, null, 2));
+
+    return {
+        'matches': matches,
+        'difference': diff
+    };
 };
 
 
-var verifyActivityHistoryAsync = function(self, records) {
+var verifyActivityHistoryAsync = function(self, records, cb) {
+    var recentActivity = {
+        "inTime": [],
+        "all": []
+    };
     var activityUrl = "https://myactivity.google.com/myactivity?utm_source=my-account&utm_medium=&utm_campaign=my-acct-promo";
+    var matchesAndDifference;
     self.thenOpen(activityUrl, function() {
         self.wait(mid, function() {
             self.echo("Capturing activities page in _google_activities.png");
             self.capture('renderings/_activities.png');
             self.then(function() {
-                getRecentAcitivtyEntriesAsync(self, records);
+                getRecentAcitivtyEntriesAsync(self, recentActivity, records);
             });
             self.then(function() {
-                compareRecentWithActual(self, recentActivity, records);
+                matchesAndDifference = compareRecentWithActual(self, recentActivity, records);
             });
         });
+    });
+
+    self.then(function() {
+        cb(matchesAndDifference);
     });
 };
 
@@ -158,7 +156,7 @@ var getAndMarkGoogleLinks = function() {
 
 
 // Clickables format: (www.mylink.dk, 2)
-var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString, numTry) {
+var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString, numTry, records, cb) {
     if (numTry > 5) {
         self.echo("Tried " + 5 + " times to click a link but couldn't find one, returning");
         return;
@@ -167,19 +165,18 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
     numTry = numTry + 1;
 
     if (counter === max) {
-        self.echo("Clicked " + maxLinksClicked + " links, returning");
+        self.echo("Clicked " + max + " links, returning");
         return;
     }
+
     var clickables;
     var number;
     var toBeClicked;
     var selector;
     var selectorCss;
 
-    self.then(function() {
-        openBasePageAndMarkATagsAsync(self, base, matchUrl, captureString, function(val) {
-            clickables = val;
-        });
+    openBasePageAndMarkATagsAsync(self, base, matchUrl, captureString, records, function(val) {
+        clickables = val;
     });
 
     self.then(function() {
@@ -199,9 +196,6 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
             self.echo("========================Found undefined");
             return;
         }
-
-        // self.echo("Current click counter: " + counter);
-        // self.echo("Current try counter: " + numTry);
     });
 
     self.then(function() {
@@ -231,9 +225,15 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
             clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry);
         }
     });
+
+    self.then(function() {
+        cb(records);
+    });
 };
 
-var openBasePageAndMarkATagsAsync = function(self, baseUrl, matchUrl, captureString, cb) {
+
+
+var openBasePageAndMarkATagsAsync = function(self, baseUrl, matchUrl, captureString, records, cb) {
     var clickables;
 
     self.then(function() {
@@ -277,11 +277,9 @@ var openBasePageAndMarkATagsAsync = function(self, baseUrl, matchUrl, captureStr
     });
 };
 
-var getRecords = function() {
-    return records;
-};
 
-var searchGoogleAndFollowLinkAsync = function(self, matchUrl, profileData, captureString) {
+
+var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureString, records, cb) {
     var googleLinks;
     var validGoogleLinks = [];
     var href;
@@ -301,7 +299,7 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, profileData, captu
 
     self.then(function() {
         self.waitForSelector('form[action="/search"]', function() {
-            q = matchUrl + " " + profileData.topic;
+            q = matchUrl + " " + topic;
             // self.echo("q value: " + q);
             self.fill('form[action="/search"]', { q: q }, true);
         });
@@ -358,12 +356,15 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, profileData, captu
         records.googleLinks.push(validGoogleLinks[number].href);
         self.capture("renderings/_google_link_" + captureString + "_"  + number + '.png');
     });
+
+    self.then(function() {
+        cb(records);
+    });
 };
 
 module.exports.addZero = addZero;
 module.exports.verifyActivityHistoryAsync = verifyActivityHistoryAsync;
 module.exports.getAndMarkGoogleLinks = getAndMarkGoogleLinks;
 module.exports.clickLinksAsync = clickLinksAsync;
-module.exports.getRecords = getRecords;
 module.exports.searchGoogleAndFollowLinkAsync = searchGoogleAndFollowLinkAsync;
 module.exports.openBasePageAndMarkATagsAsync = openBasePageAndMarkATagsAsync;
