@@ -59,13 +59,28 @@ var getAbsoluteUrl = (function() {
     };
 })();
 
-//https://s1.adform.net/Banners/17774310/17774310.jpg?bv=2
-function getAds(frames, start, index, result) {
+
+// BLACKLIST:
+// https://tpc.googlesyndication.com/pagead/images/powered-by-google.png
+
+// ADURL FOLLOWLIST:
+// adurl="https://server.adformdsp.net/C/......."
+// adurl="http://traffic.srvfst.com/jsp/redirect/1784743258/index.jsp"
+// adurl="http://clickserve.dartsearch.net/link/click"
+
+// ADURL BE SMART LIST
+// adurl=https://servedby.flashtalking.com/click/7/64765;1955287;1408035;210;0/?ft_impID=34370FAADB170B&g=3437D6BC53E597&random=456804590&ft_width=300&ft_height=600&url=http://bellroy.com/slim-your-wallet?utm_source=GoogleDisplayNetwork&utm_medium=display&utm_campaign=GLOBALen_Prospecting_GDN_7-300x600_GDN_Sport_Keywords_9869239411&utm_content=201601SYW_SlimYourWalletD-300x600.jpg
+
+// ISSUES:
+//   {
+// "basePage": "https://www.ethiojobs.net/browse-by-category/Accounting%20and%20Finance/",
+//     "farmerTopic": "Jobs & Education",
+//     "lpu": "http://",
+//     "ucr": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45565663/20160922244949061/index.html?e=69&amp;renderingType=2&amp;leftOffset=0&amp;topOffset=0&amp;c=wQmKUDOuiS&amp;t=1"
+// },
+function getAds(frames, start, index, result, farmerTopic) {
     if (start) {
-        result = {
-            'ads': [],
-            'basePage': document.location.href
-        };
+        result = [];
         frames = this.window.frames;
     }
 
@@ -75,7 +90,8 @@ function getAds(frames, start, index, result) {
 
     var ucrRegexes = [
         /(src=")(https?:\/\/(www\.)?tpc\.google[^"]+)/gi,
-        /(src=")(https?:\/\/(www\.)?s1\.adform[^"]+)/gi
+        /(src=")(https?:\/\/(www\.)?s1\.[^"]+)/gi,
+        /(src=")(https?:\/\/(www\.)?s0\.[^"]+)/gi
     ];
 
     var lpuRegexes = [
@@ -85,7 +101,7 @@ function getAds(frames, start, index, result) {
     var currentFrame = frames[index];
     var childFrames = currentFrame.window.frames;
     var domHTML = currentFrame.window.document.body.outerHTML;
-    var advertisement = { 'ucr': null, 'lpu': null };
+    var advertisement = { 'ucr': null, 'lpu': null, 'farmerTopic': farmerTopic, 'basePage': document.location.href };
 
     // Get UCR
     for(var i = 0; i < ucrRegexes.length; i++) {
@@ -111,19 +127,21 @@ function getAds(frames, start, index, result) {
     }
 
     if (advertisement.lpu !== null && advertisement.ucr !== null) {
-        result.ads.push(advertisement);
+        result.push(advertisement);
     }
 
     if (childFrames) {
-        getAds(childFrames, null, 0, result);
+        getAds(childFrames, null, 0, result, farmerTopic);
     }
 
-    getAds(frames, null, index + 1, result);
+    getAds(frames, null, index + 1, result, farmerTopic);
 
     return result;
 };
 
-function lookForAdSingle(frames, ucr, index, result) {
+
+
+function lookForAdSingle(frames, resources, index, result) {
     if (frames === null) {
         result = {'numTimes': 0};
         frames = this.window.frames;
@@ -134,33 +152,42 @@ function lookForAdSingle(frames, ucr, index, result) {
     }
 
     // Dont know how to escape question mark in dynamic regex
-    var regex = new RegExp(ucr.split('?')[0].replace(/\//g, '\\/'), 'gi');
+    // var regex = new RegExp(ucr.split('?')[0].replace(/\//g, '\\/'), 'gi');
     var currentFrame = frames[index];
     var childFrames = currentFrame.window.frames;
     var domHTML = currentFrame.window.document.body.outerHTML;
-    var match = regex.exec(domHTML);
 
-    if (match) {
-        result.numTimes += 1;
+    for(var i = 0; i < resources.length; i++) {
+        var ucr = resources[i];
+        var regex = new RegExp(ucr, 'gi');
+        var match = regex.exec(domHTML);
+
+        if (match) {
+            result.numTimes += 1;
+        }
     }
 
     if (childFrames) {
-        lookForAdSingle(childFrames, ucr, 0, result);
+        lookForAdSingle(childFrames, resources, 0, result);
     }
 
-    lookForAdSingle(frames, ucr, index + 1, result);
+    lookForAdSingle(frames, resources, index + 1, result);
 
     return result;
 };
 
 
-function findAd(self, advertisement, basePage, counter, result, cb) {
-    if (!advertisement) {
+function findAd(self, resources, basePage, counter, result, cb) {
+    var reloadPageMaxTimes = 10;
+
+    self.echo('current result: ' + result);
+
+    if (!resources) {
         cb(null);
         return;
     }
 
-    if (counter === 3) {
+    if (counter === reloadPageMaxTimes) {
         cb(result);
         return;
     }
@@ -168,16 +195,46 @@ function findAd(self, advertisement, basePage, counter, result, cb) {
     self.thenOpen(basePage, function() {
         self.wait(10000, function() {
             self.capture('renderings/findAd_' + counter + '.png');
-            var numTimes = self.evaluate(lookForAdSingle, null, advertisement.ucr, 0, null);
+            var numTimes = self.evaluate(lookForAdSingle, null, resources, 0, null);
+
             self.then(function() {
-                findAd(self, advertisement, basePage, counter + 1, result + numTimes.numTimes, cb);
+                if(!numTimes) {
+                    findAd(self, resources, basePage, counter + 1, result, cb);
+                } else {
+                    if(numTimes.numTimes > 0) {
+                        findAd(self, resources, basePage, reloadPageMaxTimes, result + numTimes.numTimes, cb);
+                    } else {
+                        findAd(self, resources, basePage, counter + 1, result + numTimes.numTimes, cb);
+                    }
+                }
             });
         });
     });
 }
 
+function squashRecords(adRecords) {
+    var result = {'keys': []};
 
+    adRecords.map(function(record) {
+        if (result[record.lpu]) {
+            record.ucr = record.ucr.split('?')[0].replace(/\//g, '\\/');
+            if (!(result[record.lpu].resources.indexOf(record.ucr) > -1)) {
+                result[record.lpu].resources.push(record.ucr);
+            }
+        } else {
+            result[record.lpu] = {};
+            result[record.lpu].basePage = record.basePage;
+            result[record.lpu].farmerTopic = record.farmerTopic;
+            result[record.lpu].resources = [record.ucr];
+            result[record.lpu].lpu = record.lpu;
+            result.keys.push(record.lpu);
+        }
+    });
+
+    return result;
+}
 
 module.exports.readCookies = readCookies;
 module.exports.getAds = getAds;
 module.exports.findAd = findAd;
+module.exports.squashRecords = squashRecords;

@@ -1,4 +1,4 @@
-function loadProfileOfUnrelatedTopicAsync(self, topic) {
+function loadProfileOfUnrelatedTopicAsync(self, topic, cb) {
     var profilesFileName = self.cli.get("profiles");
     var profiles;
     if (!profilesFileName) {
@@ -18,18 +18,48 @@ function loadProfileOfUnrelatedTopicAsync(self, topic) {
         self.exit(1);
     }
 
-    for(var i = 0; i < profiles.length; i++) {
-        if (profiles[i].canBeUsedForFiltering === true) {
-            if (profiles[i].topic !== topic) {
-                //load
-                loginToGoogleAsync(self, profiles[i].email, profiles[i].password);
+    var isDone;
+
+    self.eachThen(profiles, function(response) {
+        var profile = response.data;
+        if (profile.canBeUsedForFiltering === true && !isDone) {
+            if (profile.topic !== topic) {
+                self.echo('Loading profile: ' + profile.email);
+                loginToGoogleAsync(self, profile.email, profile.password);
                 self.then(function() {
-                    self.echo('Loaded profile: ' + profiles[i].email);
+                    isDone = true;
+                    cb(true);
                     return;
                 });
+
             }
         }
-    }
+    });
+}
+
+//TODO: Squashing of varied size ads is needed here.
+function isAdGeneric(self, resources, basePage, farmerTopic, cb) {
+    // Could this also simply be without any cookies?
+    phantom.clearCookies();
+    self.clear();
+
+    self.then(function() {
+        loadProfileOfUnrelatedTopicAsync(self, farmerTopic, function(retVal) {
+            self.echo('Profile did load?: ' + retVal);
+        });
+    });
+
+    self.then(function() {
+        self.echo('Finding resources on ' + basePage);
+        findAd(self, resources, basePage, 0, 0, function(num) {
+            self.echo('Found ad ' + num + ' times');
+            if (num > 0) {
+                cb(true);
+            } else {
+                cb(false);
+            }
+        });
+    });
 }
 
 function isAdContextual(self, lpu, basePage, cb) {
@@ -37,55 +67,35 @@ function isAdContextual(self, lpu, basePage, cb) {
     phantom.clearCookies();
     self.clear();
 
-    var basePageTopics;
-    var lpuTopics;
-
     self.then(function() {
         getTopics(self, basePage, true, function(basePageTopics) {
             basePageTopics = basePageTopics;
-            getTopics(self, lpu, false, function(lpuTopics) {
-                lpuTopics = lpuTopics;
+            self.then(function() {
+                getTopics(self, lpu, false, function(lpuTopics) {
+                    self.echo(JSON.stringify(basePageTopics, null, 2));
+                    self.echo(JSON.stringify(lpuTopics, null, 2));
+
+                    if (basePageTopics && lpuTopics) {
+                        var allBase = basePageTopics.allTopics.toLowerCase().split(': ')[1].split(' > ');
+                        var allLpu = lpuTopics.allTopics.toLowerCase().split(': ')[1].split(' > ');
+                        var intersection = allBase.filter(function(topic) {
+                            return allLpu.indexOf(topic) > -1;
+                        });
+                        if (intersection.length > 0) {
+                            cb(true);
+                        } else {
+                            cb(false);
+                        }
+                    } else {
+                        self.echo('Could not find any topics for: ' + basePage + ' and/or ' + lpu);
+                        cb(null);
+                    }
+                });
             });
         });
     });
-
-    self.then(function() {
-        if (basePageTopics && lpuTopics) {
-            var allBase = basePageTopics.allTopics.split('Topics: ')[1].split(' > ');
-            var allLpu = lpuTopics.allTopics.split('Topics: ')[1].split(' > ');
-            var intersection = allBase.filter(function(topic) {
-                return allLpu.indexOf(topic) > -1;
-            });
-            if (intersection.length > 0) {
-                cb(true);
-            } else {
-                cb(false);
-            }
-        } else {
-            self.echo('Could not find any topics for: ' + basePage + ' and/or ' + lpu);
-            cb(null);
-        }
-
-    });
 }
 
-function isAdGeneric(self, ucr, basePage, farmerTopic, cb) {
-    // Could this also simply be without any cookies?
-    phantom.clearCookies();
-    self.clear();
-
-    self.then(function() {
-        loadProfileOfUnrelatedTopicAsync(self, farmerTopic);
-    });
-
-    self.then(function() {
-        findAd(self, ucr, basePage, 0, 0, function(num) {
-            if (num > 0) {
-                cb(true);
-            }
-        });
-    });
-}
 
 function filterAdvertisement(self, advertisement, cb) {
     if (typeof findAd === 'undefined') {
@@ -113,24 +123,27 @@ function filterAdvertisement(self, advertisement, cb) {
         self.exit(1);
     }
 
+    if (!advertisement) {
+        self.echo('Empty advertisement');
+        self.exit(1);
+    }
 
-    var adWordsCookieFileName = self.cli.get("pass");
+    // var adWordsCookieFileName = self.cli.get("pass");
     var basePage = advertisement.basePage;
     var lpu = advertisement.lpu;
-    var ucr = advertisement.ucr;
+    var resources = advertisement.resources;
 
     // This is the topic of the google profile used to farm the advertisement.
     var farmerTopic = advertisement.farmerTopic;
 
     self.then(function() {
-        var isContextual = isAdContextual(self, lpu, basePage);
-        self.then(function() {
+        isAdContextual(self, lpu, basePage, function(isContextual) {
             if(isContextual) {
                 cb('contextual');
                 return;
             }
             else {
-                isAdGeneric(self, ucr, basePage, farmerTopic, function(isGeneric) {
+                isAdGeneric(self, resources, basePage, farmerTopic, function(isGeneric) {
                     if(isGeneric) {
                         cb('generic');
                         return;
@@ -142,7 +155,42 @@ function filterAdvertisement(self, advertisement, cb) {
                 });
             }
         });
+
+    });
+}
+
+
+// Filters all the advertisements in the adRecords
+function filterAdRecords(self, adRecords, cb) {
+    var result = [];
+
+    self.eachThen(adRecords.keys, function(response) {
+        var adRecordKey = response.data;
+        var adRecord = adRecords[adRecordKey];
+        self.echo('keys2');
+        self.echo(JSON.stringify(adRecord, null, 2));
+        self.then(function() {
+            filterAdvertisement(self, adRecord, function(adType) {
+                adRecord['type'] = adType;
+                self.echo('==============================');
+                self.echo('');
+                self.echo('');
+                self.echo('');
+                self.echo(JSON.stringify(adRecord, null, 2));
+                self.echo('');
+                self.echo('');
+                self.echo('');
+                self.echo('Ad filter result: ' + adType);
+                self.echo('==============================');
+                result.push(adRecord);
+            });
+        });
+    });
+
+    self.then(function() {
+        cb(result);
     });
 }
 
 module.exports.filterAdvertisement = filterAdvertisement;
+module.exports.filterAdRecords = filterAdRecords;

@@ -39,15 +39,19 @@ function fillInputAndClick(self, endpoint) {
                 if(divs[i].childNodes[0].innerText == "Enter keywords, topics, or sites") {
                     divs[i].childNodes[1].value = endpoint;
                     input = divs[i].childNodes[1];
+                    divs[i].childNodes[1].setAttribute('sboInputAtt', 'sboInputAttVal');
                     break;
                 }
             }
         }
+        // var event = document.createEvent('Event');
+        // event.initEvent('keyup', true, true);
+        // input.dispatchEvent(event);
 
-        var event = document.createEvent('Event');
-        event.initEvent('keyup', true, true);
-        event.keyCode = 76;
-        input.dispatchEvent(event);
+        var event2 = document.createEvent('Event');
+        event2.initEvent('keydown', true, true);
+        event2.keyCode = 9;
+        input.dispatchEvent(event2);
 
         var buttons = document.getElementsByTagName('button');
 
@@ -62,6 +66,45 @@ function fillInputAndClick(self, endpoint) {
 
         }
     }, endpoint);
+
+    // self.then(function() {
+    //     self.sendKeys(
+    //         'input[class]',
+    //         endpoint,
+    //         {
+    //             keepFocus: true,
+    //         }
+    //     );
+    // });
+    //
+    // self.then(function() {
+    //     self.capture('renderings/adwords3.png');
+    // });
+
+    // self.then(function() {
+    //     self.evaluate(function() {
+    //         var event = document.createEvent('Event');
+    //         event.initEvent('keyup', true, true);
+    //         input.dispatchEvent(event);
+    //
+    //         // var event2 = document.createEvent('Event');
+    //         // event2.keyCode = 13;
+    //         // input.dispatchEvent(event);
+    //
+    //         var buttons = document.getElementsByTagName('button');
+    //
+    //         for(var i = 0; i < buttons.length; i++) {
+    //             if(buttons[i].childNodes.length > 0) {
+    //                 if(buttons[i].childNodes[0].innerText != undefined) {
+    //                     if(buttons[i].childNodes[0].innerText == 'Get ad group ideas') {
+    //                         buttons[i].click();
+    //                     }
+    //                 }
+    //             }
+    //
+    //         }
+    //     });
+    // });
 }
 
 //TODO: Sometimes timeouts seem to break this function
@@ -74,10 +117,7 @@ function getTopics(self, endpoint, start, cb) {
     }
 
     var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
-    // var adWordsUrl = 'http://sports.ndtv.com';
     var initSelector = '#root > div.sm-c > div:nth-child(2) > div > div.sn-e.sn-b > div > div.sx-c';
-
-
 
     self.thenOpen(adWordsUrl, function() {
         self.capture('renderings/adwords0.png');
@@ -91,13 +131,17 @@ function getTopics(self, endpoint, start, cb) {
                 self.capture('renderings/adwords1.png');
             },
             function onTimeout() {
-                self.echo('Initial opening of adwords timed out');
+                //TODO: this usually means the adwords cookie is invalid, needs new each day.
+                self.echo('Timed out, is adwords cookie valid?');
+                self.exit();
             },
             10000
         );
     });
 
     self.then(function() {
+        //TODO: In the screenshots the urls are declared as keywords, maybe
+        //TODO: find a way to make them declared as URLS?
         fillInputAndClick(self, endpoint);
     });
 

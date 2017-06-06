@@ -19,6 +19,10 @@ function buildProfileAsync(self, profile, clickMaxLinks, verify, cb) {
         self.echo("Could not find searchGoogleAndFollowLinkAsync function");
         self.exit(1);
     }
+    if(typeof getAds === 'undefined') {
+        self.echo("Could not find getAds function");
+        self.exit(1);
+    }
 
     var date = new Date();
     var records = {
@@ -27,7 +31,9 @@ function buildProfileAsync(self, profile, clickMaxLinks, verify, cb) {
         'searches': [],
         'googleLinks': [],
         'bases': [],
-        'end': ''
+        'end': '',
+        'adRecords': [],
+        'farmerTopic': profile.topic
     };
 
     loginToGoogleAsync(self, profile.email, profile.password);
@@ -46,6 +52,7 @@ function buildProfileAsync(self, profile, clickMaxLinks, verify, cb) {
         var matchUrl = baseUrl.split("://")[1];
         var captureString = matchUrl.split(".")[0] + "_" + matchUrl.split(".")[1];
 
+        //TODO: Sometimes this part doesnt get through timeouts
         self.then(function() {
             clickLinksAsync(self, matchUrl, 0, clickMaxLinks, baseUrl, captureString, 0, records, function(records) {
                 records = records;
@@ -61,6 +68,7 @@ function buildProfileAsync(self, profile, clickMaxLinks, verify, cb) {
             });
         });
 
+        //TODO: this part too. Maybe it is the searchGoogleAndFollowLinkAsync
         self.then(function() {
             searchGoogleAndFollowLinkAsync(self, matchUrl, profile.topic, captureString, records, function(records) {
                 records = records;

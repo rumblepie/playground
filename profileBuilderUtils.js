@@ -5,8 +5,7 @@ var addZero = function(i) {
     return i;
 };
 
-var mid = 6500;
-var high = 10000;
+var mid = 10000;
 var date = new Date();
 
 var getRecentAcitivtyEntriesAsync = function(self, recentActivity, records) {
@@ -85,17 +84,6 @@ var getRecentAcitivtyEntriesAsync = function(self, recentActivity, records) {
 };
 
 var compareRecentWithActual = function(self, recentActivityEntries, records) {
-    // self.echo("=======================================================================================");
-    // self.echo("Data recorded by us: ");
-    // self.echo(JSON.stringify(records, null, 2));
-    // fs.write("data_us.txt", JSON.stringify(records, null, 2), 'w');
-    // self.echo("==================================");
-    // self.echo("==================================");
-    // self.echo("Data recorded by Google: ");
-    // self.echo(JSON.stringify(recentActivityEntries, null, 2));
-    // fs.write("data_google.txt", JSON.stringify(recentActivityEntries, null, 2), 'w');
-    // self.echo("=======================================================================================");
-
     var matches = records.links.filter(function(record) {
         for(var i = 0; i < recentActivityEntries.length; i++) {
             if(recentActivityEntries[i].url.indexOf(record) > -1) {
@@ -174,15 +162,32 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
     var toBeClicked;
     var selector;
     var selectorCss;
+    var currentUrl;
 
     openBasePageAndMarkATagsAsync(self, base, matchUrl, captureString, records, function(val) {
         clickables = val;
     });
 
+    // Get ads
+    self.then(function() {
+        currentUrl = self.getCurrentUrl();
+        var adsRecord = self.evaluate(getAds, null, true, 0, null, records.farmerTopic);
+        self.then(function() {
+            if(adsRecord.length > 0) {
+                records.adRecords = records.adRecords.concat(adsRecord);
+            } else {
+                self.echo('Found no ads on basepage: ' + currentUrl);
+            }
+
+            self.echo(JSON.stringify(records.adRecords, null, 2));
+        });
+    });
+
     self.then(function() {
         if(clickables === null) {
             self.echo("Found no clickable links matching the criteria");
-            clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry);
+            // clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry, records, cb);
+            return;
         }
     });
 
@@ -205,25 +210,40 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
     });
 
     self.then(function() {
-        // self.capture("renderings/_preWait_" + captureString + "_"  + counter + '.png');
-        // self.echo("Clicked " + toBeClicked.href + " (number " + number + ")");
         self.wait(mid);
     });
 
     self.then(function() {
-        var currentUrl = self.getCurrentUrl();
-        if (currentUrl === toBeClicked.href) {
-            // self.echo("New url after clicking link: " + currentUrl);
-            self.capture("renderings/_" + captureString + "_"  + counter + '.png');
+        currentUrl = self.getCurrentUrl();
+        self.then(function() {
+            // Get ads again
+            var adsRecord = self.evaluate(getAds, null, true, 0, null, records.farmerTopic);
+            //TODO: How did adsRecord be null here?
             self.then(function() {
-                counter = counter + 1;
-                numTry = 0;
-                records.links.push(toBeClicked.href);
-                clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry);
+                if(adsRecord.length > 0) {
+                    records.adRecords = records.adRecords.concat(adsRecord);
+                } else {
+                    self.echo('Found no ads on ' + currentUrl);
+                }
+
+                self.echo(JSON.stringify(records.adRecords, null, 2));
             });
-        } else {
-            clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry);
-        }
+
+            self.then(function() {
+                // if (currentUrl === toBeClicked.href) {
+                self.capture("renderings/_" + captureString + "_"  + counter + '.png');
+                self.then(function() {
+                    counter = counter + 1;
+                    numTry = 0;
+                    records.links.push(toBeClicked.href);
+                    clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry, records, cb);
+                });
+                // } else {
+                //     self.echo('Expected ' + toBeClicked.href + ' but instead got ' + currentUrl + ', trying again.');
+                //     clickLinksAsync(self, matchUrl, counter, max, base, captureString, numTry, records, cb);
+                // }
+            });
+        });
     });
 
     self.then(function() {
@@ -241,9 +261,7 @@ var openBasePageAndMarkATagsAsync = function(self, baseUrl, matchUrl, captureStr
     });
 
     self.then(function() {
-        // self.echo("Base URL opened: " + baseUrl);
         records.bases.push(baseUrl);
-        // self.capture("renderings/_preWait_" + captureString + "_base.png");
         self.wait(mid);
     });
 
@@ -251,7 +269,7 @@ var openBasePageAndMarkATagsAsync = function(self, baseUrl, matchUrl, captureStr
         self.capture("renderings/_" + captureString + "_base.png");
 
         self.then(function() {
-            clickables = this.evaluate(function() {
+            clickables = self.evaluate(function() {
                 var elements = __utils__.findAll('a');
 
                 return elements.map(function(node, counter) {
@@ -286,7 +304,9 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
     var selector;
     var number;
 
-    self.open('http://www.google.com');
+    self.then(function() {
+        self.open('http://www.google.com');
+    });
 
     self.then(function() {
         self.wait(mid, function() {
@@ -300,7 +320,6 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
     self.then(function() {
         self.waitForSelector('form[action="/search"]', function() {
             q = matchUrl + " " + topic;
-            // self.echo("q value: " + q);
             self.fill('form[action="/search"]', { q: q }, true);
         });
     });
@@ -308,7 +327,6 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
     self.then(function() {
         self.wait(mid, function() {
             records.searches.push(q);
-            // self.echo("Waited " + mid + " ms after submitting Google search form");
             self.capture("renderings/_google_search_" + captureString + ".png");
         });
     });
@@ -319,13 +337,11 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
 
     self.then(function() {
         if (googleLinks.length < 1) {
-            // self.echo("Found no google links");
             return;
         }
 
         for(var k = 0; k < googleLinks.length; k++) {
             href = googleLinks[k].href;
-            // self.echo("Google link number " + k + ": " + href);
             if (href.indexOf("q=") > -1) {
                 href = href.split('q=')[1];
             }
@@ -335,24 +351,38 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
             }
         }
 
-        // self.echo("Got " + validGoogleLinks.length + " valid Google links");
         number = Math.floor(Math.random() * (validGoogleLinks.length - 0)) + 0;
         selector = 'a[sboGoogleLink="' + validGoogleLinks[number].counter + '"]';
 
     });
 
     self.then(function() {
-        // self.echo("Clicking " + validGoogleLinks[number].href);
         self.click(selector);
     });
 
     self.then(function() {
-        // self.capture("renderings/_google_link_preWait_" + captureString + "_"  + number + '.png');
         self.wait(mid);
     });
 
+    // Get ads
     self.then(function() {
-        // self.echo("Clicked on this link: " + validGoogleLinks[number].href + " (number " + number + ")");
+        var currentUrl = self.getCurrentUrl();
+        self.then(function() {
+            var adsRecord = self.evaluate(getAds, null, true, 0, null, records.farmerTopic);
+            self.then(function() {
+                if(adsRecord.length > 0) {
+                    records.adRecords = records.adRecords.concat(adsRecord);
+                } else {
+                    self.echo('Found no ads on google link page: ' + currentUrl);
+                }
+
+                self.echo(JSON.stringify(records.adRecords, null, 2));
+            });
+        });
+
+    });
+
+    self.then(function() {
         records.googleLinks.push(validGoogleLinks[number].href);
         self.capture("renderings/_google_link_" + captureString + "_"  + number + '.png');
     });

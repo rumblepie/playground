@@ -1,9 +1,14 @@
-function loginToGoogleAsync(self, username, password) {
+function loginToGoogleAsync(self, username, password, numTry) {
     var loginButtonFound;
+
+    if (numTry > 3) {
+        self.echo('Tried to login to Google 3 times, did not work');
+        self.exit(1);
+    }
 
     self.thenOpen("http://www.gooogle.com", function() {
         self.echo("Opened google.com");
-        self.wait(3000);
+        self.wait(8000);
     });
 
     self.then(function() {
@@ -14,7 +19,8 @@ function loginToGoogleAsync(self, username, password) {
 
                 if(text.indexOf("Log ind") > -1 || text.indexOf("Accedi") > -1 || text.indexOf("Login") > -1) {
                     console.log("Found login button!");
-                    aTags[i].click();
+                    aTags[i].setAttribute('sboClicker', 'clickME!');
+                    // aTags[i].click();
                     return;
                 }
             }
@@ -22,7 +28,11 @@ function loginToGoogleAsync(self, username, password) {
     });
 
     self.then(function() {
-        self.wait(3000);
+        self.wait(8000);
+
+        self.thenClick('a[sboClicker="clickME!"]', function() {
+            self.echo('Clicked login button!')
+        });
 
         self.then(function() {
             self.fillSelectors(
@@ -61,8 +71,19 @@ function loginToGoogleAsync(self, username, password) {
                     false
                 );
             } else {
-                self.echo('Could not find password form');
-                self.exit(1);
+                self.wait(5000, function() {
+                    if (self.exists(pwSelector)) {
+                        self.fillSelectors(
+                            pwSelector,
+                            { 'input[type=password]': password },
+                            false
+                        );
+                    } else {
+                        loginToGoogleAsync(self, username, password, numTry + 1);
+                        return;
+                    }
+                });
+
             }
         });
 
@@ -75,7 +96,7 @@ function loginToGoogleAsync(self, username, password) {
         self.then(function() {
             self.capture('renderings/_loginProcess_4.png');
             self.thenClick('div[id="passwordNext"]', function() {
-                self.wait(2000, function() {
+                self.wait(5000, function() {
                     self.capture('renderings/_loginProcess_5.png');
                 });
             });
