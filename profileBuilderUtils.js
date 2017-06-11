@@ -178,8 +178,6 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
             } else {
                 self.echo('Found no ads on basepage: ' + currentUrl);
             }
-
-            self.echo(JSON.stringify(records.adRecords, null, 2));
         });
     });
 
@@ -231,7 +229,7 @@ var clickLinksAsync = function(self, matchUrl, counter, max, base, captureString
 
             self.then(function() {
                 // if (currentUrl === toBeClicked.href) {
-                self.capture("renderings/_" + captureString + "_"  + counter + '.png');
+                // self.capture("renderings/_" + captureString + "_"  + counter + '.png');
                 self.then(function() {
                     counter = counter + 1;
                     numTry = 0;
@@ -266,7 +264,7 @@ var openBasePageAndMarkATagsAsync = function(self, baseUrl, matchUrl, captureStr
     });
 
     self.then(function() {
-        self.capture("renderings/_" + captureString + "_base.png");
+        // self.capture("renderings/_" + captureString + "_base.png");
 
         self.then(function() {
             clickables = self.evaluate(function() {
@@ -327,7 +325,7 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
     self.then(function() {
         self.wait(mid, function() {
             records.searches.push(q);
-            self.capture("renderings/_google_search_" + captureString + ".png");
+            // self.capture("renderings/_google_search_" + captureString + ".png");
         });
     });
 
@@ -384,7 +382,7 @@ var searchGoogleAndFollowLinkAsync = function(self, matchUrl, topic, captureStri
 
     self.then(function() {
         records.googleLinks.push(validGoogleLinks[number].href);
-        self.capture("renderings/_google_link_" + captureString + "_"  + number + '.png');
+        // self.capture("renderings/_google_link_" + captureString + "_"  + number + '.png');
     });
 
     self.then(function() {

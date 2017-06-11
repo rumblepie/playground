@@ -39,7 +39,6 @@ function fillInputAndClick(self, endpoint) {
                 if(divs[i].childNodes[0].innerText == "Enter keywords, topics, or sites") {
                     divs[i].childNodes[1].value = endpoint;
                     input = divs[i].childNodes[1];
-                    divs[i].childNodes[1].setAttribute('sboInputAtt', 'sboInputAttVal');
                     break;
                 }
             }
@@ -66,94 +65,59 @@ function fillInputAndClick(self, endpoint) {
 
         }
     }, endpoint);
-
-    // self.then(function() {
-    //     self.sendKeys(
-    //         'input[class]',
-    //         endpoint,
-    //         {
-    //             keepFocus: true,
-    //         }
-    //     );
-    // });
-    //
-    // self.then(function() {
-    //     self.capture('renderings/adwords3.png');
-    // });
-
-    // self.then(function() {
-    //     self.evaluate(function() {
-    //         var event = document.createEvent('Event');
-    //         event.initEvent('keyup', true, true);
-    //         input.dispatchEvent(event);
-    //
-    //         // var event2 = document.createEvent('Event');
-    //         // event2.keyCode = 13;
-    //         // input.dispatchEvent(event);
-    //
-    //         var buttons = document.getElementsByTagName('button');
-    //
-    //         for(var i = 0; i < buttons.length; i++) {
-    //             if(buttons[i].childNodes.length > 0) {
-    //                 if(buttons[i].childNodes[0].innerText != undefined) {
-    //                     if(buttons[i].childNodes[0].innerText == 'Get ad group ideas') {
-    //                         buttons[i].click();
-    //                     }
-    //                 }
-    //             }
-    //
-    //         }
-    //     });
-    // });
 }
 
 //TODO: Sometimes timeouts seem to break this function
 //TODO: This happened when the cookie was no good. It might be that a login is needed instead of cookie uses.
 function getTopics(self, endpoint, start, cb) {
     if(start) {
+        self.echo('Initializing');
         init(self);
     } else {
         self.clear();
+        self.echo('Cleared context');
     }
 
     var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
     var initSelector = '#root > div.sm-c > div:nth-child(2) > div > div.sn-e.sn-b > div > div.sx-c';
 
-    self.thenOpen(adWordsUrl, function() {
-        self.capture('renderings/adwords0.png');
+    self.then(function() {
+        self.open(adWordsUrl);
+    });
+
+    self.then(function() {
+        self.echo('First capture');
+        // self.capture('renderings/adwords0.png');
     });
 
     self.then(function() {
         self.echo('Getting topics for: ' + endpoint);
-        self.waitForSelector(
-            initSelector,
-            function then() {
-                self.capture('renderings/adwords1.png');
-            },
-            function onTimeout() {
-                //TODO: this usually means the adwords cookie is invalid, needs new each day.
-                self.echo('Timed out, is adwords cookie valid?');
-                self.exit();
-            },
-            10000
-        );
+        self.wait(8000);
     });
 
     self.then(function() {
-        //TODO: In the screenshots the urls are declared as keywords, maybe
-        //TODO: find a way to make them declared as URLS?
+        // self.capture('renderings/adwords1.png');
+        if(!self.exists(initSelector)) {
+            self.echo('The init selector was not found, exiting. Check that the adwords cookie is up to date');
+            self.exit(1);
+        }
+    });
+
+    self.then(function() {
         fillInputAndClick(self, endpoint);
     });
 
     self.then(function() {
-        self.wait(8000, function() {
-            self.capture('renderings/adwords2.png');
+        self.wait(15000, function() {
+            // self.capture('renderings/adwords2.png');
         });
     });
 
     self.then(function() {
         var topics = parseTopicsPage(self);
         self.then(function() {
+            self.echo('Topics for ' + endpoint + ':');
+            self.echo(JSON.stringify(topics, null, 2));
             cb(topics);
         });
     });

@@ -5,6 +5,9 @@ var express = require('express');
 var app = express();
 var path = require('path');
 var fs = require('fs');
+var bodyParser = require('body-parser');
+app.use(bodyParser.json()); // support json encoded bodies
+app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 
 app.use(express.static('public'));
 
@@ -17,12 +20,49 @@ app.get('/timeit', function(req, res) {
     res.sendFile(path.join(__dirname + '/timeIt.html'));
 });
 
+app.post('/timeit', function(req, res) {
+    console.log(JSON.stringify(req.body, null, 2));
+});
+
+
+// [
+//     {
+//         "basePage": "https://www.ethiojobs.net/display-job/134286/CMAM-Officer.html",
+//         "farmerTopic": "Jobs & Education",
+//         "resources": [
+//             "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7074369893259244581"
+//         ],
+//         "lpu": "http://kalkfrithjem.bwt.dk/brochure/",
+//         "type": "targeted"
+//     },
+//     {
+//         "basePage": "https://www.ethiojobs.net/display-job/134286/CMAM-Officer.html",
+//         "farmerTopic": "Jobs & Education",
+//         "resources": [
+//             "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4449122408996046725"
+//         ],
+//         "lpu": "http://www.vtapersolution.com/avoid",
+//         "type": "targeted"
+//     }
+// ]
 app.get('/adUrls', function(req, res) {
-    fs.readFile(__dirname + '/imageAdUrls.txt', 'utf8', function (err,data) {
+    fs.readFile(__dirname + '/files/_mostRecentAds.txt', 'utf8', function (err,data) {
         if (err) {
             return console.log(err);
         }
-        console.log(data);
+
+        res.setHeader('Content-Type', 'application/json');
+        res.send(data);
+    });
+});
+
+app.get('/topics', function(req, res) {
+    fs.readFile(__dirname + '/files/topics.txt', 'utf8', function (err,data) {
+        if (err) {
+            return console.log(err);
+        }
+
+        res.setHeader('Content-Type', 'application/json');
         res.send(data);
     });
 });

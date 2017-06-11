@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <title>Image inference through caching</title>
     <input type="checkbox" name="vehicle" value="Car" id="isCookie">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/async/2.4.1/async.js"></script>
 </head>
 <body>
 <script type="text/javascript">
+    var adRecords;
+    var cachedResources = [];
+    var cachedRecords = [];
+
 
     function httpGetAsync(theUrl, callback)
     {
@@ -19,43 +24,129 @@
         xmlHttp.send(null);
     }
 
-    httpGetAsync('/adUrls', function(response) {
-        var urls = response.split('\n');
+    function getInterests() {
+        console.log("Getting interests");
+        httpGetAsync('/topics', function(response) {
+            var topics = JSON.parse(response);
 
-        urls.forEach(function(url, counter) {
-            var xmlHttp1 = new XMLHttpRequest();
-            var xmlHttp2 = new XMLHttpRequest();
+            var shopping = topics['Shopping']['alikeTopics'].toLowerCase().split(' > ');
+            var jobsAndEducation = topics['Jobs & Education']['alikeTopics'].toLowerCase().split(' > ');
 
-            xmlHttp1.onreadystatechange = function() {
-                if (xmlHttp1.readyState == 4 && xmlHttp1.status == 200) {
-                    xmlHttp2.open("GET", url, true); // true for asynchronous
-                    xmlHttp2.send(null);
+            var isShopper = 0;
+            var isJobs = 0;
+
+            cachedRecords.map(function(record) {
+                var allAdTopics = record.allTopics.toLowerCase().split(': ')[1].split(' > ');
+                var intersection = shopping.filter(function(topic) {
+                    return allAdTopics.indexOf(topic) > -1;
+                });
+
+                console.log("shopping topics of user: ");
+                console.log(JSON.stringify(intersection, null, 2));
+                isShopper += intersection.length;
+
+                var intersection2 = jobsAndEducation.filter(function(topic) {
+                    return allAdTopics.indexOf(topic) > -1;
+                });
+
+                console.log("jobs & education topics of user: ");
+                console.log(JSON.stringify(intersection2, null, 2));
+                isJobs += intersection2.length;
+            });
+
+            if ((isJobs === 0 && isShopper === 0) || (isJobs === isShopper)) {
+                console.log("Could not classify user either because there were no topic matches," +
+                    " or because there were an equal amount of topic matches");
+            } else {
+                if (isShopper > isJobs) {
+                    console.log("==============================");
+                    console.log("");
+                    console.log("");
+                    console.log("");
+                    console.log("The user has been classified as a shopper");
+                    console.log("Number of shopping topics intersected with user ad topics: " + isShopper);
+                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
+                    console.log("");
+                    console.log("");
+                    console.log("");
+                    console.log("==============================");
+                } else {
+                    console.log("==============================");
+                    console.log("");
+                    console.log("");
+                    console.log("");
+                    console.log("The user has been classified as a jobs and education");
+                    console.log("Number of jobs and education topics intersected with user ad topics: " + isJobs);
+                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
+                    console.log("");
+                    console.log("");
+                    console.log("");
+                    console.log("==============================");
                 }
-            };
+            }
+        });
+    }
 
-            xmlHttp2.onreadystatechange = function() {
-                if (xmlHttp2.readyState == 4 && xmlHttp2.status == 200) {
-                    var current = window.performance.getEntries().filter(function(entry) {
-                        if (entry.name === url) {
-                            return true;
+    function timeAds(records, index) {
+//        console.log("Current index: " + index);
+        if (index === records.length) {
+            getInterests();
+            return;
+        }
+
+        var currentRecord = records[index];
+
+        if (currentRecord.type === 'targeted') {
+            async.mapSeries(currentRecord.resources, function(ucr, cb) {
+                var url = ucr.replace(/\/\//gi, '/').replace(/:\//gi, '://').replace(/\\/gi, '');
+                httpGetAsync(url, function() {
+                    httpGetAsync(url, function() {
+                        var current = window.performance.getEntries().filter(function(entry) {
+                            var entryUrl = entry.name;
+                            if (entryUrl === url) {
+                                return true;
+                            }
+                        });
+
+                        if (current.length == 2) {
+                            console.log("difference: " + Math.abs(current[0].duration - current[1].duration));
+                            if (Math.abs(current[0].duration - current[1].duration) > 10) {
+//                                console.log("This url was NOT cached: " + current[0].name);
+                                cb(null, false);
+                            } else {
+//                                console.log("This url WAS cached: " + current[0].name);
+                                cb(null, true);
+                            }
+
+                        } else {
+                            console.log("Didnt find any entries");
+                            cb(null, false);
                         }
                     });
-
-                    if (current.length == 2) {
-                        console.log("difference: " + Math.abs(current[0].duration - current[1].duration));
-                        if (Math.abs(current[0].duration - current[1].duration) > 15) {
-                            console.log("This url was NOT cached: " + url);
-                        } else {
-                            console.log("This url WAS cached: " + url);
-                        }
+                });
+            }, function(err, result) {
+                var wasOneOfThemCached = result.filter(function(res) {
+                    if (res) {
+                        return true;
                     }
-                }
-            };
+                });
 
-            xmlHttp1.open("GET", url, true); // true for asynchronous
-            xmlHttp1.setRequestHeader("Accept","text/plain");
-            xmlHttp1.send(null);
-        });
+                if (wasOneOfThemCached.length > 0) {
+                    currentRecord['wasCached'] = true;
+                    cachedRecords.push(currentRecord);
+                }
+
+                timeAds(records, index + 1);
+            });
+        } else {
+            timeAds(records, index + 1);
+        }
+    }
+
+    httpGetAsync('/adUrls', function(response) {
+        var allRecords = JSON.parse(response);
+//        console.log(JSON.stringify(allRecords, null, 2));
+        timeAds(allRecords.adRecords, 0);
     });
 
 </script>

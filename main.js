@@ -31,11 +31,11 @@ var casper = require('casper').create({
 
 // Helpful debugging settings
 casper.on('remote.message', function(msg) {
-    this.echo('remote message caught: ' + msg);
+    this.echo('Page console: ' + msg);
 });
 
 casper.on("page.error", function(msg, trace) {
-    this.echo("Error: " + msg, "ERROR");
+    this.echo("Page error: " + msg, "ERROR");
 });
 
 // External
@@ -53,7 +53,10 @@ var clickLinksAsync = require("profileBuilderUtils").clickLinksAsync;
 var searchGoogleAndFollowLinkAsync = require("profileBuilderUtils").searchGoogleAndFollowLinkAsync;
 var getTopics = require('getTopics').getTopics;
 var readCookies = require('commonUtils').readCookies;
+var squashRecords = require('commonUtils').squashRecords;
 var buildProfileAsync = require('buildProfileAsync').buildProfileAsync;
+var filterAdvertisement = require('filterAdvertisement').filterAdvertisement;
+var filterAdRecords = require('filterAdvertisement').filterAdRecords;
 
 // CLI checks
 var profiles = casper.cli.get('profiles');
@@ -82,32 +85,119 @@ casper.start('http://localhost:7777');
 
 casper.then(function() {
     var prof = profiles.filter(function(elem) {
-         return elem.email === 'kildevaeld500@gmail.com';
+         // return elem.email === 'crescente.pisano@lab.imtlucca.it';
+         return elem.email === 'simontravel500@gmail.com';
+         // return elem.email === 'kildevaeld500@gmail.com';
     });
 
-    buildProfileAsync(this, prof[0], 1, true, function(records, matchesAndDifference) {
+    var self = this;
+
+    buildProfileAsync(this, prof[0], 5, false, function(records, matchesAndDifference) {
         __records = records;
+        __records.adRecords = squashRecords(__records.adRecords);
         __matchesAndDifference = matchesAndDifference;
     });
 
+    var testRecords = {
+        "start": "18:34",
+        "links": [
+            "https://www.ethiojobs.net/browse-by-category/Veterinary%20Services/",
+            "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+            "https://www.ethiojobs.net/employers/",
+            "https://www.ethiojobs.net/job-alerts/"
+        ],
+        "searches": [
+            "ethiojobs.net Jobs & Education"
+        ],
+        "googleLinks": [
+            "http://www.ethiojobs.net/display-job/44005/Education-Facilitator.html"
+        ],
+        "bases": [
+            "http://ethiojobs.net",
+            "http://ethiojobs.net",
+            "http://ethiojobs.net",
+            "http://ethiojobs.net"
+        ],
+        "end": "18:39",
+        "adRecords": {
+            "keys": [
+                "http://www.banknorwegian.dk/Kreditkort",
+                "http://www.danmark.date/campaign",
+                "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem",
+                "http://www.russiamatches.com/go.php"
+            ],
+            "http://www.banknorwegian.dk/Kreditkort": {
+                "basePage": "https://www.ethiojobs.net/browse-by-category/Veterinary%20Services/",
+                "farmerTopic": "Jobs & Education",
+                "resources": [
+                    "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1263894042562448091"
+                ],
+                "lpu": "http://www.banknorwegian.dk/Kreditkort"
+            },
+            "http://www.danmark.date/campaign": {
+                "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+                "farmerTopic": "Jobs & Education",
+                "resources": [
+                    "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18077008196975770224"
+                ],
+                "lpu": "http://www.danmark.date/campaign"
+            },
+            "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem": {
+                "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+                "farmerTopic": "Jobs & Education",
+                "resources": [
+                    "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5823642904699370402"
+                ],
+                "lpu": "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem"
+            },
+            "http://www.russiamatches.com/go.php": {
+                "basePage": "http://www.ethiojobs.net/display-job/44005/Education-Facilitator.html",
+                "farmerTopic": "Jobs & Education",
+                "resources": [
+                    "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/16913216721130494142"
+                ],
+                "lpu": "http://www.russiamatches.com/go.php"
+            }
+        },
+        "farmerTopic": "Jobs & Education"
+    };
+
     this.then(function() {
-        this.echo('Got the following record: ');
         this.echo(JSON.stringify(__records, null, 2));
-        this.echo("");
-        this.echo("");
-        this.echo("");
-        this.echo("");
-        this.echo("");
-        this.echo("");
-        this.echo("");
-        this.echo('Got the following matches and differences: ');
-        this.echo(JSON.stringify(__matchesAndDifference, null, 2));
+        this.echo('Filtering advertisements');
+        var self = this;
+        // filterAdRecords(this, testRecords.adRecords, function(result) {
+        filterAdRecords(this, __records.adRecords, function(result) {
+            self.echo('filtered advertisements: ');
+            self.echo(JSON.stringify(result, null, 2));
+            fs.write('files/' + Date.now() + '_' + prof[0].email + '_ads.txt', JSON.stringify(result, null, 2), 'w');
+            fs.write('files/_mostRecentAds.txt', JSON.stringify(result, null, 2), 'w');
+            self.then(function() {
+                self.exit(0);
+            });
+        });
     });
+
+
+
+    // this.then(function() {
+    //     this.echo('Got the following matches and differences: ');
+    //     this.echo(JSON.stringify(__matchesAndDifference, null, 2));
+    //     this.echo("");
+    //     this.echo("");
+    //     this.echo("");
+    //     this.echo("");
+    //     this.echo("");
+    //     this.echo("");
+    //     this.echo("");
+    //     this.echo('Got the following record: ');
+    //     this.echo(JSON.stringify(__records, null, 2));
+    // });
 });
 
 // casper.then(function() {
-//     getTopics(this, 'https://eqagqegadvaedgfaegegfasdggqegqegqg.com', true, function(topics) {
-//     // getTopics(this, 'https://pages.plantronics.com/easier-engagement-dk.html', true, function(topics) {
+//     // getTopics(this, 'https://eqagqegadvaedgfaegegfasdggqegqegqg.com', true, function(topics) {
+//     getTopics(this, 'http://www.russiamatches.com/go.php', true, function(topics) {
 //         __topics = topics;
 //     });
 //     this.then(function() {

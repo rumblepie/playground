@@ -36,7 +36,7 @@ function buildProfileAsync(self, profile, clickMaxLinks, verify, cb) {
         'farmerTopic': profile.topic
     };
 
-    loginToGoogleAsync(self, profile.email, profile.password);
+    loginToGoogleAsync(self, profile.email, profile.password, 0);
     self.then(function() {
         self.echo("Logged in to Google");
     });

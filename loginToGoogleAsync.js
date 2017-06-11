@@ -1,7 +1,9 @@
 function loginToGoogleAsync(self, username, password, numTry) {
     var loginButtonFound;
+    var wasRecursive = false;
+    self.echo('Google login try number: ' + numTry);
 
-    if (numTry > 3) {
+    if (numTry > 6) {
         self.echo('Tried to login to Google 3 times, did not work');
         self.exit(1);
     }
@@ -80,7 +82,9 @@ function loginToGoogleAsync(self, username, password, numTry) {
                         );
                     } else {
                         loginToGoogleAsync(self, username, password, numTry + 1);
-                        return;
+                        self.then(function() {
+                            wasRecursive = true;
+                        });
                     }
                 });
 
@@ -88,17 +92,38 @@ function loginToGoogleAsync(self, username, password, numTry) {
         });
 
         self.then(function() {
-            self.wait(2000, function() {
-                self.capture('renderings/_loginProcess_3.png');
-            });
+            if (!wasRecursive) {
+                self.wait(5000, function() {
+                    self.capture('renderings/_loginProcess_3.png');
+                });
+            }
         });
 
         self.then(function() {
-            self.capture('renderings/_loginProcess_4.png');
-            self.thenClick('div[id="passwordNext"]', function() {
-                self.wait(5000, function() {
-                    self.capture('renderings/_loginProcess_5.png');
-                });
+            if (!wasRecursive) {
+                self.capture('renderings/_loginProcess_4.png');
+                if (self.exists('div[id="passwordNext"]')) {
+                    self.evaluate(function() {
+                        document.querySelector('div[id="passwordNext"]').click();
+                    });
+                    self.then(function() {
+                        self.wait(5000, function() {
+                            self.capture('renderings/_loginProcess_5.png');
+                        });
+                    });
+                } else {
+                    loginToGoogleAsync(self, username, password, numTry + 1);
+                    self.then(function() {
+                        wasRecursive = true;
+                    });
+                }
+            }
+        });
+
+        self.then(function() {
+            self.open('http://google.com');
+            self.then(function() {
+                self.capture('renderings/_login_on_google.png');
             });
         });
     });

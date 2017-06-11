@@ -1,51 +1,55 @@
 function readCookies(self, cookiesFileName) {
-    if (!cookiesFileName) {
-        self.echo("You need to supply the name of a cookies file like --cookies=<cookiesFileName>");
-        self.exit(1);
-    } else {
-        if(typeof fs === 'undefined') {
-            self.echo("Could not find fs function");
+    self.then(function() {
+        if (!cookiesFileName) {
+            self.echo("You need to supply the name of a cookies file like --cookies=<cookiesFileName>");
             self.exit(1);
-        }
-
-        if(typeof phantom === 'undefined') {
-            self.echo("Phantomjs must be available in scope");
-            self.exit(1);
-        }
-
-        if (fs.exists(cookiesFileName)) {
-            self.echo("Reading " + cookiesFileName + " file");
-            var cookiesNetscape = fs.read(cookiesFileName).split('\n');
-            for(var i = 0; i < cookiesNetscape.length; i++) {
-                var line = cookiesNetscape[i];
-                if (line.substring(0,1) === '#' || !line) {
-                    continue;
-                }
-
-                var fields = line.split('\t');
-
-                if(fields.length > 7) {
-                    self.echo("> 7 fields detected, check the format of the cookies file");
-                    self.exit(1);
-                }
-
-                var cookie = {
-                    domain: fields[0],
-                    flag: fields[1],
-                    path: fields[2],
-                    secure: fields[3],
-                    expiration: fields[4],
-                    name: fields[5],
-                    value: fields[6],
-                };
-
-                phantom.addCookie(cookie);
-            }
         } else {
-            self.echo("You need to have " + cookiesFileName + " in the folder where this script is located.");
-            self.exit(1);
+            if(typeof fs === 'undefined') {
+                self.echo("Could not find fs function");
+                self.exit(1);
+            }
+
+            if(typeof phantom === 'undefined') {
+                self.echo("Phantomjs must be available in scope");
+                self.exit(1);
+            }
+
+            if (fs.exists(cookiesFileName)) {
+                self.echo("Reading " + cookiesFileName + " cookies file");
+                var cookiesNetscape = fs.read(cookiesFileName).split('\n');
+                for(var i = 0; i < cookiesNetscape.length; i++) {
+                    var line = cookiesNetscape[i];
+                    if (line.substring(0,1) === '#' || !line) {
+                        continue;
+                    }
+
+                    var fields = line.split('\t');
+
+                    if(fields.length > 7) {
+                        self.echo("> 7 fields detected, check the format of the cookies file");
+                        self.exit(1);
+                    }
+
+                    var cookie = {
+                        domain: fields[0],
+                        flag: fields[1],
+                        path: fields[2],
+                        secure: fields[3],
+                        expiration: fields[4],
+                        name: fields[5],
+                        value: fields[6],
+                    };
+
+                    phantom.addCookie(cookie);
+                }
+
+                self.echo('Done reading cookie');
+            } else {
+                self.echo("You need to have " + cookiesFileName + " in the folder where this script is located.");
+                self.exit(1);
+            }
         }
-    }
+    });
 };
 
 var getAbsoluteUrl = (function() {
@@ -108,10 +112,13 @@ function getAds(frames, start, index, result, farmerTopic) {
         var match = ucrRegexes[i].exec(domHTML);
 
         if (match) {
-            var ucrMatch = match[2];
-            var lastPart = ucrMatch.substr(ucrMatch.length - 3);
+            if (i === 2) {
+                console.log("Got this UCR match: ");
+                console.log(JSON.stringify(match, null, 2));
+            }
+            var lastPart = match[2].substr(match[2].length - 3);
             if(lastPart !== '.js') {
-                advertisement.ucr = ucrMatch;
+                advertisement.ucr = match[2];
                 break;
             }
         }
@@ -122,6 +129,12 @@ function getAds(frames, start, index, result, farmerTopic) {
         var match = lpuRegexes[k].exec(domHTML);
 
         if (match) {
+            if (i === 2) {
+                console.log("Got this LPU match: ");
+                console.log(JSON.stringify(match, null, 2));
+                console.log(domHTML);
+            } else {
+            }
             advertisement.lpu = match[2];
         }
     }
@@ -180,7 +193,8 @@ function lookForAdSingle(frames, resources, index, result) {
 function findAd(self, resources, basePage, counter, result, cb) {
     var reloadPageMaxTimes = 10;
 
-    self.echo('current result: ' + result);
+    self.echo('Looking for these ads: ');
+    self.echo(JSON.stringify(resources, null, 2));
 
     if (!resources) {
         cb(null);
@@ -194,7 +208,7 @@ function findAd(self, resources, basePage, counter, result, cb) {
 
     self.thenOpen(basePage, function() {
         self.wait(10000, function() {
-            self.capture('renderings/findAd_' + counter + '.png');
+            // self.capture('renderings/findAd_' + counter + '.png');
             var numTimes = self.evaluate(lookForAdSingle, null, resources, 0, null);
 
             self.then(function() {
@@ -212,12 +226,34 @@ function findAd(self, resources, basePage, counter, result, cb) {
     });
 }
 
+
+
+// ISSUES:
+// "http://www.panelsog.net/": {
+//     "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+//         "farmerTopic": "Jobs & Education",
+//         "resources": [
+//         "https://tpc.googlesyndication.com/daca_images/simgad/5974313596689456236?w=400&amp;h=209"
+//     ],
+//         "lpu": "http://www.panelsog.net/"
+// },
+// "http://www.panelsog.net": {
+//     "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+//         "farmerTopic": "Jobs & Education",
+//         "resources": [
+//         "https://tpc.googlesyndication.com/simgad/6057923849749272892"
+//     ],
+//         "lpu": "http://www.panelsog.net"
+// },
 function squashRecords(adRecords) {
     var result = {'keys': []};
 
     adRecords.map(function(record) {
+        record.ucr = record.ucr.split('?')[0].replace(/\//g, '\\/');
+
+
+        //TODO: take into consideration that an ad can be displayed on multiple basepages
         if (result[record.lpu]) {
-            record.ucr = record.ucr.split('?')[0].replace(/\//g, '\\/');
             if (!(result[record.lpu].resources.indexOf(record.ucr) > -1)) {
                 result[record.lpu].resources.push(record.ucr);
             }
