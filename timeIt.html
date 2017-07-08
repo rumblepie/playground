@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Image inference through caching</title>
+    <title>Get your interests!</title>
     <input type="checkbox" name="vehicle" value="Car" id="isCookie">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/async/2.4.1/async.js"></script>
 </head>
@@ -31,59 +31,105 @@
 
             var shopping = topics['Shopping']['alikeTopics'].toLowerCase().split(' > ');
             var jobsAndEducation = topics['Jobs & Education']['alikeTopics'].toLowerCase().split(' > ');
+            var sports = topics['Sports']['alikeTopics'].toLowerCase().split(' > ');
 
             var isShopper = 0;
             var isJobs = 0;
+            var isSports = 0;
 
-            cachedRecords.map(function(record) {
-                var allAdTopics = record.allTopics.toLowerCase().split(': ')[1].split(' > ');
-                var intersection = shopping.filter(function(topic) {
-                    return allAdTopics.indexOf(topic) > -1;
-                });
+            var counted = {};
+            var top = {};
 
-                console.log("shopping topics of user: ");
-                console.log(JSON.stringify(intersection, null, 2));
-                isShopper += intersection.length;
+            cachedRecords.map(function(record, index) {
+                if (index === 0) {
+                    console.log("<======: You are interested in: :======>");
+                }
+                var allAdTopics = record.allTopics.split(': ')[1].split(' > ');
+                var toplevelTopic = allAdTopics[0];
 
-                var intersection2 = jobsAndEducation.filter(function(topic) {
-                    return allAdTopics.indexOf(topic) > -1;
-                });
-
-                console.log("jobs & education topics of user: ");
-                console.log(JSON.stringify(intersection2, null, 2));
-                isJobs += intersection2.length;
+                if (top[toplevelTopic]) {
+                    top[toplevelTopic] += 1;
+                } else {
+                    top[toplevelTopic] = 1;
+                }
+//                var allAdTopics = record.allTopics.toLowerCase().split(': ')[1].split(' > ');
+//                var intersection = shopping.filter(function(topic) {
+//                    return allAdTopics.indexOf(topic) > -1;
+//                });
+//
+//                console.log("Shopping topics of user: ");
+//                console.log(JSON.stringify(intersection, null, 2));
+//                isShopper += intersection.length;
+//
+//                var intersection2 = jobsAndEducation.filter(function(topic) {
+//                    return allAdTopics.indexOf(topic) > -1;
+//                });
+//
+//                console.log("Jobs & Education topics of user: ");
+//                console.log(JSON.stringify(intersection2, null, 2));
+//                isJobs += intersection2.length;
+//
+//                var intersection3 = sports.filter(function(topic) {
+//                    return allAdTopics.indexOf(topic) > -1;
+//                });
+//
+//                console.log("Sports topics of user: ");
+//                console.log(JSON.stringify(intersection3, null, 2));
+//                isSports += intersection3.length;
+                if (counted[record.headTopics]) {
+                    counted[record.headTopics] += 1;
+                } else {
+                    counted[record.headTopics] = 1;
+                }
             });
 
-            if ((isJobs === 0 && isShopper === 0) || (isJobs === isShopper)) {
-                console.log("Could not classify user either because there were no topic matches," +
-                    " or because there were an equal amount of topic matches");
-            } else {
-                if (isShopper > isJobs) {
-                    console.log("==============================");
-                    console.log("");
-                    console.log("");
-                    console.log("");
-                    console.log("The user has been classified as a shopper");
-                    console.log("Number of shopping topics intersected with user ad topics: " + isShopper);
-                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
-                    console.log("");
-                    console.log("");
-                    console.log("");
-                    console.log("==============================");
-                } else {
-                    console.log("==============================");
-                    console.log("");
-                    console.log("");
-                    console.log("");
-                    console.log("The user has been classified as a jobs and education");
-                    console.log("Number of jobs and education topics intersected with user ad topics: " + isJobs);
-                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
-                    console.log("");
-                    console.log("");
-                    console.log("");
-                    console.log("==============================");
-                }
-            }
+            console.log(JSON.stringify(counted, null, 2));
+            console.log(JSON.stringify(top, null, 2));
+
+//            if ((isJobs === 0 && isShopper === 0 && isSports === 0) || (isJobs === isShopper === isSports)) {
+//                console.log("Could not classify user either because there were no topic matches," +
+//                    " or because there were an equal amount of topic matches");
+//            } else {
+//                if (Math.max(isSports, isJobs, isShopper) === isShopper) {
+//                    console.log("==============================");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("The user has been classified as a Shopper");
+//                    console.log("Number of shopping topics intersected with user ad topics: " + isShopper);
+//                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
+//                    console.log("");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("==============================");
+//                }
+//                if (Math.max(isSports, isJobs, isShopper) === isJobs) {
+//                    console.log("==============================");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("The user has been classified as interested in Jobs & Education");
+//                    console.log("Number of jobs and education topics intersected with user ad topics: " + isJobs);
+//                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
+//                    console.log("");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("==============================");
+//                }
+//                if (Math.max(isSports, isJobs, isShopper) === isSports) {
+//                    console.log("==============================");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("The user has been classified as a Sports enthusiast");
+//                    console.log("Number of Sports topics intersected with user ad topics: " + isSports);
+//                    console.log("Actual user interests: " + cachedRecords[0].farmerTopic);
+//                    console.log("");
+//                    console.log("");
+//                    console.log("");
+//                    console.log("==============================");
+//                }
+//            }
         });
     }
 

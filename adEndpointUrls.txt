@@ -1,0 +1,5 @@
+[
+	"www.sherdog.com",
+	"www.test.com",
+	"www.monadsproject.com"
+]

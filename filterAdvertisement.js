@@ -162,6 +162,19 @@ function filterAdvertisement(self, advertisement, basePageTopics, cb) {
 // Filters all the advertisements in the adRecords
 function filterAdRecords(self, adRecords, cb) {
     var result = {'basePages': {}, 'adRecords': []};
+    var topicsStructure;
+    var topicsStructureFilePath = casper.cli.get('topicsStructure');
+    if (!topicsStructureFilePath) {
+        self.echo('You must supply a --topicsStructure');
+        self.exit(1);
+    } else {
+        if (!fs.exists(topicsStructureFilePath)) {
+            casper.echo('Could not find the topicsStructure file');
+            self.exit(1);
+        }
+
+        topicsStructure = JSON.parse(fs.read(topicsStructureFilePath));
+    }
 
     self.clear();
     phantom.clearCookies();
@@ -175,33 +188,60 @@ function filterAdRecords(self, adRecords, cb) {
         readCookies(self, adWordsCookieFileName);
     }
 
-
     self.eachThen(adRecords.keys, function(response) {
         var adRecordKey = response.data;
         var adRecord = adRecords[adRecordKey];
         self.echo('Working on ' + adRecordKey);
 
-        getTopics(self, adRecord.lpu, false, function (topics) {
-            if (topics) {
-                adRecord['allTopics'] = topics.allTopics;
-                adRecord['headTopics'] = topics.headTopics;
-            } else {
-                adRecord['allTopics'] = null;
-                adRecord['headTopics'] = null;
-            }
-        });
+        if (topicsStructure[adRecord.lpu]) {
+            self.echo('Found ' + adRecord.lpu + ' in topicsStructure cache');
+            adRecord['allTopics'] = topicsStructure[adRecord.lpu].allTopics;
+            adRecord['headTopics'] = topicsStructure[adRecord.lpu].headTopics;
+        }
+        else {
+            getTopics(self, adRecord.lpu, false, function (topics) {
+                topicsStructure[adRecord.lpu] = {};
+
+                //TODO: This is suboptimal, because Google's classification of a site can change, and now I wont catch
+                //TODO: this change. However it is necessary because of the Display Planner rate limit
+                if (topics) {
+                    adRecord['allTopics'] = topics.allTopics;
+                    adRecord['headTopics'] = topics.headTopics;
+                    topicsStructure[adRecord.lpu]['allTopics'] = topics.allTopics;
+                    topicsStructure[adRecord.lpu]['headTopics'] = topics.headTopics;
+                } else {
+                    topicsStructure[adRecord.lpu]['allTopics'] = null;
+                    topicsStructure[adRecord.lpu]['headTopics'] = null;
+                    adRecord['allTopics'] = null;
+                    adRecord['headTopics'] = null;
+                }
+            });
+        }
+
+
 
         self.then(function() {
             self.echo(JSON.stringify(result, null, 2));
-            if (!result.basePages[adRecord.basePage]) {
+            if (topicsStructure[adRecord.basePage]) {
+                self.echo('Found ' + adRecord.basePage + ' in topicsStructure cache');
                 result.basePages[adRecord.basePage] = {};
+                result.basePages[adRecord.basePage]['allTopics'] = topicsStructure[adRecord.basePage].allTopics;
+                result.basePages[adRecord.basePage]['headTopics'] = topicsStructure[adRecord.basePage].headTopics;
+            }
+            else {
+                result.basePages[adRecord.basePage] = {};
+                topicsStructure[adRecord.basePage] = {};
                 getTopics(self, adRecord.basePage, false, function (topics) {
                     if (topics) {
                         result.basePages[adRecord.basePage]['allTopics'] = topics.allTopics;
                         result.basePages[adRecord.basePage]['headTopics'] = topics.headTopics;
+                        topicsStructure[adRecord.basePage]['allTopics'] = topics.allTopics;
+                        topicsStructure[adRecord.basePage]['headTopics'] = topics.headTopics;
                     } else {
                         result.basePages[adRecord.basePage]['allTopics'] = null;
                         result.basePages[adRecord.basePage]['headTopics'] = null;
+                        topicsStructure[adRecord.basePage]['allTopics'] = null;
+                        topicsStructure[adRecord.basePage]['headTopics'] = null;
                     }
                 });
             }
@@ -209,9 +249,12 @@ function filterAdRecords(self, adRecords, cb) {
     });
 
     self.then(function() {
-        self.echo('Clearing cookies before new login');
-        self.clear();
-        phantom.clearCookies();
+        fs.write('files/topicsStructure.txt', JSON.stringify(topicsStructure, null, 2), 'w');
+        self.then(function () {
+            self.echo('Clearing cookies before new login');
+            self.clear();
+            phantom.clearCookies();
+        });
     });
 
     // For a faster / simpler experiement, we do this.
@@ -236,7 +279,6 @@ function filterAdRecords(self, adRecords, cb) {
         self.echo('');
         self.echo('');
         self.echo('');
-        self.echo(result.basePages[adRecord.basePage]);
         self.echo('===================================');
 
         filterAdvertisement(self, adRecord, result.basePages[adRecord.basePage]['allTopics'], function(adType) {

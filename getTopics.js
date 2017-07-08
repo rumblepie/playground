@@ -36,7 +36,8 @@ function fillInputAndClick(self, endpoint) {
 
         for(var i = 0; i < divs.length; i++) {
             if(divs[i].childNodes[0] != undefined) {
-                if(divs[i].childNodes[0].innerText == "Enter keywords, topics, or sites") {
+                var innerText = divs[i].childNodes[0].innerText;
+                if(innerText == "Enter keywords, topics, or sites" || innerText == "Indtast søgeord, emner eller websites") {
                     divs[i].childNodes[1].value = endpoint;
                     input = divs[i].childNodes[1];
                     break;
@@ -57,7 +58,8 @@ function fillInputAndClick(self, endpoint) {
         for(var i = 0; i < buttons.length; i++) {
             if(buttons[i].childNodes.length > 0) {
                 if(buttons[i].childNodes[0].innerText != undefined) {
-                    if(buttons[i].childNodes[0].innerText == 'Get ad group ideas') {
+                    var buttonText = buttons[i].childNodes[0].innerText;
+                    if(buttonText == 'Get ad group ideas' || buttonText.indexOf(" annoncegruppeid") > -1) {
                         buttons[i].click();
                     }
                 }
@@ -78,7 +80,8 @@ function getTopics(self, endpoint, start, cb) {
         self.echo('Cleared context');
     }
 
-    var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
+    // var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=2923577407&__u=2312169733&authuser=0&__o=cues#start';
+    var adWordsUrl = 'https://adwords.google.com/da/DisplayPlanner/Home?__c=6541307412&__u=4389142709&authuser=0&__o=cues#start';
     var initSelector = '#root > div.sm-c > div:nth-child(2) > div > div.sn-e.sn-b > div > div.sx-c';
 
     self.then(function() {
@@ -96,7 +99,7 @@ function getTopics(self, endpoint, start, cb) {
     });
 
     self.then(function() {
-        // self.capture('renderings/adwords1.png');
+        self.capture('renderings/adwords1.png');
         if(!self.exists(initSelector)) {
             self.echo('The init selector was not found, exiting. Check that the adwords cookie is up to date');
             self.exit(1);

@@ -8,11 +8,19 @@
 <body>
 
 </body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/async/2.4.1/async.js"></script>
 <script type="text/javascript">
     var iframe = document.createElement('iframe');
     iframe.width = "200px";
     iframe.height = "200px";
     document.body.appendChild(iframe);
+
+    var test = async.map([1,2,3], function(x){console.log(x);}, function(err, results) {
+        // results is now an array of stats for each file
+    });
+
+    console.log("typeof test");
+    console.log(typeof test);
 
     iframe.addEventListener("load", function() {
         var t1 = performance.now();

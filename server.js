@@ -20,10 +20,16 @@ app.get('/timeit', function(req, res) {
     res.sendFile(path.join(__dirname + '/timeIt.html'));
 });
 
+
+
 app.post('/timeit', function(req, res) {
     console.log(JSON.stringify(req.body, null, 2));
 });
 
+
+app.get('/cachingPage', function(req, res) {
+    res.sendFile(path.join(__dirname + '/cachingPage.html'));
+});
 
 // [
 //     {

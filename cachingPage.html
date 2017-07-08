@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Caching page</title>
+    <input type="checkbox" name="vehicle" value="Car" id="isCookie">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/async/2.4.1/async.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+
+    function httpGetAsync(theUrl, callback)
+    {
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.onreadystatechange = function() {
+            if (xmlHttp.readyState == 4 && xmlHttp.status == 200) {
+                callback(xmlHttp.responseText);
+            }
+        };
+        xmlHttp.open("GET", theUrl, true); // true for asynchronous
+        xmlHttp.send(null);
+    }
+
+    httpGetAsync('/adUrls', function(response) {
+        var allRecords = JSON.parse(response).adRecords;
+        allRecords.map(function(record) {
+            record.resources.map(function(ucr) {
+                var url = ucr.replace(/\/\//gi, '/').replace(/:\//gi, '://').replace(/\\/gi, '');
+                var img = document.createElement("img");
+                img.setAttribute('src', url);
+                document.body.appendChild(img);
+            });
+
+        })
+    });
+
+
+</script>
+
+</body>
+
+</html>
