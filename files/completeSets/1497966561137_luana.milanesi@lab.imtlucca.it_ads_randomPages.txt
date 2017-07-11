@@ -1,0 +1,235 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Computer Servers, Computers & Electronics > Computer Hardware, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Network Storage, Computers & Electronics > Consumer Electronics, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Hardware Modding & Tuning, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Computer Hardware > Computer Drives & Storage, Computers & Electronics > Software > Internet Software, Computers & Electronics > Software > Operating Systems, Science > Computer Science > Distributed & Parallel Computing, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Computer Servers"
+    },
+    "http://startpage.lenovo.com/player/article/fox_news-over_50_injured_in_deck_collapse_at_montana_christ-foxnews": {
+      "allTopics": "Topics: People & Society > Family & Relationships > Family > Parenting > Youth Camps ",
+      "headTopics": "Topics: Youth Camps"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "http://www.dailymail.co.uk/travel/article-598013/The-One-Minute-Guide---br-Shopping-New-York.html": {
+      "allTopics": "Topics: News > Gossip & Tabloid News, News > Newspapers, News > Local News, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Gossip & Tabloid News"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Photo & Video Sharing, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/InternetIsBeautiful/": {
+      "allTopics": "Topics: Internet & Telecom > Web Services > Web Design & Development ",
+      "headTopics": "Topics: Web Design & Development"
+    },
+    "https://www.reddit.com/r/TwoXChromosomes/": {
+      "allTopics": "Topics: Science > Biological Sciences > Genetics, Science, Science > Chemistry, Science > Biological Sciences, Science > Computer Science > Machine Learning & Artificial Intelligence, Science > Scientific Equipment ",
+      "headTopics": "Topics: Genetics"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/girly": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/597\\/s1.adformdsp.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13787746612212141964"
+      ],
+      "lpu": "http://www.boozt.com/dk/da/toej-til-kvinder",
+      "allTopics": "Topics: Shopping > Apparel > Women's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Auctions, Shopping > Apparel > Undergarments, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Sleepwear, Shopping > Apparel > Swimwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Footwear, Shopping > Apparel > Men's Clothing, Shopping > Shopping Portals & Search Engines, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Formal Wear, Shopping > Apparel > Footwear > Boots ",
+      "headTopics": "Topics: Women's Clothing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/fox_news-over_50_injured_in_deck_collapse_at_montana_christ-foxnews",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5518946576732463306",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10332440892755133511",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/8198424470798324972",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9084735749243838399"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16378194473786513598"
+      ],
+      "lpu": "http://www.travelmarket.dk/afbudsrejser.cfm",
+      "allTopics": "Topics: Travel > Travel Agencies & Services, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel, Travel > Specialty Travel > Adventure Travel, Travel > Specialty Travel > Sightseeing Tours, Travel > Hotels & Accommodations, Travel > Air Travel, Travel > Bus & Rail, Travel > Tourist Destinations > Beaches & Islands, Travel > Travel Guides & Travelogues, Travel > Tourist Destinations, Travel > Cruises & Charters, Travel > Tourist Destinations > Theme Parks, Travel, Travel > Tourist Destinations > Mountain & Ski Resorts, Travel > Travel Agencies & Services > Tourist Boards & Visitor Centers, Travel > Specialty Travel > Agritourism ",
+      "headTopics": "Topics: Travel Agencies & Services",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/travel/article-598013/The-One-Minute-Guide---br-Shopping-New-York.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6295760454843831600"
+      ],
+      "lpu": "http://www.shein.co.uk/UK-CropTshirt-20170605-Y-D15-vc-26708.html",
+      "allTopics": "Topics: Shopping > Apparel > Women's Clothing, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel, Shopping > Apparel > Formal Wear, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Undergarments, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Footwear, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Swimwear, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Discount & Outlet Stores, Shopping > Apparel > Footwear > Boots, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Women's Clothing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8303746830718629391"
+      ],
+      "lpu": "http://neo4j.com/books/graph-databases/",
+      "allTopics": "Topics: Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Software > Open Source, Computers & Electronics > Programming, Computers & Electronics > Computer Hardware > Computer Servers, Computers & Electronics > Software, Computers & Electronics > Programming > Java (Programming Language), Computers & Electronics > Programming > Scripting Languages, Computers & Electronics > Programming > Development Tools, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Enterprise Technology, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Software > Internet Software > Content Management, Science > Computer Science > Distributed & Parallel Computing, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Network Storage ",
+      "headTopics": "Topics: Data Management",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/InternetIsBeautiful/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/5585042\\/300x250_WS_2016_3_.png"
+      ],
+      "lpu": "https://www.jetbrains.com/webstorm/specials/webstorm/webstorm.html",
+      "allTopics": "Topics: Computers & Electronics > Programming > Scripting Languages, Computers & Electronics > Programming > Java (Programming Language), Computers & Electronics > Programming > Development Tools, Computers & Electronics > Programming > Windows & .NET, Computers & Electronics > Software > Open Source, Computers & Electronics > Programming, Computers & Electronics > Software, Computers & Electronics > Software > Operating Systems > Linux & Unix, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Programming > C & C++, Computers & Electronics > Enterprise Technology, Computers & Electronics > Software > Internet Software > Content Management, Science > Computer Science > Distributed & Parallel Computing, Computers & Electronics > Software > Business & Productivity Software > Project Management Software ",
+      "headTopics": "Topics: Scripting Languages",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6494198172966679607",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Custom & Personalized Items, Shopping > Gifts & Special Event Items > Cards & Greetings ",
+      "headTopics": "Topics: Gifts",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6716074957880608345"
+      ],
+      "lpu": "http://www.reddit.com/r/litecoin",
+      "allTopics": "Topics: Finance > Investing > Currencies & Foreign Exchange, Finance, Finance > Banking > Money Transfer & Wire Services ",
+      "headTopics": "Topics: Currencies & Foreign Exchange",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7974106611672275079"
+      ],
+      "lpu": "https://www.reddit.com/r/totallynotrobots",
+      "allTopics": "Topics: Science > Engineering & Technology > Robotics, Science > Computer Science > Machine Learning & Artificial Intelligence ",
+      "headTopics": "Topics: Robotics",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/TwoXChromosomes/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17013806722216105479"
+      ],
+      "lpu": "https://www.reddit.com/r/oldnews",
+      "allTopics": "Topics: News > Newspapers, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News, News > Business News, News > World News, News > Politics > Left-Wing Politics, News > Broadcast & Network News, News > Business News > Economy News, News > Health News, News > Politics > Media Critics & Watchdogs ",
+      "headTopics": "Topics: Newspapers",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13202728236042551867"
+      ],
+      "lpu": "https://www.newchic.com/crossbody-bags-3613/p-1142779.html",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping, Shopping > Luxury Goods, Shopping > Apparel > Footwear, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Apparel Services ",
+      "headTopics": "Topics: Handbags & Purses",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/14795726780822567722"
+      ],
+      "lpu": "https://opencsgo.com/",
+      "allTopics": "Topics: Games > Computer & Video Games > Shooter Games, Games > Computer & Video Games > Gaming Media & Reference, Games > Computer & Video Games > Gaming Media & Reference > Game Cheats & Hints, Games > Computer & Video Games > Driving & Racing Games, Games > Computer & Video Games > Adventure Games, Games > Online Games, Games > Online Games > Massive Multiplayer, Games > Computer & Video Games, Games > Computer & Video Games > Strategy Games, Games > Computer & Video Games > Simulation Games > Vehicle Simulators, Games > Computer & Video Games > Action & Platform Games, Games > Board Games > Miniatures & Wargaming, Games > Computer & Video Games > Fighting Games, Games, Games > Arcade & Coin-Op Games, Games > Computer & Video Games > Video Game Development, Games > Computer & Video Games > Video Game Retailers ",
+      "headTopics": "Topics: Shooter Games",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15268888835231251931"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/girly",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1841188143005558936"
+      ],
+      "lpu": "https://www.dti.dk/specialists/online-courses/37909",
+      "allTopics": "Topics: Jobs & Education > Education > Vocational & Continuing Education > Computer Education, Jobs & Education > Education > Training & Certification, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs ",
+      "headTopics": "Topics: Computer Education",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/girly",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7239156898654721727"
+      ],
+      "lpu": "https://www.newchic.com/crossbody-bags-3613/p-1054183.html",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Women's Clothing, Shopping > Luxury Goods, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Discount & Outlet Stores, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Handbags & Purses",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15810643634973265386"
+      ],
+      "lpu": "https://www.newchic.com/casual-pants-4975/p-1108773.html",
+      "allTopics": "Topics: Shopping > Apparel > Outerwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Discount & Outlet Stores, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Women's Clothing > Skirts, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Outerwear",
+      "type": "targeted"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware, Computers & Electronics > Software > Operating Systems > Mobile OS > Android OS, Computers & Electronics > Software > Operating Systems > Mobile OS > Apple iOS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Computer Components > Sound & Video Cards, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > PDAs & Handhelds, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/player/article/geobeats-rumors_swirl_again_that_justice_kennedys_supreme_c-5min": {
+      "allTopics": "Topics: Law & Government > Government > Courts & Judiciary, Law & Government, Law & Government > Legal > Criminal Law, Law & Government > Legal > Legal Services, Law & Government > Government > Legislative Branch, Law & Government > Public Safety > Crime & Justice, Law & Government > Legal, Law & Government > Legal > Family Law, Law & Government > Legal > Constitutional Law & Civil Rights, Law & Government > Public Safety > Crime & Justice > Corporate & Financial Crime, Law & Government > Legal > Bankruptcy, Law & Government > Legal > Legal Education, Law & Government > Legal > Product Liability ",
+      "headTopics": "Topics: Courts & Judiciary"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-microphone_cut_after_mormon_girl_reveals_shes_gay-ap": {
+      "allTopics": "Topics: People & Society > Religion & Belief > Christianity, People & Society > Religion & Belief, People & Society > Religion & Belief > Places of Worship, People & Society > Religion & Belief > Theology & Religious Study, People & Society > Religion & Belief > Judaism, People & Society > Religion & Belief > Spirituality, People & Society > Religion & Belief > Pagan & Esoteric Traditions, People & Society > Religion & Belief > Skeptics & Non-Believers, People & Society > Religion & Belief > Scientology ",
+      "headTopics": "Topics: Christianity"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "https://www.reddit.com/r/television/comments/6j6fne/i_really_really_really_wish_netflix_would_bring/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Movies > Action & Adventure Films > Martial Arts Films, Arts & Entertainment > Performing Arts > Magic, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/nottheonion/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Offbeat, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://www.reddit.com/r/GifRecipes/comments/6j5kgg/homemade_falafel/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/r/findapath/comments/3nqy1w/26m_no_job_no_experience_no_education_no_hope/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Education > Colleges & Universities, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs, Jobs & Education > Education > Distance Learning, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Education > Study Abroad, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/598\\/s1.adformdsp.net\\/load\\/v\\/0.0.126\\/e\\/.wMDAo\\/i\\/8IF-EAAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/geobeats-rumors_swirl_again_that_justice_kennedys_supreme_c-5min",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13574720684173614270"
+      ],
+      "lpu": "https://www.wayfair.com",
+      "allTopics": "Topics: Home & Garden > Home Furnishings, Home & Garden > Homemaking & Interior Decor, Home & Garden > Home Storage & Shelving, Home & Garden > Bed & Bath > Bedroom, Home & Garden > Home Furnishings > Sofas & Chairs, Home & Garden > Bed & Bath > Bedroom > Beds & Headboards, Home & Garden > Bed & Bath > Bathroom, Home & Garden > Home Improvement > House Painting & Finishing, Home & Garden > Kitchen & Dining, Home & Garden > Nursery & Playroom, Home & Garden > Bed & Bath ",
+      "headTopics": "Topics: Home Furnishings",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-microphone_cut_after_mormon_girl_reveals_shes_gay-ap",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13056412276303043133"
+      ],
+      "lpu": "http://klitmoller.westwind.dk/da/surf-camps",
+      "allTopics": "Topics: Sports > Water Sports > Surfing, Sports > Sporting Goods > Water Sports Equipment, Sports > Water Sports > Swimming, Sports > Extreme Sports, Sports > Sporting Goods, Sports > Sports Coaching & Training, Sports > Sporting Goods > Skateboarding Equipment, Sports > Water Sports ",
+      "headTopics": "Topics: Surfing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7790805170997370650"
+      ],
+      "lpu": "http://www.finddin.date/campaign",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6820077927733321144"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/bedre-end-banken/6f/index.php",
+      "allTopics": "Topics: Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing, Finance > Investing > Funds, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts, Finance > Financial Planning & Management > Asset & Portfolio Management ",
+      "headTopics": "Topics: Retirement & Pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7737446344875008795"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/aktiemarkedsudsigt/4c/index.php",
+      "allTopics": "Topics: Finance > Investing, Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12891161862587987249",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5734105289843731534"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/pensionsplan-15-minutter/3a/index.php",
+      "allTopics": "Topics: Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing, Finance > Investing > Funds, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts, Finance > Financial Planning & Management > Asset & Portfolio Management ",
+      "headTopics": "Topics: Retirement & Pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/television/comments/6j6fne/i_really_really_really_wish_netflix_would_bring/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6494198172966679607"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Cards & Greetings, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Gifts",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1834086872208534863"
+      ],
+      "lpu": "http://www.reddit.com/r/california",
+      "allTopics": "Topics: News > Politics > Campaigns & Elections, News > Politics > Political Polls & Surveys, News > Weather, News > Politics, News > Politics > Right-Wing Politics, News > Politics > Left-Wing Politics ",
+      "headTopics": "Topics: Campaigns & Elections",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/nottheonion/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3931771345052126631"
+      ],
+      "lpu": "http://www.reddit.com/r/exhibit_Art",
+      "allTopics": "Topics: Arts & Entertainment > Visual Art & Design > Art Museums & Galleries, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Art Museums & Galleries",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10587954013220379908"
+      ],
+      "lpu": "http://www.reddit.com/r/crossstitch",
+      "allTopics": "Topics: Hobbies & Leisure > Crafts > Fiber & Textile Arts, Hobbies & Leisure > Crafts ",
+      "headTopics": "Topics: Fiber & Textile Arts",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2018747690941193760"
+      ],
+      "lpu": "http://www.reddit.com/r/ebes",
+      "allTopics": "Topics: Arts & Entertainment > Offbeat > Occult & Paranormal, Arts & Entertainment > Offbeat, Arts & Entertainment > Movies > Horror Films, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Performing Arts > Magic ",
+      "headTopics": "Topics: Occult & Paranormal",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9007114057570493407"
+      ],
+      "lpu": "https://www.reddit.com/r/btc",
+      "allTopics": "Topics: Finance > Investing > Currencies & Foreign Exchange, Finance, Finance > Investing > Brokerages & Day Trading, Finance > Banking > Money Transfer & Wire Services ",
+      "headTopics": "Topics: Currencies & Foreign Exchange",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17221339884021287550"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/arbitrary-day-2017/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10346931471145466712"
+      ],
+      "lpu": "https://www.reddit.com/r/fantrailers",
+      "allTopics": "Topics: Books & Literature > Fan Fiction ",
+      "headTopics": "Topics: Fan Fiction",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/GifRecipes/comments/6j5kgg/homemade_falafel/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5559698630796215563"
+      ],
+      "lpu": "https://www.reddit.com/r/oldschoolcelebs",
+      "allTopics": "Topics: Arts & Entertainment > Celebrities & Entertainment News, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Movies, Arts & Entertainment > TV & Video > TV Shows & Programs, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Reality Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Movies > Movie Reference, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Entertainment Industry, Arts & Entertainment > Entertainment Industry > Film & TV Industry ",
+      "headTopics": "Topics: Celebrities & Entertainment News",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/findapath/comments/3nqy1w/26m_no_job_no_experience_no_education_no_hope/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/6478038464055141020"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/16009041652356972568"
+      ],
+      "lpu": "http://om.forgeofempires.com/foe/en/",
+      "allTopics": "Topics: Games > Computer & Video Games > Strategy Games, Games > Online Games, Games > Computer & Video Games > Casual Games, Games > Family-Oriented Games & Activities > Dress-Up & Fashion Games, Games > Computer & Video Games > Simulation Games > City Building Games, Games > Tile Games, Games > Card Games, Games > Online Games > Massive Multiplayer, Games > Computer & Video Games > Simulation Games, Games > Computer & Video Games > Simulation Games > Life Simulation Games, Games > Puzzles & Brainteasers, Games > Computer & Video Games > Simulation Games > Business & Tycoon Games, Games > Computer & Video Games > Driving & Racing Games, Games > Board Games > Miniatures & Wargaming, Games > Board Games, Games, Games > Dice Games ",
+      "headTopics": "Topics: Strategy Games",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9084735749243838399"
+      ],
+      "lpu": "https://sportmaster.dk/eavis",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/60217749\\/20170525233715502\\/index.html"
+      ],
+      "lpu": "https://adserver.adtech.de/adlink/1282/6393559/0/170/AdId%3D18064923",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    }
+  ]
+}

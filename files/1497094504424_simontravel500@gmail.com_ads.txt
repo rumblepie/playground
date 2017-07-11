@@ -1,0 +1,62 @@
+{
+  "basePages": {
+    "https://www.ethiojobs.net/browse-by-category/Community%20Service/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/find-jobs-in-ethiopia/Gambela/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/browse-by-category/Languages/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "https://www.ethiojobs.net/browse-by-category/Community%20Service/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5974313596689456236"
+      ],
+      "lpu": "http://www.panelsog.net/",
+      "allTopics": "Topics: Business & Industrial > Metals & Mining, Business & Industrial > Construction & Maintenance > Building Materials & Supplies, Business & Industrial > Manufacturing, Business & Industrial > Industrial Materials & Equipment > Heavy Machinery, Business & Industrial > Industrial Materials & Equipment, Business & Industrial > Metals & Mining > Precious Metals, Business & Industrial > Construction & Maintenance, Business & Industrial > Construction & Maintenance > Building Materials & Supplies > Wood & Plastics, Business & Industrial > Energy & Utilities > Waste Management > Recycling, Business & Industrial > Construction & Maintenance > Building Materials & Supplies > Nails Screws & Fasteners, Business & Industrial > Chemicals Industry > Coatings & Adhesives, Business & Industrial > Chemicals Industry > Plastics & Polymers ",
+      "headTopics": "Topics: Metals & Mining",
+      "type": null
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/browse-by-category/Community%20Service/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13363512177748186092"
+      ],
+      "lpu": "http://www.vtapersolution.com/avoid",
+      "allTopics": "Topics: Beauty & Fitness > Weight Loss, Beauty & Fitness > Fitness, Beauty & Fitness, Beauty & Fitness > Fitness > Fitness Instruction & Personal Training, Beauty & Fitness > Cosmetic Procedures ",
+      "headTopics": "Topics: Weight Loss",
+      "type": null
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Gambela/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/45565650\\/20160922243820339\\/index.html"
+      ],
+      "lpu": "http://",
+      "allTopics": "Topics: Internet & Telecom > Search Engines ",
+      "headTopics": "Topics: Search Engines",
+      "type": null
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/browse-by-category/Languages/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13311443530379659290"
+      ],
+      "lpu": "http://www.russiamatches.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Dating & Personals > Photo Rating Sites, Online Communities > Social Networks, Online Communities > Forum & Chat Providers ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": null
+    }
+  ]
+}

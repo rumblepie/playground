@@ -1,0 +1,90 @@
+[
+  {
+    "basePage": "https://www.ethiojobs.net/browse-by-category/Social%20Sciences%20and%20Community/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9207271169280281348",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1646410022432948876"
+    ],
+    "lpu": "https://www.banggood.com/Ekphero-Men-Casual-Genuine-Leather-Oil-Wax-Chest-Bag-Crossbody-Bag-p-1117552.html",
+    "type": "generic"
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/display-job/134317/Field-Supervisor.html",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6173673453306969465",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/2511351147261868817"
+    ],
+    "lpu": "http://www.tableau.com/asset/top-10-business-intelligence-trends-2017",
+    "type": "generic"
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/display-job/134317/Field-Supervisor.html",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7918044100552796185"
+    ],
+    "lpu": "http://invest.gwdcanada.com/investor",
+    "type": "targeted"
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/display-job/134322/Market-Facilitation-Specialist--Livelihood-Improvement-for-Women-&-Youth-(LI-WAY)-Project.html",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/60156845\\/20170412063749747\\/index.html"
+    ],
+    "lpu": "http://",
+    "type": null
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/display-job/134322/Market-Facilitation-Specialist--Livelihood-Improvement-for-Women-&-Youth-(LI-WAY)-Project.html",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/824390620726650165"
+    ],
+    "lpu": "http://try.csod.co.uk/hrm-asset-toxicemployee-goog-display/",
+    "type": "targeted"
+  },
+  {
+    "basePage": "http://www.ethiojobs.net/latest-jobs-in-ethiopia/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/12698573154562118160"
+    ],
+    "lpu": "http://www.russiamatches.com/go.php",
+    "type": "targeted"
+  },
+  {
+    "basePage": "http://jobatsea.org/#sthash.7CNvFjfu.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10640565971941494618",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1342940868329342066",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2299494561673637349",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/8249495314715511112",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4326464151630310710",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17033451012770744216"
+    ],
+    "lpu": "http://www.singlesrussian.com/go.php",
+    "type": "targeted"
+  },
+  {
+    "basePage": "http://jobatsea.org/job/211215/2-engineer-on-container-at-bss/#sthash.oM2glKem.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/11008443145932677771"
+    ],
+    "lpu": "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem",
+    "type": "contextual"
+  },
+  {
+    "basePage": "http://jobatsea.org/jobs/#sthash.YVIpyL58.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/s0.2mdn.net\\/5876039\\/1494417567319\\/TO-er-ikke-bare-noget-vi-siger_160x600.html"
+    ],
+    "lpu": "https://www.callme.dk/tal-ordentligt/i-skolen/",
+    "type": null
+  }
+]

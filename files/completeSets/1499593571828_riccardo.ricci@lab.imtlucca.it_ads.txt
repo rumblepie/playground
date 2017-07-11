@@ -1,0 +1,319 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Hardware Modding & Tuning, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Computer Hardware > Computer Drives & Storage, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/player/category/news/article/newsy_now-the_uk_press_association_wants_robots_to_write_the-newsy": {
+      "allTopics": "Emner: Videnskab > Konstruktion og teknologi > Robotvidenskab, Videnskab > Computervidenskab > Maskinindlæring og kunstig intelligens ",
+      "headTopics": "Emner: Robotvidenskab"
+    },
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-90000_customers_lose_electricity_after_fire_at_sta-ap": {
+      "allTopics": "Emner: Virksomheder og industri > Energi og elektricitetsværker > Elektricitet, Virksomheder og industri > Energi og elektricitetsværker, Virksomheder og industri > Energi og elektricitetsværker > Olie og gas, Virksomheder og industri > Energi og elektricitetsværker > Vedvarende og alternativ energi, Virksomheder og industri > Virksomhedstjenester > Brand- og sikkerhedstjenester, Virksomheder og industri > Energi og elektricitetsværker > Vedvarende og alternativ energi > Vandkraft ",
+      "headTopics": "Emner: Elektricitet"
+    },
+    "http://startpage.lenovo.com/?inc=2047": {
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Emner: Nyheder > Aviser, Nyheder > Sladder og sladdernyheder, Nyheder > Lokale nyheder, Nyheder, Nyheder > Journalistik og nyhedsindustri, Nyheder > Politik > Opinion og kommentar, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Aviser"
+    },
+    "http://www.dailymail.co.uk/femail/article-4440896/Fitness-competitor-details-struggle-stay-thin.html": {
+      "allTopics": "Emner: Skønhed og fitness > Fitness > Bodybuilding, Skønhed og fitness > Mode og stil > Modemodeller, Skønhed og fitness > Skønhedskonkurrencer ",
+      "headTopics": "Emner: Bodybuilding"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/OldSchoolCool/": {
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning"
+    },
+    "https://www.reddit.com/r/europe/": {
+      "allTopics": "Emner: Sport > Holdsport > Fodbold, Sport > Sportsresultater og statistik, Sport > Fantasisport, Sport > Globale sportsbegivenheder, Sport > Sportsudstyr > Fodboldudstyr ",
+      "headTopics": "Emner: Fodbold"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/trending": {
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Musik og lyd > Musikmemorabilia, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor"
+    },
+    "https://9gag.com/fresh": {
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pageadimg\\/imgad"
+      ],
+      "lpu": "http://track.adform.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/category/news/article/newsy_now-the_uk_press_association_wants_robots_to_write_the-newsy",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10556801747479350110"
+      ],
+      "lpu": "http://en.windsorbrokers.com/promotions/lp/gold-c/",
+      "allTopics": "Emner: Finans > Investering > Valutaer og veksling, Finans > Investering > Kurtage, Finans > Investering, Finans > Investering > Handel med råvarer og terminsforretninger, Finans > Investering > Afledte instrumenter, Finans > Investering > Aktier og obligationer, Finans > Finansiel planlægning og styring > Formue- og porteføljestyring, Finans > Investering > Pengeoverførsel > Investeringsselskaber, Finans > Investering > Pengeoverførsel > Hedgefonde, Finans > Investering > Aktier og obligationer > Børser, Finans > Investering > Aktier og obligationer > Gældsbeviser, Finans > Investering > Pengeoverførsel > Exchange Traded Funds (ETF'er) ",
+      "headTopics": "Emner: Valutaer og veksling",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-90000_customers_lose_electricity_after_fire_at_sta-ap",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8160886014946628824"
+      ],
+      "lpu": "http://5212.xg4ken.com/trk/v1",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-90000_customers_lose_electricity_after_fire_at_sta-ap",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16736072145659410223"
+      ],
+      "lpu": "http://7130.xg4ken.com/trk/v1",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-90000_customers_lose_electricity_after_fire_at_sta-ap",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2611401354214037002"
+      ],
+      "lpu": "https://www.rotita.com/half-sleeve-lace-panel-black-blouse-g182087.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Dametøj > Kjoler, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Undertøj, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Nattøj, Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Svømmetøj, Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Jakkesæt og påklædning til forretningsmænd ",
+      "headTopics": "Emner: Dametøj",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/?inc=2047",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1342019621932736420"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1146957.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Kostumer, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Tøjtilbehør, Biler og køretøjer > Cykler og tilbehør > Cykeltøj, Indkøb > Beklædning > Nattøj ",
+      "headTopics": "Emner: Hovedbeklædning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3843320432641941997"
+      ],
+      "lpu": "https://senestenyt.com/2017/06/26/how-gates-ties-his-philanthropy-with-business/",
+      "allTopics": "Emner: Mennesker og samfund > Sociale emner og støttesager > Velgørenhed og filantropi, Mennesker og samfund > Sociale emner og støttesager > Fattigdom og sult, Mennesker og samfund > Familie og forhold > Familie > Opdragelse > Adoption, Mennesker og samfund > Sociale emner og støttesager, Mennesker og samfund > Sociale emner og støttesager > Menneskerettigheder og friheder ",
+      "headTopics": "Emner: Velgørenhed og filantropi",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/femail/article-4440896/Fitness-competitor-details-struggle-stay-thin.html",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9436694755234316805"
+      ],
+      "lpu": "https://www.aeroehotel.dk/ophold/cykelferie/",
+      "allTopics": "Emner: Rejser > Hoteller og indlogering, Rejser > Rejsebureauer og -tjenester, Rejser > Turistmål > Strande og øer, Rejser > Turistmål > Feriesteder med bjerge og ski, Rejser > Specialrejser > Bondegårdsferie, Rejser > Rejsebureauer og -tjenester > Rejsetilbud, Rejser, Rejser > Turistmål, Rejser > Turistmål > Søer og floder, Rejser > Specialrejser, Rejser > Specialrejser > Økoturisme ",
+      "headTopics": "Emner: Hoteller og indlogering",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/4574772760713901879"
+      ],
+      "lpu": "http://h.analog.com/5G-Paperff",
+      "allTopics": "Emner: Internet og telekommunikation > Mobil og trådløs, Internet og telekommunikation > Mobil og trådløs > Mobiltelefoner, Internet og telekommunikation > Tjenesteudbydere > Telefonselskaber, Internet og telekommunikation > Mobil og trådløs > Mobiltelefoner > Smartphones, Internet og telekommunikation > Mobil og trådløs > Mobilprogrammer og tilføjelsesprogrammer > Ringetoner og mobiltemaer, Internet og telekommunikation > Tjenesteudbydere > Internettjenester, Internet og telekommunikation > Mobil og trådløs > Tilbehør til mobiltelefoner og trådløse enheder > Bluetoothtilbehør, Internet og telekommunikation > Tjenesteudbydere, Internet og telekommunikation > Mobil og trådløs > Tilbehør til mobiltelefoner og trådløse enheder, Internet og telekommunikation, Internet og telekommunikation > Kommunikationsudstyr, Internet og telekommunikation > Tjenesteudbydere > Telefonselskaber > Telefonkort ",
+      "headTopics": "Emner: Mobil og trådløs",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14742059913860453710"
+      ],
+      "lpu": "http://www.reddit.com/r/imaginaryfeels",
+      "allTopics": "Emner: Kunst og underholdning > Visuel kunst og design, Kunst og underholdning > Visuel kunst og design > Malerkunst, Kunst og underholdning > Visuel kunst og design > Skulptur, Kunst og underholdning > Visuel kunst og design > Kunstuddannelse, Kunst og underholdning > Visuel kunst og design > Kunstmuseer og gallerier, Kunst og underholdning > Visuel kunst og design > Kunst- og kunsthåndværksartikler, Kunst og underholdning > Scenekunst, Kunst og underholdning > Musik og lyd > Musikmemorabilia, Kunst og underholdning > Visuel kunst og design > Design > Grafisk design, Kunst og underholdning > Visuel kunst og design > Design > Industrielt design og produktdesign, Kunst og underholdning > Visuel kunst og design > Design, Kunst og underholdning > Film > Filmmemorabilia ",
+      "headTopics": "Emner: Visuel kunst og design",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/OldSchoolCool/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/viewad\\/4745153\\/kdk_lordagsondag_KUPP_q216_300x250.jpg"
+      ],
+      "lpu": "https://www.komplett.dk/kampagne/2550/weekendtilbud",
+      "allTopics": "Emner: Computere og elektronik, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Hovedtelefoner, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Højttalere, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Stereoanlæg og -komponenter, Computere og elektronik > Forbrugerelektronik, Computere og elektronik > Computerhardware, Computere og elektronik > Forbrugerelektronik > Lydudstyr, Computere og elektronik > Forbrugerelektronik > Tv- og videoudstyr > Hjemmebiografsystemer, Computere og elektronik > Forbrugerelektronik > Bilelektronik > Lydsystemer til biler, Computere og elektronik > Computerhardware > Computerdrev og -lagerenheder > Cd- og dvd-drev og -brændere, Computere og elektronik > Computerhardware > Computerudstyr, Computere og elektronik > Forbrugerelektronik > Gadgets og bærbare elektroniske enheder > MP3-afspillere og transportable medieafspillere, Computere og elektronik > Software > Operativsystemer, Computere og elektronik > Virksomhedsteknologi ",
+      "headTopics": "Emner: Computere og elektronik",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4824471331282278046"
+      ],
+      "lpu": "http://www.reddit.com/r/partyparrot",
+      "allTopics": "Topics: Pets & Animals > Pets > Birds, Pets & Animals > Wildlife, Pets & Animals > Pets > Exotic Pets, Pets & Animals > Animal Products & Services > Pet Food & Supplies, Pets & Animals > Animal Products & Services > Animal Welfare, Pets & Animals > Pets, Pets & Animals > Animal Products & Services, Pets & Animals, Pets & Animals > Pets > Rabbits & Rodents, Pets & Animals > Animal Products & Services > Veterinarians ",
+      "headTopics": "Topics: Birds",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/europe/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6766609306834518665"
+      ],
+      "lpu": "https://www.omada.net/en-us/more/resources/gartners-critical-capabilities-2017",
+      "allTopics": "Emner: Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Computersikkerhed > Netværkssikkerhed, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management), Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Computersikkerhed, Computere og elektronik > Netværk > Netværksovervågning og -administration, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse ",
+      "headTopics": "Emner: Virksomheds- og produktivitetssoftware",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5371718272733359765"
+      ],
+      "lpu": "https://www.reddit.com/r/rubberducks",
+      "allTopics": "Topics: People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby & Toddler Toys, People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers, People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby Care & Hygiene ",
+      "headTopics": "Topics: Baby & Toddler Toys",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5559698630796215563"
+      ],
+      "lpu": "https://www.reddit.com/r/oldschoolcelebs",
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Film, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Film > Filmreferencer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/OldSchoolCool/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/4207268\\/1496074092456\\/Blau_RTB_MALLORCA_300x250_EN\\/Blau_RTB_MALLORCA_300x250_EN.html"
+      ],
+      "lpu": "https://reddit-d.openx.net/w/1.0/rc",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/60195288\\/20170511024045843\\/index.html"
+      ],
+      "lpu": "https://secure-ams.adnxs.com/click",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5388867956738403167"
+      ],
+      "lpu": "https://om.forgeofempires.com/foe/en/",
+      "allTopics": "Emner: Hobby og fritid > Udendørsaktiviteter > Jagt og skydning ",
+      "headTopics": "Emner: Jagt og skydning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14179632948159404373"
+      ],
+      "lpu": "https://www.scandichotels.dk/mode-konference-event",
+      "allTopics": "Emner: Rejser > Hoteller og indlogering, Rejser > Rejsebureauer og -tjenester, Rejser > Turistmål > Strande og øer, Rejser > Specialrejser > Bondegårdsferie, Rejser > Turistmål > Feriesteder med bjerge og ski, Rejser > Rejsebureauer og -tjenester > Rejsetilbud, Rejser, Rejser > Turistmål > Temaparker, Rejser > Turistmål, Rejser > Turistmål > Søer og floder, Rejser > Specialrejser, Rejser > Specialrejser > Økoturisme ",
+      "headTopics": "Emner: Hoteller og indlogering",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/trending",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/2734569859746888151"
+      ],
+      "lpu": "http://track.victoriahearts.com/872a4307-faf2-487e-bc59-a18cc15a9712",
+      "allTopics": "Topics: Internet & Telecom > Email & Messaging, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Web Portals, Internet & Telecom > Email & Messaging > Spam & Email Filtering, Internet & Telecom > Web Apps & Online Tools, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Web Services > Web Hosting & Domain Registration, Internet & Telecom > Email & Messaging > Voice & Video Chat, Internet & Telecom > Service Providers > ISPs, Internet & Telecom > Service Providers ",
+      "headTopics": "Topics: Email & Messaging",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/fresh",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12329128305304931252"
+      ],
+      "lpu": "http://9gag.com/movie-tv",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Offbeat, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://9gag.com/fresh",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13408840298776062627"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    }
+  ]
+}

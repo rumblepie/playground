@@ -1,0 +1,230 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-mali_security_minister_4_jihadis_killed_in_resort-ap": {
+      "allTopics": "Interests: News Junkies, News Junkies > World News Junkies, News Junkies > Political News Junkies ",
+      "headTopics": "Affinity audiences: News Junkies"
+    },
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-closing_arguments_to_begin_in_exmilwaukee_cops_tri-ap": {
+      "allTopics": "Topics: Law & Government > Public Safety > Law Enforcement, Law & Government > Public Safety > Crime & Justice, Law & Government > Public Safety, Law & Government > Government > Intelligence & Counterterrorism, Law & Government > Legal > Criminal Law, Law & Government > Public Safety > Crime & Justice > Gangs & Organized Crime, Law & Government > Public Safety > Crime & Justice > Corporate & Financial Crime ",
+      "headTopics": "Topics: Law Enforcement"
+    },
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Computer Servers, Computers & Electronics > Computer Hardware, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Network Storage, Computers & Electronics > Consumer Electronics, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Hardware Modding & Tuning, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Computer Hardware > Computer Drives & Storage, Computers & Electronics > Software > Internet Software, Computers & Electronics > Software > Operating Systems, Science > Computer Science > Distributed & Parallel Computing, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Computer Servers"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "http://www.dailymail.co.uk/home/article-113535/Get-great-bargains-SHOPPING-MALL.html": {
+      "allTopics": "Topics: News > Gossip & Tabloid News, News > Newspapers, News > Local News, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Gossip & Tabloid News"
+    },
+    "https://www.reddit.com/user/jackalooz": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Photo & Video Sharing, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/Documentaries/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Movies > Documentary Films, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Music & Audio > World Music > African Music, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/cute": {
+      "allTopics": "Topics: Pets & Animals > Pets > Dogs, Pets & Animals > Animal Products & Services, Pets & Animals > Animal Products & Services > Pet Food & Supplies, Pets & Animals > Pets, Pets & Animals > Pets > Cats, Pets & Animals > Animal Products & Services > Animal Welfare, Pets & Animals, Pets & Animals > Animal Products & Services > Veterinarians ",
+      "headTopics": "Topics: Dogs"
+    },
+    "https://9gag.com/trending": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-mali_security_minister_4_jihadis_killed_in_resort-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15048287707320313729"
+      ],
+      "lpu": "https://www.newchic.com/sandals-4188/p-1139798.html",
+      "allTopics": "Topics: Shopping > Apparel > Footwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Apparel > Footwear > Boots, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Clothing Accessories, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Apparel > Apparel Services, Shopping > Apparel > Uniforms & Workwear ",
+      "headTopics": "Topics: Footwear",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-mali_security_minister_4_jihadis_killed_in_resort-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14170209791298371927",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13547305687085458569",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15123408393797634787",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8343392550651987779"
+      ],
+      "lpu": "http://www.msk.dk/",
+      "allTopics": "Topics: Jobs & Education > Education > Colleges & Universities, Jobs & Education > Education > Primary & Secondary Schooling (K-12), Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Teaching & Classroom Resources > Lesson Plans, Jobs & Education > Education > Teaching & Classroom Resources, Jobs & Education > Education, Jobs & Education > Education > Study Abroad, Jobs & Education > Education > Alumni & Reunions, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education ",
+      "headTopics": "Topics: Colleges & Universities",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-closing_arguments_to_begin_in_exmilwaukee_cops_tri-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11113680741090205281"
+      ],
+      "lpu": "http://www.teknologisk.dk/kurser/firmakurser",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/597\\/s1.adformdsp.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16378194473786513598"
+      ],
+      "lpu": "http://www.travelmarket.dk/afbudsrejser.cfm",
+      "allTopics": "Topics: Travel > Travel Agencies & Services, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel, Travel > Specialty Travel > Adventure Travel, Travel > Specialty Travel > Sightseeing Tours, Travel > Hotels & Accommodations, Travel > Air Travel, Travel > Bus & Rail, Travel > Tourist Destinations > Beaches & Islands, Travel > Travel Guides & Travelogues, Travel > Tourist Destinations, Travel > Cruises & Charters, Travel > Tourist Destinations > Theme Parks, Travel, Travel > Tourist Destinations > Mountain & Ski Resorts, Travel > Travel Agencies & Services > Tourist Boards & Visitor Centers, Travel > Specialty Travel > Agritourism ",
+      "headTopics": "Topics: Travel Agencies & Services",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/article-113535/Get-great-bargains-SHOPPING-MALL.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/17917519912073818012"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/user/jackalooz",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17342200210219457069"
+      ],
+      "lpu": "https://www.reddit.com/r/tinysubredditoftheday",
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Dating & Personals > Personals, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Photo & Video Sharing, Online Communities > Online Journals & Personal Sites, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/jackalooz",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6575851681259830635"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarycolorscapes",
+      "allTopics": "Topics: Online Communities > Online Goodies > Skins Themes & Wallpapers, Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Online Goodies > Clip Art & Animated GIFs, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Blogging Resources & Services, Online Communities > Online Goodies ",
+      "headTopics": "Topics: Skins Themes & Wallpapers",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1389917464820718237"
+      ],
+      "lpu": "http://www.reddit.com/r/raining",
+      "allTopics": "Topics: News > Weather ",
+      "headTopics": "Topics: Weather",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/Documentaries/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10177624678739387040"
+      ],
+      "lpu": "https://dis-kbh.dk/vaerthttps://dis-kbh.dk/vaertsfamilie/vind-rejse-new-york-to-personer/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Custom & Personalized Items, Shopping > Gifts & Special Event Items > Cards & Greetings ",
+      "headTopics": "Topics: Gifts",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13202728236042551867"
+      ],
+      "lpu": "https://www.newchic.com/crossbody-bags-3613/p-1142779.html",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping, Shopping > Luxury Goods, Shopping > Apparel > Footwear, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Apparel Services ",
+      "headTopics": "Topics: Handbags & Purses",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/cute",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7239156898654721727"
+      ],
+      "lpu": "https://www.newchic.com/crossbody-bags-3613/p-1054183.html",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Women's Clothing, Shopping > Luxury Goods, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Discount & Outlet Stores, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Handbags & Purses",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8821941418338312900"
+      ],
+      "lpu": "http://www.konference.dk/kursuscentre",
+      "allTopics": "Topics: Business & Industrial > Business Services > Corporate Events, Business & Industrial > Hospitality Industry > Event Planning, Business & Industrial > Hospitality Industry ",
+      "headTopics": "Topics: Corporate Events",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/trending",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/4906771\\/1495039020955\\/BF-DK-Display-ValueClaim_300x250.html"
+      ],
+      "lpu": "https://secure-ams.adnxs.com/click",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    }
+  ]
+}

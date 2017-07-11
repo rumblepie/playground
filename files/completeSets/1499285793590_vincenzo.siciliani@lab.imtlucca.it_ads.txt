@@ -1,0 +1,211 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/player/article/today_show-today:truck_overturns_on_pennsylvania_highway_caught_on-5min": {
+      "allTopics": "Emner: Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Offbeat > Det okkulte og paranormale, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Familieorienterede tv-shows, Kunst og underholdning > Scenekunst > Magi, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion ",
+      "headTopics": "Emner: Onlinevideo"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://9gag.com/horror": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > TV Commercials, Arts & Entertainment > Music & Audio > Music Art & Memorabilia ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/today_show-today:truck_overturns_on_pennsylvania_highway_caught_on-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1342019621932736420"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1146957.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Kostumer, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Tøjtilbehør, Biler og køretøjer > Cykler og tilbehør > Cykeltøj, Indkøb > Beklædning > Nattøj ",
+      "headTopics": "Emner: Hovedbeklædning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/today_show-today:truck_overturns_on_pennsylvania_highway_caught_on-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/338376872842244432",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15741055795291155623"
+      ],
+      "lpu": "http://www.wallmans.dk/",
+      "allTopics": "Emner: Kunst og underholdning > Arrangementer, aktiviteter og oversigter, Kunst og underholdning > Scenekunst > Cirkus, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Føde- og drikkevareevents, Kunst og underholdning > Scenekunst ",
+      "headTopics": "Emner: Arrangementer, aktiviteter og oversigter",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1389917464820718237"
+      ],
+      "lpu": "http://www.reddit.com/r/raining",
+      "allTopics": "Emner: Nyheder > Vejret ",
+      "headTopics": "Emner: Vejret",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2332227160725150870"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarydragons",
+      "allTopics": "Topics: Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > Visual Art & Design, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Movies > Animated Films, Arts & Entertainment > Visual Art & Design > Painting, Arts & Entertainment > Visual Art & Design > Sculpture ",
+      "headTopics": "Topics: Cartoons",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2018747690941193760"
+      ],
+      "lpu": "http://www.reddit.com/r/ebes",
+      "allTopics": "Emner: Kunst og underholdning > Offbeat > Det okkulte og paranormale, Kunst og underholdning > Offbeat, Kunst og underholdning > Scenekunst > Magi, Kunst og underholdning > Film > Horrorfilm, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Det okkulte og paranormale",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2723865607526943612"
+      ],
+      "lpu": "http://www.reddit.com/r/putaneggonit",
+      "allTopics": "Emner: Mad og drikke > Madlavning og opskrifter, Mad og drikke > Fødevarer > Morgenmad, Mad og drikke > Fødevarer > Mejerivarer og æg, Mad og drikke > Fødevarer > Kød og alt godt fra havet, Mad og drikke > Fødevarer > Kød og alt godt fra havet > Fjerkræ, Mad og drikke > Fødevarer > Krydderier og dressing, Mad og drikke > Fødevarer > Kød og alt godt fra havet > Svinekød, Mad og drikke > Fødevarer > Bagværk, Mad og drikke > Madlavning og opskrifter > Desserter, Mad og drikke > Madlavning og opskrifter > Salater, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Vegetarmad, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Middelhavsretter > Italiensk mad, Mad og drikke > Fødevarer > Syltetøj, gelé og marmelade, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden, Mad og drikke > Fødevarer > Kød og alt godt fra havet > Oksekød, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Tysk mad, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Østeuropæisk mad, Mad og drikke > Madlavning og opskrifter > Sund kost, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Sydøstasiatisk mad ",
+      "headTopics": "Emner: Madlavning og opskrifter",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13193750977826655505"
+      ],
+      "lpu": "http://www.reddit.com/r/bettermentbookclub",
+      "allTopics": "Emner: Bøger og litteratur, Bøger og litteratur > Boghandlere, Bøger og litteratur > Litterære klassikere, Bøger og litteratur > Børnebøger ",
+      "headTopics": "Emner: Bøger og litteratur",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7974106611672275079"
+      ],
+      "lpu": "https://www.reddit.com/r/totallynotrobots",
+      "allTopics": "Topics: Science > Engineering & Technology > Robotics, Science > Computer Science > Machine Learning & Artificial Intelligence ",
+      "headTopics": "Topics: Robotics",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6575851681259830635"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarycolorscapes",
+      "allTopics": "Topics: Online Communities > Online Goodies > Skins Themes & Wallpapers, Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Online Goodies > Clip Art & Animated GIFs, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Blogging Resources & Services, Online Communities > Online Goodies, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Skins Themes & Wallpapers",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5559698630796215563"
+      ],
+      "lpu": "https://www.reddit.com/r/oldschoolcelebs",
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Film, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Film > Filmreferencer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/horror",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3783054506892596845"
+      ],
+      "lpu": "https://www.zapals.com/zerotech-dobby-pocket-selfie-rc-quadcopter-fpv-13mp-4k-camera-drone.html",
+      "allTopics": "Emner: Hobby og fritid > Radiostyring og modeller, Hobby og fritid, Hobby og fritid > Radiostyring og modeller > Modeljernbane, Hobby og fritid > Fritidsflyvning ",
+      "headTopics": "Emner: Radiostyring og modeller",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/horror",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15268888835231251931"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/horror",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6978023\\/300x600.jpg"
+      ],
+      "lpu": "http://track.victoriahearts.com/2c2074bf-941b-4c8f-82b5-4af097aa2e8a",
+      "allTopics": "Emner: Onlinefællesskaber > Kontaktannoncer og personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Ægteskabstjenester, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Forum- og chatleverandører ",
+      "headTopics": "Emner: Kontaktannoncer og personlige",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14106685491654640708"
+      ],
+      "lpu": "http://notsafeforwork.com/",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Offbeat, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Visuel kunst og design > Foto- og digitalkunst, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1794827101870604121"
+      ],
+      "lpu": "https://www.zapals.com/jxd-523w-foldable-selfie-wifi-fpv-rc-drone-with-camera-altitude-hold.html",
+      "allTopics": "Emner: Hobby og fritid > Radiostyring og modeller, Hobby og fritid, Hobby og fritid > Radiostyring og modeller > Modeljernbane, Hobby og fritid > Fritidsflyvning ",
+      "headTopics": "Emner: Radiostyring og modeller",
+      "type": "targeted"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "basePages": {
+    "http://www.bluemaize.net/": {
+      "allTopics": "Topics: Shopping, Shopping > Shopping Portals & Search Engines, Shopping > Mass Merchants & Department Stores, Shopping > Apparel, Shopping > Consumer Resources, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Auctions, Shopping > Consumer Resources > Product Reviews & Price Comparisons > Price Comparisons, Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs, Shopping > Discount & Outlet Stores ",
+      "headTopics": "Topics: Shopping"
+    },
+    "http://www.bluemaize.net/contact": {
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Athletic Shoes"
+    },
+    "http://www.bluemaize.net/shirts/": {
+      "allTopics": "Topics: Internet & Telecom > Service Providers > ISPs, Internet & Telecom > Service Providers > Phone Service Providers, Internet & Telecom > Service Providers, Internet & Telecom > Mobile & Wireless, Internet & Telecom > Service Providers > Cable & Satellite Providers, Internet & Telecom > Service Providers > Phone Service Providers > Calling Cards ",
+      "headTopics": "Topics: ISPs"
+    },
+    "http://www.bluemaize.net/rings/": {
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Athletic Shoes"
+    },
+    "http://www.bluemaize.net/bags/designer-shopping-bags": {
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Luxury Goods, Shopping > Discount & Outlet Stores, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Outerwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Handbags & Purses"
+    },
+    "http://mystore411.com/": {
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Discount & Outlet Stores ",
+      "headTopics": "Topics: Mass Merchants & Department Stores"
+    },
+    "http://www.mystore411.com/store/listing/2/Target-store-locations": {
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Discount & Outlet Stores, Shopping, Shopping > Apparel, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Shopping Portals & Search Engines, Shopping > Wholesalers & Liquidators, Shopping > Entertainment Media ",
+      "headTopics": "Topics: Mass Merchants & Department Stores"
+    },
+    "https://www.outletbound.com/": {
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Discount & Outlet Stores, Shopping, Shopping > Apparel, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Shopping Portals & Search Engines, Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs, Shopping > Wholesalers & Liquidators, Shopping > Entertainment Media ",
+      "headTopics": "Topics: Mass Merchants & Department Stores"
+    },
+    "https://www.outletbound.com/outlet-news/outlet-shopping-tips": {
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Discount & Outlet Stores, Shopping, Shopping > Apparel, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Shopping Portals & Search Engines, Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs, Shopping > Wholesalers & Liquidators, Shopping > Entertainment Media ",
+      "headTopics": "Topics: Mass Merchants & Department Stores"
+    },
+    "http://outlet2go.com/outlet-sweden": {
+      "allTopics": "Topics: Shopping > Discount & Outlet Stores, Shopping > Mass Merchants & Department Stores, Shopping, Shopping > Apparel, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Apparel > Athletic Apparel, Shopping > Shopping Portals & Search Engines, Shopping > Wholesalers & Liquidators, Shopping > Entertainment Media ",
+      "headTopics": "Topics: Discount & Outlet Stores"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://www.bluemaize.net/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15391978805306834600"
+      ],
+      "lpu": "https://www.tableau.com/asset/define-analytics",
+      "allTopics": "Topics: Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology, Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM), Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Software > Open Source, Computers & Electronics > Software > Multimedia Software > Desktop Publishing, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software, Computers & Electronics > Software > Business & Productivity Software > Calendar & Scheduling Software, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Software > Business & Productivity Software > Accounting & Financial Software ",
+      "headTopics": "Topics: Business & Productivity Software",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/contact",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4642617315918138778"
+      ],
+      "lpu": "http://www.grammarly.com/",
+      "allTopics": "Topics: Reference > Language Resources, Reference > Language Resources > Foreign Language Resources, Reference > General Reference > Dictionaries & Encyclopedias, Reference > Language Resources > Foreign Language Resources > Translation Tools & Resources, Reference > Language Resources > Foreign Language Resources > Foreign Language Study, Reference > General Reference > Educational Resources, Reference > General Reference, Reference > General Reference > Forms Guides & Templates ",
+      "headTopics": "Topics: Language Resources",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5290986507533329963"
+      ],
+      "lpu": "http://www.tdchosting.dk/online-shop/small-business-partner/",
+      "allTopics": "Topics: Internet & Telecom > Web Services > Hosted Data Storage, Internet & Telecom > Web Apps & Online Tools, Internet & Telecom > Web Services > Web Hosting & Domain Registration, Internet & Telecom > Web Services ",
+      "headTopics": "Topics: Hosted Data Storage",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/shirts/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3536214578259555524"
+      ],
+      "lpu": "https://bravafabrics.com/en/long-sleeves-printed-shirts/9-fixed-gear-rider-printed-shirt.html",
+      "allTopics": "Topics: Autos & Vehicles > Bicycles & Accessories, Autos & Vehicles > Bicycles & Accessories > Road Bikes, Autos & Vehicles > Bicycles & Accessories > Mountain Bikes, Autos & Vehicles > Bicycles & Accessories > Bike Frames, Autos & Vehicles > Bicycles & Accessories > Cruiser Bikes, Autos & Vehicles > Bicycles & Accessories > Bike Parts & Repair, Autos & Vehicles > Hybrid & Alternative Vehicles > Electric & Plug-In Vehicles, Autos & Vehicles > Bicycles & Accessories > Bike Accessories, Autos & Vehicles > Bicycles & Accessories > Bike Helmets & Protective Gear, Autos & Vehicles > Bicycles & Accessories > BMX Bikes, Autos & Vehicles > Bicycles & Accessories > Kid's Bikes ",
+      "headTopics": "Topics: Bicycles & Accessories",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/rings/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/17066756399735952839"
+      ],
+      "lpu": "https://www.zendesk.com/support",
+      "allTopics": "Topics: Computers & Electronics > Enterprise Technology, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics, Computers & Electronics > Networking > Network Monitoring & Management, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM) ",
+      "headTopics": "Topics: Enterprise Technology",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/rings/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1224690033286540387"
+      ],
+      "lpu": "http://6219.xg4ken.com/trk/v1",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.bluemaize.net/bags/designer-shopping-bags",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15397257140992922852"
+      ],
+      "lpu": "http://www.barneyswarehouse.com/",
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Apparel, Shopping > Discount & Outlet Stores, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Men's Clothing, Shopping, Shopping > Luxury Goods, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Outerwear, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Mass Merchants & Department Stores",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/bags/designer-shopping-bags",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6440707\\/300x250_DK_M_GIF_PRO_SHO_mob_sneaker_1617.gif",
+        "https:\\/\\/s0.2mdn.net\\/6440707\\/728x90_DK_M_GIF_PRO_SHO_mob_sneaker_1617.gif"
+      ],
+      "lpu": "https://www.zalando.dk/herresko-sneakers/",
+      "allTopics": "Keywords: sneakers ",
+      "headTopics": "Sneakers 1",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/bags/designer-shopping-bags",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/6440707\\/728x90_DK_M_IMG_MPM_MIX_mob_nordic_trends_sporty_2017.gif"
+      ],
+      "lpu": "https://www.zalando.dk/herre-sporty/",
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Footwear, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Outerwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Athletic Shoes",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://mystore411.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6440707\\/728x90_DK_M_GIF_MPM_MIX_mob_summer_1721.jpg"
+      ],
+      "lpu": "https://www.zalando.dk/sommer-2017-herrer/",
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Footwear, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Outerwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Athletic Shoes",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.mystore411.com/store/listing/2/Target-store-locations",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6440707\\/728x90_DK_M_IMG_MPM_MIX_mob_football_zanka_2017.gif"
+      ],
+      "lpu": "https://www.zalando.dk/herrer/adidas.nudie.only-sons/",
+      "allTopics": "Topics: Shopping > Apparel > Eyewear > Sunglasses, Shopping > Apparel > Eyewear, Shopping > Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Clothing Accessories > Watches, Shopping > Luxury Goods, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Footwear, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Discount & Outlet Stores ",
+      "headTopics": "Topics: Sunglasses",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.mystore411.com/store/listing/2/Target-store-locations",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6440707\\/1-728x90_DK_M_GIF_PRO_MIX_mob_nordic_brands_2117.gif"
+      ],
+      "lpu": "https://www.zalando.dk/skandinavisk-mode-men/",
+      "allTopics": "Sites: zalando.dk ",
+      "headTopics": "Sites/Channels 1",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9746592470078529405",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10884895410655911639",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10476155804259079126"
+      ],
+      "lpu": "http://www.episerver.com/resources/ebooks/a-guide-to-mastering-ecommerce/",
+      "allTopics": "Topics: Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics, Computers & Electronics > Software > Open Source, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Consumer Electronics, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Computer Hardware, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology, Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Software > Operating Systems > Mobile OS ",
+      "headTopics": "Topics: Content Management",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17798386770332603197",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14028192562285262209"
+      ],
+      "lpu": "https://www.qnts.dk/",
+      "allTopics": "Topics: Shopping > Apparel > Women's Clothing, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Undergarments, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Sleepwear, Shopping > Apparel, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Footwear, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Outerwear, Shopping > Apparel > Swimwear, Shopping > Apparel > Formal Wear, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Women's Clothing",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/5110224\\/1485175209323\\/300x250\\/300x250.html"
+      ],
+      "lpu": "https://www.sas.dk/udforsk",
+      "allTopics": "Keywords: sas ",
+      "headTopics": "Sas",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/5110224\\/806423_SAS_Eurobonus_300x250_DK.jpg"
+      ],
+      "lpu": "https://www.sas.dk/eurobonus/bliv-medlem/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/674668809855947835",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11664944862330967049"
+      ],
+      "lpu": "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem",
+      "allTopics": "Topics: Business & Industrial > Advertising & Marketing > Sales, Business & Industrial > Business Operations > Human Resources > Corporate Training, Business & Industrial > Business Operations > Management, Business & Industrial > Business Services > Consulting, Business & Industrial > Business Operations > Human Resources, Business & Industrial > Business Education, Business & Industrial > Business Operations > Management > Project Management, Business & Industrial > Business Operations, Business & Industrial > Advertising & Marketing > Telemarketing, Business & Industrial > Business Services > Corporate Events ",
+      "headTopics": "Topics: Sales",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/597\\/s1.adformdsp.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.outletbound.com/outlet-news/outlet-shopping-tips",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/powered-by-google.png"
+      ],
+      "lpu": "http://www.en-fashionstock.hu",
+      "allTopics": "Topics: Shopping > Apparel, Shopping > Apparel > Children's Clothing, Shopping > Photo & Video Services > Stock Photography, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Discount & Outlet Stores, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Footwear, Shopping > Apparel > Outerwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Formal Wear, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Apparel",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://outlet2go.com/outlet-sweden",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8248437047034392351"
+      ],
+      "lpu": "https://offers.karamba.dk/DK/wheel",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > TV Shows & Programs > TV Game Shows, Arts & Entertainment > TV & Video, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Reality Shows, Arts & Entertainment > TV & Video > TV Guides & Reference, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows ",
+      "headTopics": "Topics: TV Game Shows",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://outlet2go.com/outlet-sweden",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14183353091848707447"
+      ],
+      "lpu": "https://www.shopalike.dk/tasker/haandtasker/",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Auctions, Shopping > Apparel > Clothing Accessories, Shopping > Apparel, Shopping > Apparel > Women's Clothing, Shopping > Luxury Goods, Shopping > Antiques & Collectibles, Shopping > Apparel > Children's Clothing, Shopping > Shopping Portals & Search Engines, Shopping > Apparel > Apparel Services, Shopping > Wholesalers & Liquidators, Shopping > Green & Eco-Friendly Shopping ",
+      "headTopics": "Topics: Handbags & Purses",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://outlet2go.com/outlet-sweden",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15829362583303139089"
+      ],
+      "lpu": "http://erduitvivl.dk/",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Baked Goods, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Breakfast Foods, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Food & Grocery Retailers > Bakeries, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Cooking & Recipes > Cuisines > French Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "targeted"
+    }
+  ]
+}

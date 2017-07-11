@@ -1,0 +1,13 @@
+[
+  {
+    "basePage": "http://jobatsea.org/#sthash.y2gTmNuM.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1342940868329342066",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/8249495314715511112",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/3137542149075511225"
+    ],
+    "lpu": "http://www.singlesrussian.com/go.php",
+    "type": "targeted"
+  }
+]

@@ -1,0 +1,291 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Computer Hardware, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Computer Hardware > Computer Components > Sound & Video Cards, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Hardware Modding & Tuning, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/player/article/today_show-today:trump_admits_no_comey_tapes_calls_muellercomey_rel-5min": {
+      "allTopics": "Topics: Law & Government > Public Safety > Law Enforcement, Law & Government > Government > Intelligence & Counterterrorism, Law & Government > Public Safety > Crime & Justice, Law & Government > Government > Executive Branch, Law & Government > Public Safety, Law & Government > Government > Legislative Branch, Law & Government > Government, Law & Government > Public Safety > Crime & Justice > Prisons & Corrections, Law & Government > Legal > Criminal Law, Law & Government > Public Safety > Crime & Justice > Corporate & Financial Crime, Law & Government > Government > Lobbying ",
+      "headTopics": "Topics: Law Enforcement"
+    },
+    "http://startpage.lenovo.com/player/category/sports/article/sports_illustrated-dennis_rodman_claims_he_begged_north_korean_leader-5min": {
+      "allTopics": "Topics: Sports > Team Sports > Basketball, Sports > Sporting Goods > Basketball Equipment, Sports > College Sports ",
+      "headTopics": "Topics: Basketball"
+    },
+    "http://www.dailymail.co.uk/news/article-3139711/A-new-graduates-jobs-don-t-require-degrees-number-ending-menial-work-doubles-seven-years.html": {
+      "allTopics": "Topics: Jobs & Education > Education > Colleges & Universities, Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Education > Distance Learning, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Education > Study Abroad, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs ",
+      "headTopics": "Topics: Colleges & Universities"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/Futurology/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/user/Fat_kid_with_cake": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://9gag.com/fresh": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/science": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials, Arts & Entertainment > Music & Audio > Music Art & Memorabilia ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/gag/a77nrD2/20-great-jobs-for-people-who-love-to-travel": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/598\\/s1.adformdsp.net\\/load\\/v\\/0.0.126\\/e\\/.wMDAo\\/i\\/8IF-EAAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13547305687085458569"
+      ],
+      "lpu": "http://www.msk.dk/",
+      "allTopics": "Topics: Jobs & Education > Education > Colleges & Universities, Jobs & Education > Education > Primary & Secondary Schooling (K-12), Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Teaching & Classroom Resources > Lesson Plans, Jobs & Education > Education > Teaching & Classroom Resources, Jobs & Education > Education, Jobs & Education > Education > Study Abroad, Jobs & Education > Education > Alumni & Reunions, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education ",
+      "headTopics": "Topics: Colleges & Universities",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/today_show-today:trump_admits_no_comey_tapes_calls_muellercomey_rel-5min",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10177624678739387040"
+      ],
+      "lpu": "https://dis-kbh.dk/vaerthttps://dis-kbh.dk/vaertsfamilie/vind-rejse-new-york-to-personer/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/category/sports/article/sports_illustrated-dennis_rodman_claims_he_begged_north_korean_leader-5min",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/3603648171012602298",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/11085876281950525031",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9900414386329899857",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/6479183276763787959",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/4878743086549306421",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5749520884556604515",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/4618489590015060066"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12966872089208288713"
+      ],
+      "lpu": "https://www.newchic.com/flats-3616/p-1111715.html",
+      "allTopics": "Topics: Shopping > Apparel > Footwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Apparel > Footwear > Boots, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Clothing Accessories, Shopping > Discount & Outlet Stores, Shopping > Apparel > Apparel Services, Shopping > Apparel > Uniforms & Workwear, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Footwear",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-3139711/A-new-graduates-jobs-don-t-require-degrees-number-ending-menial-work-doubles-seven-years.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12702273454518853756",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/3023646564917634426"
+      ],
+      "lpu": "http://www.teknologisk.dk/ydelser/teknologi-og-samfund/22706",
+      "allTopics": "Topics: Science > Engineering & Technology, Science > Scientific Equipment ",
+      "headTopics": "Topics: Engineering & Technology",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-3139711/A-new-graduates-jobs-don-t-require-degrees-number-ending-menial-work-doubles-seven-years.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5749520884556604515"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/aktiemarkedsudsigt/4c/index.php",
+      "allTopics": "Topics: Finance > Investing, Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17293643434740621086"
+      ],
+      "lpu": "http://www.qatarairways.com/en-dk/offers/regional-promotion.html",
+      "allTopics": "Topics: Travel > Air Travel, Travel > Air Travel > Airport Parking & Transportation, Travel > Travel Agencies & Services, Travel > Bus & Rail, Travel, Travel > Car Rental & Taxi Services, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel, Travel > Luggage & Travel Accessories ",
+      "headTopics": "Topics: Air Travel",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1389917464820718237"
+      ],
+      "lpu": "http://www.reddit.com/r/raining",
+      "allTopics": "Topics: News > Weather ",
+      "headTopics": "Topics: Weather",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/Futurology/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15670417679943435234",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4887307230401907994"
+      ],
+      "lpu": "https://ulstein.com/people/vacant-positions",
+      "allTopics": "Topics: Autos & Vehicles > Boats & Watercraft, Autos & Vehicles > Vehicle Shopping, Autos & Vehicles > Vehicle Parts & Accessories, Autos & Vehicles > Vehicle Parts & Accessories > Engine & Transmission, Autos & Vehicles > Vehicle Brands > Mercury ",
+      "headTopics": "Topics: Boats & Watercraft",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13878492965602949150"
+      ],
+      "lpu": "http://www.qatarairways.com/en-dk/offers/cug/regional-mobile-offer.html",
+      "allTopics": "Topics: Travel > Air Travel, Travel > Air Travel > Airport Parking & Transportation, Travel > Bus & Rail, Travel > Travel Agencies & Services, Travel, Travel > Car Rental & Taxi Services, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel, Travel > Luggage & Travel Accessories ",
+      "headTopics": "Topics: Air Travel",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Cards & Greetings, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Gifts",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3931771345052126631"
+      ],
+      "lpu": "http://www.reddit.com/r/exhibit_Art",
+      "allTopics": "Topics: Arts & Entertainment > Visual Art & Design > Art Museums & Galleries, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Art Museums & Galleries",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/Fat_kid_with_cake",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17342200210219457069"
+      ],
+      "lpu": "https://www.reddit.com/r/tinysubredditoftheday",
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Dating & Personals > Personals, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Online Journals & Personal Sites, Online Communities > Photo & Video Sharing, Online Communities > Blogging Resources & Services > Microblogging, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/Fat_kid_with_cake",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9791785482299250011"
+      ],
+      "lpu": "https://www.reddit.com/r/sciencehumour",
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://9gag.com/fresh",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9181849461246737536"
+      ],
+      "lpu": "http://9gag.com/savage",
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials, Arts & Entertainment > Music & Audio > Music Art & Memorabilia ",
+      "headTopics": "Topics: Humor",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://9gag.com/fresh",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15268888835231251931"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/60217749\\/20170525233715502\\/index.html"
+      ],
+      "lpu": "https://adserver.adtech.de/adlink/1282/6393559/0/170/AdId%3D18064923",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/science",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6515727603852153380"
+      ],
+      "lpu": "http://www.charmdate.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/science",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16614461318869352345"
+      ],
+      "lpu": "http://clickserve.dartsearch.net/link/click",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://9gag.com/gag/a77nrD2/20-great-jobs-for-people-who-love-to-travel",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10893436598808575392"
+      ],
+      "lpu": "http://a.faciletest.com",
+      "allTopics": "Topics: Health > Public Health > Occupational Health & Safety, Health > Medical Devices & Equipment, Health > Medical Facilities & Services > Medical Procedures > Medical Tests & Exams, Health > Health Conditions > Heart & Hypertension, Health > Health Conditions > Injury, Health > Health Conditions > Diabetes, Health > Medical Facilities & Services > Medical Procedures > Surgery, Health > Public Health > Poisons & Overdoses, Health > Health Conditions > Respiratory Conditions, Health > Medical Devices & Equipment > Assistive Technology > Mobility Equipment & Accessories, Health > Medical Facilities & Services > Medical Procedures, Health > Medical Devices & Equipment > Assistive Technology ",
+      "headTopics": "Topics: Occupational Health & Safety",
+      "type": "targeted"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-new_york_city_deli_clerk_gets_jaw_broken_in_avocad-ap": {
+      "allTopics": "Topics: Food & Drink > Food > Fruits & Vegetables, Food & Drink > Beverages > Juice, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Snack Foods, Food & Drink > Food > Herbs & Spices, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Soups & Stews, Food & Drink, Food & Drink > Food > Organic & Natural Foods, Food & Drink > Food & Grocery Retailers > Farmers' Markets ",
+      "headTopics": "Topics: Fruits & Vegetables"
+    },
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware, Computers & Electronics > Software > Operating Systems > Mobile OS > Android OS, Computers & Electronics > Software > Operating Systems > Mobile OS > Apple iOS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Computer Hardware > Computer Peripherals > Input Devices, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > PDAs & Handhelds, Computers & Electronics > Computer Hardware > Computer Peripherals > Computer Monitors & Displays, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/user/edu-fk": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "http://imgur.com/gallery/ThAiJ": {
+      "allTopics": "Topics: Online Communities > Online Goodies > Clip Art & Animated GIFs, Online Communities > Social Networks, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Online Goodies, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Clip Art & Animated GIFs"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > TV Commercials, Arts & Entertainment > TV & Video > Online Video > Web Series ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-new_york_city_deli_clerk_gets_jaw_broken_in_avocad-ap",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/3632474\\/2464_MeetingPlanner_TriplePoints_DigitalBannerAds_300x250_cpv1-min.jpg"
+      ],
+      "lpu": "http://hiltonhonors3.hilton.com/en/promotions/event-planner/index.html",
+      "allTopics": "Topics: Travel > Hotels & Accommodations, Travel > Travel Agencies & Services, Travel > Tourist Destinations > Beaches & Islands, Travel > Tourist Destinations > Mountain & Ski Resorts, Travel > Specialty Travel > Agritourism, Travel > Tourist Destinations, Travel > Tourist Destinations > Theme Parks, Travel > Tourist Destinations > Lakes & Rivers, Travel, Travel > Specialty Travel, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel > Ecotourism ",
+      "headTopics": "Topics: Hotels & Accommodations",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15510779222078835650"
+      ],
+      "lpu": "https://www.telenor.dk/shop/mobil/apple/apple-iphone-7-32gb-sort",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Service Providers > Phone Service Providers, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones, Internet & Telecom > Mobile & Wireless, Internet & Telecom > Service Providers > ISPs, Internet & Telecom > Mobile & Wireless > Mobile & Wireless Accessories, Internet & Telecom > Service Providers, Internet & Telecom > Service Providers > Phone Service Providers > Calling Cards ",
+      "headTopics": "Topics: Smart Phones",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3431578816881130663",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3845912557772324932"
+      ],
+      "lpu": "https://ad.atdmt.com/c/img",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/175634804632281670"
+      ],
+      "lpu": "http://pixel.everesttech.net/845/c",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Custom & Personalized Items, Shopping > Gifts & Special Event Items > Cards & Greetings ",
+      "headTopics": "Topics: Gifts",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17221339884021287550"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/arbitrary-day-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Custom & Personalized Items, Shopping > Gifts & Special Event Items > Cards & Greetings ",
+      "headTopics": "Topics: Gifts",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17292029346331024546"
+      ],
+      "lpu": "https://www.reddit.com/r/Keratoconus/",
+      "allTopics": "Topics: Health > Vision Care, Health > Vision Care > Eye Exams & Optometry, Health > Vision Care > Laser Vision Correction, Health > Vision Care > Eyeglasses & Contacts, Health > Health Conditions, Health > Pharmacy > Drugs & Medications, Health > Medical Facilities & Services > Hospitals & Treatment Centers, Health > Health Conditions > Diabetes, Health > Health Conditions > Genetic Disorders, Health > Medical Facilities & Services > Medical Procedures > Surgery, Health > Medical Facilities & Services, Health > Health Conditions > Pain Management > Headaches & Migraines, Health > Medical Facilities & Services > Doctors' Offices, Health > Medical Devices & Equipment > Assistive Technology ",
+      "headTopics": "Topics: Vision Care",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s1.adform.net\\/stoat\\/597\\/s1.adform.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:types\\/ThirdParty"
+      ],
+      "lpu": "https://r-ad.bsx.agency/",
+      "allTopics": "Topics: Shopping > Apparel > Uniforms & Workwear, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses ",
+      "headTopics": "Topics: Uniforms & Workwear",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1834086872208534863"
+      ],
+      "lpu": "http://www.reddit.com/r/california",
+      "allTopics": "Topics: News > Politics > Campaigns & Elections, News > Politics > Political Polls & Surveys, News > Weather, News > Politics, News > Politics > Right-Wing Politics, News > Politics > Left-Wing Politics ",
+      "headTopics": "Topics: Campaigns & Elections",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/175634804632281670"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/user/edu-fk",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9007114057570493407"
+      ],
+      "lpu": "https://www.reddit.com/r/btc",
+      "allTopics": "Topics: Finance > Investing > Currencies & Foreign Exchange, Finance, Finance > Banking > Money Transfer & Wire Services ",
+      "headTopics": "Topics: Currencies & Foreign Exchange",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/edu-fk",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10346931471145466712"
+      ],
+      "lpu": "https://www.reddit.com/r/fantrailers",
+      "allTopics": "Topics: Books & Literature > Fan Fiction ",
+      "headTopics": "Topics: Fan Fiction",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://imgur.com/gallery/ThAiJ",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1342940868329342066"
+      ],
+      "lpu": "http://www.singlesrussian.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://imgur.com/gallery/ThAiJ",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8634384785167448084"
+      ],
+      "lpu": "http://clickserve.dartsearch.net/link/click",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Music & Audio > World Music > African Music, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Performing Arts > Magic, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14491467945615293279",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2695423228896176665"
+      ],
+      "lpu": "https://9gag.com/ugly",
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment, Arts & Entertainment > Offbeat, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > Entertainment Industry, Arts & Entertainment > Performing Arts > Circus, Arts & Entertainment > Humor > Political Humor ",
+      "headTopics": "Topics: Humor",
+      "type": "contextual"
+    }
+  ]
+}

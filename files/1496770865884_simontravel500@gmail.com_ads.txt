@@ -1,0 +1,11 @@
+[
+  {
+    "basePage": "https://www.ethiojobs.net/company/72737/Institute-of-International-Education/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11989335241126021403"
+    ],
+    "lpu": "http://www.tableau.com/asset/top-10-business-intelligence-trends-2017",
+    "type": "generic"
+  }
+]

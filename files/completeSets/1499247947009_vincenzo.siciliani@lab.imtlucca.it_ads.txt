@@ -1,0 +1,448 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-us_marks_independence_day_with_pomp_dazzle_hot_dog-ap": {
+      "allTopics": "Emner: Hobby og fritid > Specielle lejligheder > Ferie- og højtidsarrangementer, Hobby og fritid > Specielle lejligheder, Hobby og fritid > Specielle lejligheder > Ferie- og højtidsarrangementer > Islamiske helligdage, Hobby og fritid > Specielle lejligheder > Ferie- og højtidsarrangementer > Halloween og 31. oktober, Hobby og fritid > Specielle lejligheder > Ferie- og højtidsarrangementer > Nytår, Hobby og fritid > Specielle lejligheder > Ferie- og højtidsarrangementer > Karneval og Mardi Gras, Hobby og fritid > Specielle lejligheder > Ferie- og højtidsarrangementer > Kristne helligdage ",
+      "headTopics": "Emner: Ferie- og højtidsarrangementer"
+    },
+    "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-chanel_aims_high_with_starry_eiffel_tower_paris_sh-ap": {
+      "allTopics": "Emner: Skønhed og fitness > Mode og stil > Modedesignere og kollektioner, Skønhed og fitness > Mode og stil, Skønhed og fitness > Hårpleje, Skønhed og fitness > Ansigts- og kropspleje > Parfume og dufte ",
+      "headTopics": "Emner: Modedesignere og kollektioner"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-smackdown_trumps_insult_act_comes_from_pro_wrestli-ap": {
+      "allTopics": "Emner: Nyheder > Politik, Nyheder > Politik > Venstrefløjspolitik, Nyheder > Internationale nyheder, Nyheder > Politik > Højrefløjspolitik, Nyheder > Politik > Opinion og kommentar, Nyheder > Politik > Kampagner og valg, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Politik"
+    },
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Hardware Modding & Tuning, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Computer Hardware > Computer Drives & Storage, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/player/article/storyful_studio-kid_is_too_cool_for_bounce_house-5min": {
+      "allTopics": "Emner: Indkøb > Legetøj > Udelegetøj og legeudstyr, Indkøb > Gaver og mærkedagevarer > Fest- og helligdagsartikler, Indkøb > Beklædning > Kostumer, Indkøb > Legetøj > Kørelegetøj og vogne ",
+      "headTopics": "Emner: Udelegetøj og legeudstyr"
+    },
+    "http://startpage.lenovo.com/player/article/storyful_studio-multivehicle_incident_on_interstate_81_outside_tam-5min": {
+      "allTopics": "Sites: startpage.lenovo.com ",
+      "headTopics": "Sites/Channels 1"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Emner: Nyheder > Aviser, Nyheder > Sladder og sladdernyheder, Nyheder > Lokale nyheder, Nyheder, Nyheder > Journalistik og nyhedsindustri, Nyheder > Politik > Opinion og kommentar, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Aviser"
+    },
+    "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html": {
+      "allTopics": "Emner: Biler og køretøjer > Indkøb af køretøj, Biler og køretøjer > Mærker på motorkøretøjer > VW (Folkevogn), Biler og køretøjer > Mærker på motorkøretøjer > Hyundai, Biler og køretøjer > Mærker på motorkøretøjer, Biler og køretøjer > Mærker på motorkøretøjer > Toyota, Biler og køretøjer > Mærker på motorkøretøjer > Vauxhall-Opel, Biler og køretøjer > Mærker på motorkøretøjer > Mercedes-Benz, Biler og køretøjer > Mærker på motorkøretøjer > Audi, Biler og køretøjer > Mærker på motorkøretøjer > Citroën, Biler og køretøjer > Mærker på motorkøretøjer > Peugeot, Biler og køretøjer > Mærker på motorkøretøjer > Fiat, Biler og køretøjer > Mærker på motorkøretøjer > Renault-Samsung, Biler og køretøjer > Mærker på motorkøretøjer > Kia, Biler og køretøjer > Mærker på motorkøretøjer > SEAT, Biler og køretøjer > Indkøb af køretøj > Bilspecifikationer, anmeldelser og sammenligninger ",
+      "headTopics": "Emner: Indkøb af køretøj"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/user/Uruk-hai_of_Saruman": {
+      "allTopics": "Emner: Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Film > Science fiction- og fantasyfilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Humor, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Familieorienterede tv-shows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Film > Action- og eventyrfilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion ",
+      "headTopics": "Emner: Onlinevideo"
+    },
+    "https://www.reddit.com/r/BlackPeopleTwitter/": {
+      "allTopics": "Emner: Onlinefællesskaber > Kontaktannoncer og personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Ægteskabstjenester, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Forum- og chatleverandører, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder ",
+      "headTopics": "Emner: Kontaktannoncer og personlige"
+    },
+    "https://www.reddit.com/r/UpliftingNews/": {
+      "allTopics": "Emner: Mennesker og samfund > Religion og tro > Selvhjælp og motivation, Mennesker og samfund > Religion og tro > Spiritualitet, Mennesker og samfund > Familie og forhold > Kriseramte forhold, Mennesker og samfund > Samfundsvidenskab > Psykologi, Mennesker og samfund > Religion og tro, Mennesker og samfund > Familie og forhold > Romantik, Mennesker og samfund > Familie og forhold > Venskab, Mennesker og samfund > Samfundsvidenskab > Kommunikations- og mediestudier > Retorik, Mennesker og samfund > Familie og forhold, Mennesker og samfund > Etniske grupper og identitetsgrupper > Afrikanere og eksilgrupper > Afrikansk-amerikanere ",
+      "headTopics": "Emner: Selvhjælp og motivation"
+    },
+    "https://www.reddit.com/r/creepy/": {
+      "allTopics": "Emner: Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Familieorienterede tv-shows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion ",
+      "headTopics": "Emner: Onlinevideo"
+    },
+    "https://www.reddit.com/r/whatcarshouldIbuy/": {
+      "allTopics": "Emner: Biler og køretøjer > Mærker på motorkøretøjer > Audi, Biler og køretøjer > Mærker på motorkøretøjer > BMW, Biler og køretøjer > Mærker på motorkøretøjer > VW (Folkevogn), Biler og køretøjer > Mærker på motorkøretøjer > Mercedes-Benz, Biler og køretøjer > Indkøb af køretøj > Bilspecifikationer, anmeldelser og sammenligninger, Biler og køretøjer > Mærker på motorkøretøjer > Hyundai, Biler og køretøjer > Indkøb af køretøj, Biler og køretøjer > Mærker på motorkøretøjer > Ford, Biler og køretøjer > Mærker på motorkøretøjer > Toyota, Biler og køretøjer > Mærker på motorkøretøjer > Vauxhall-Opel, Biler og køretøjer > Mærker på motorkøretøjer > Peugeot, Biler og køretøjer > Mærker på motorkøretøjer, Biler og køretøjer > Mærker på motorkøretøjer > Mazda, Biler og køretøjer > Mærker på motorkøretøjer > Nissan, Biler og køretøjer > Mærker på motorkøretøjer > Kia, Biler og køretøjer > Mærker på motorkøretøjer > Chevrolet, Biler og køretøjer > Mærker på motorkøretøjer > Fiat > Alfa Romeo ",
+      "headTopics": "Emner: Audi"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/gag/aojybDg/cars-and-their-faces": {
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Musik og lyd > Musikmemorabilia, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-us_marks_independence_day_with_pomp_dazzle_hot_dog-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16110205090823397801"
+      ],
+      "lpu": "http://www.meyersmad.dk/koeb-mad/frokostordning/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-us_marks_independence_day_with_pomp_dazzle_hot_dog-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7428665648921863905"
+      ],
+      "lpu": "https://www.newchic.com/wallets-3614/p-1152148.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Tøjtilbehør > Håndtasker og punge, Indkøb > Beklædning > Tøjtilbehør, Indkøb, Indkøb > Beklædning > Dametøj, Indkøb > Beklædning, Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Formel beklædning, Indkøb > Luksusvarer, Indkøb > Grøn og miljøvenlig shopping, Indkøb > Gaver og mærkedagevarer > Personlige artikler ",
+      "headTopics": "Emner: Håndtasker og punge",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-chanel_aims_high_with_starry_eiffel_tower_paris_sh-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "https://shop.wigsbuy.com/",
+      "allTopics": "Emner: Skønhed og fitness > Hårpleje, Skønhed og fitness > Kosmetologi og skønhedseksperter, Skønhed og fitness > Hårpleje > Hårtab, Skønhed og fitness > Mode og stil, Skønhed og fitness > Ansigts- og kropspleje > Hygiejne og toiletartikler, Skønhed og fitness > Ansigts- og kropspleje > Make-up og kosmetik, Skønhed og fitness > Ansigts- og kropspleje > Hud- og neglepleje, Skønhed og fitness > Ansigts- og kropspleje > Fjernelse af uønsket krops- og ansigtsbehåring, Skønhed og fitness > Ansigts- og kropspleje, Skønhed og fitness > Spa og skønhedstjenester, Skønhed og fitness ",
+      "headTopics": "Emner: Hårpleje",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-chanel_aims_high_with_starry_eiffel_tower_paris_sh-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "http://GetYourGuide.dk/-l2600/",
+      "allTopics": "Emner: Rejser > Turistmål > Historiske steder og bygninger, Rejser, Rejser > Rejsevejledninger og rejsekataloger, Rejser > Turistmål, Rejser > Turistmål > Regionale parker og haver, Rejser > Specialrejser > Sightseeingture ",
+      "headTopics": "Emner: Historiske steder og bygninger",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-chanel_aims_high_with_starry_eiffel_tower_paris_sh-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12625537571408506668"
+      ],
+      "lpu": "http://www.pierre-fabre.dk/a-derma/produkter/exomega",
+      "allTopics": "Emner: Skønhed og fitness > Ansigts- og kropspleje > Hud- og neglepleje, Skønhed og fitness > Ansigts- og kropspleje > Hygiejne og toiletartikler, Skønhed og fitness > Ansigts- og kropspleje, Skønhed og fitness > Ansigts- og kropspleje > Make-up og kosmetik, Skønhed og fitness > Kosmetiske procedurer, Skønhed og fitness > Ansigts- og kropspleje > Fjernelse af uønsket krops- og ansigtsbehåring, Skønhed og fitness > Hårpleje, Skønhed og fitness > Spa og skønhedstjenester > Massageterapi, Skønhed og fitness > Spa og skønhedstjenester, Skønhed og fitness > Ansigts- og kropspleje > Parfume og dufte, Skønhed og fitness, Skønhed og fitness > Kosmetologi og skønhedseksperter ",
+      "headTopics": "Emner: Hud- og neglepleje",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-smackdown_trumps_insult_act_comes_from_pro_wrestli-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "http://en.windsorbrokers.com/promotions/lp/gold-c/",
+      "allTopics": "Emner: Finans > Investering > Valutaer og veksling, Finans > Investering > Kurtage, Finans > Investering, Finans > Investering > Handel med råvarer og terminsforretninger, Finans > Investering > Afledte instrumenter, Finans > Investering > Aktier og obligationer, Finans > Finansiel planlægning og styring > Formue- og porteføljestyring, Finans > Investering > Pengeoverførsel > Investeringsselskaber, Finans > Investering > Pengeoverførsel > Hedgefonde, Finans > Investering > Aktier og obligationer > Børser, Finans > Investering > Aktier og obligationer > Gældsbeviser, Finans > Investering > Pengeoverførsel > Exchange Traded Funds (ETF'er) ",
+      "headTopics": "Emner: Valutaer og veksling",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-smackdown_trumps_insult_act_comes_from_pro_wrestli-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18105792768006294157"
+      ],
+      "lpu": "http://www.foreveragainstanimaltesting.com/page/9124/petition/1",
+      "allTopics": "Emner: Skønhed og fitness > Ansigts- og kropspleje, Skønhed og fitness > Ansigts- og kropspleje > Hud- og neglepleje, Skønhed og fitness > Kosmetiske procedurer, Skønhed og fitness > Hårpleje, Skønhed og fitness > Ansigts- og kropspleje > Make-up og kosmetik, Skønhed og fitness > Spa og skønhedstjenester, Skønhed og fitness > Ansigts- og kropspleje > Parfume og dufte, Skønhed og fitness, Skønhed og fitness > Kosmetologi og skønhedseksperter ",
+      "headTopics": "Emner: Ansigts- og kropspleje",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-smackdown_trumps_insult_act_comes_from_pro_wrestli-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13174313147207708445"
+      ],
+      "lpu": "http://traffic.fstsrvfst.com/jsp/redirect/444113293/index.jsp",
+      "allTopics": "Emner: Onlinefællesskaber > Virtuelle verdener ",
+      "headTopics": "Emner: Virtuelle verdener",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10740948785462893074"
+      ],
+      "lpu": "http://www.detur.dk/fly-hotel/k%25C3%25B8benhavn-bodrum",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/storyful_studio-kid_is_too_cool_for_bounce_house-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11487841231579370337"
+      ],
+      "lpu": "http://www.cirkusbygningen.dk/",
+      "allTopics": "Emner: Kunst og underholdning > Arrangementer, aktiviteter og oversigter, Kunst og underholdning > Scenekunst > Cirkus, Kunst og underholdning > Scenekunst, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Koncerter og musikfestivaler, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Billetsalg, Kunst og underholdning > Scenekunst > Skuespil og teater, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Føde- og drikkevareevents, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Barer, klubber og natteliv, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Udstillinger og messer ",
+      "headTopics": "Emner: Arrangementer, aktiviteter og oversigter",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/storyful_studio-kid_is_too_cool_for_bounce_house-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6333730024241524584"
+      ],
+      "lpu": "https://www.danskoferie.dk/",
+      "allTopics": "Emner: Rejser > Hoteller og indlogering, Rejser > Turistmål > Strande og øer, Rejser > Rejsebureauer og -tjenester, Rejser > Rejsebureauer og -tjenester > Rejsetilbud, Rejser > Specialrejser > Bondegårdsferie, Rejser, Rejser > Rejsevejledninger og rejsekataloger, Rejser > Turistmål > Feriesteder med bjerge og ski, Rejser > Turistmål, Rejser > Turistmål > Søer og floder, Rejser > Specialrejser, Rejser > Specialrejser > Oplevelsesrejser, Rejser > Specialrejser > Økoturisme ",
+      "headTopics": "Emner: Hoteller og indlogering",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/storyful_studio-multivehicle_incident_on_interstate_81_outside_tam-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11221454947320450913"
+      ],
+      "lpu": "http://www.zulily.com/reborn-tunics-dresses",
+      "allTopics": "Emner: Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Dametøj > Kjoler, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Undertøj, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Nattøj, Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Svømmetøj, Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Jakkesæt og påklædning til forretningsmænd ",
+      "headTopics": "Emner: Dametøj",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/storyful_studio-multivehicle_incident_on_interstate_81_outside_tam-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8361663573327161736"
+      ],
+      "lpu": "https://www.fashionmia.com/dresses-53/",
+      "allTopics": "Emner: Indkøb > Beklædning > Dametøj > Kjoler, Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Svømmetøj, Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Undertøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Jakkesæt og påklædning til forretningsmænd, Indkøb > Beklædning > Nattøj ",
+      "headTopics": "Emner: Kjoler",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6977052972648297084"
+      ],
+      "lpu": "http://www.skoleelever.dk/elevtelefonen/",
+      "allTopics": "Emner: Lovgivning og myndigheder > Offentlige myndigheder > Stat og kommune, Lovgivning og myndigheder > Offentlige myndigheder > Lovgivende organ, Lovgivning og myndigheder > Offentlige myndigheder > Offentlige finanser, Lovgivning og myndigheder > Offentlige myndigheder, Lovgivning og myndigheder > Sociale tjenester, Lovgivning og myndigheder > Offentlige myndigheder > Offentlig politik, Lovgivning og myndigheder, Lovgivning og myndigheder > Offentlige myndigheder > Statslige instanser ",
+      "headTopics": "Emner: Stat og kommune",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12891161862587987249",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/14348295302430054603"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/pensionsplan-15-minutter/3a/index.php",
+      "allTopics": "Emner: Finans > Finansiel planlægning og styring > Fratrædelse og pension, Finans > Investering, Finans > Investering > Pengeoverførsel > Investeringsselskaber, Finans > Finansiel planlægning og styring, Finans > Investering > Kurtage, Finans > Finansiel planlægning og styring > Formue- og porteføljestyring, Finans > Forsikring > Livsforsikring, Finans > Bankvæsen > Opsparingskonti, Finans > Investering > Afledte instrumenter, Finans > Investering > Pengeoverførsel > Hedgefonde, Finans > Investering > Aktier og obligationer > Gældsbeviser, Finans > Investering > Pengeoverførsel > Exchange Traded Funds (ETF'er) ",
+      "headTopics": "Emner: Fratrædelse og pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7737446344875008795",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9828283834300946037"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/aktiemarkedsudsigt/4c/index.php",
+      "allTopics": "Topics: Finance > Investing, Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "https://www.shopalike.dk/sko/sandaler/",
+      "allTopics": "Emner: Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning > Fodtøj > Hverdagssko, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Fodtøj > Sportssko, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Dametøj, Indkøb > Discount- og outlet-butikker, Indkøb > Beklædning, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Sportstøj, Indkøb > Beklædning > Tøjtilbehør > Håndtasker og punge, Indkøb > Beklædning > Beklædningstjenester, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Tøjtilbehør, Biler og køretøjer > Cykler og tilbehør > Cykeltøj ",
+      "headTopics": "Emner: Fodtøj",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "https://www.zapals.com/summer-essential-mens-swim-shorts-on-sale.html",
+      "allTopics": "Emner: Indkøb > Beklædning, Indkøb > Beklædning > Svømmetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Dametøj, Indkøb > Discount- og outlet-butikker, Indkøb > Beklædning > Jakkesæt og påklædning til forretningsmænd, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Dametøj > Kjoler, Indkøb > Beklædning > Undertøj, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Fritidstøj > T-shirts, Indkøb > Grossister og kuratorer, Indkøb > Beklædning > Nattøj ",
+      "headTopics": "Emner: Beklædning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "http://www.findforsikring.dk/3-tilbud-paa-en-billig-mc-knallert-eller-scooterforsikring",
+      "allTopics": "Emner: Finans > Forsikring, Finans > Forsikring > Forsikring af køretøjer > Bilforsikring, Finans > Forsikring > Indboforsikring, Finans > Forsikring > Livsforsikring, Finans > Forsikring > Forsikring af køretøjer, Finans > Forsikring > Rejseforsikring, Finans > Kredit og udlån > Lån > Ejendomsfinansiering, Finans > Finansiel planlægning og styring > Fratrædelse og pension, Finans > Kredit og udlån, Finans > Forsikring > Sundhedsforsikring, Finans > Kredit og udlån > Lån > Køretøjsfinansiering, Finans > Finansiel planlægning og styring ",
+      "headTopics": "Emner: Forsikring",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9456327206892775373"
+      ],
+      "lpu": "http://clickserve.dartsearch.net/link/click",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8732650607012478130"
+      ],
+      "lpu": "https://www.shopify.com/plus/enterprise-ecommerce",
+      "allTopics": "Topics: Computers & Electronics, Computers & Electronics > Computer Hardware > Computer Servers, Computers & Electronics > Consumer Electronics, Computers & Electronics > Computer Hardware, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Computer Hardware > Computer Drives & Storage, Computers & Electronics > Software > Operating Systems, Science > Computer Science > Distributed & Parallel Computing, Computers & Electronics > Enterprise Technology, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Network Storage, Computers & Electronics > Computer Hardware > Computer Drives & Storage > CD & DVD Drives & Burners ",
+      "headTopics": "Topics: Computers & Electronics",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/Uruk-hai_of_Saruman",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17292029346331024546"
+      ],
+      "lpu": "https://www.reddit.com/r/Keratoconus/",
+      "allTopics": "Emner: Sundhed > Synspleje, Sundhed > Synspleje > Øjenundersøgelser og optometri, Sundhed > Synspleje > Synskorrigering med laser, Sundhed > Synspleje > Briller og kontaktlinser, Sundhed > Sundhedsforhold, Sundhed > Medicinske faciliteter og tjenester > Hospitaler og behandlingscentre, Sundhed > Apoteker > Lægemidler og sygdomsforebyggelse, Sundhed > Sundhedsforhold > Genetiske sygdomme, Sundhed > Mentalhygiejne > Indlærings- og udviklingsproblemer > ADD og ADHD, Sundhed > Sundhedsforhold > Diabetes, Sundhed > Medicinske faciliteter og tjenester > Medicinske procedurer > Kirurgi, Sundhed > Medicinske faciliteter og tjenester, Sundhed > Medicinsk udstyr > Hjælpeteknologi ",
+      "headTopics": "Emner: Synspleje",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/Uruk-hai_of_Saruman",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17013806722216105479"
+      ],
+      "lpu": "https://www.reddit.com/r/oldnews",
+      "allTopics": "Topics: News > Newspapers, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Sports News, News > Politics, News > Gossip & Tabloid News, News > Business News, News > World News, News > Politics > Left-Wing Politics, News > Broadcast & Network News, News > Business News > Economy News, News > Health News, News > Politics > Media Critics & Watchdogs ",
+      "headTopics": "Topics: Newspapers",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/BlackPeopleTwitter/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9007114057570493407"
+      ],
+      "lpu": "https://www.reddit.com/r/btc",
+      "allTopics": "Topics: Finance > Investing > Currencies & Foreign Exchange, Finance, Finance > Investing > Brokerages & Day Trading, Finance > Banking > Money Transfer & Wire Services ",
+      "headTopics": "Topics: Currencies & Foreign Exchange",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13193750977826655505"
+      ],
+      "lpu": "http://www.reddit.com/r/bettermentbookclub",
+      "allTopics": "Emner: Bøger og litteratur, Bøger og litteratur > Boghandlere, Bøger og litteratur > Litterære klassikere, Bøger og litteratur > Børnebøger ",
+      "headTopics": "Emner: Bøger og litteratur",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/UpliftingNews/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9791785482299250011"
+      ],
+      "lpu": "https://www.reddit.com/r/sciencehumour",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/creepy/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7974106611672275079"
+      ],
+      "lpu": "https://www.reddit.com/r/totallynotrobots",
+      "allTopics": "Topics: Science > Engineering & Technology > Robotics, Science > Computer Science > Machine Learning & Artificial Intelligence ",
+      "headTopics": "Topics: Robotics",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/whatcarshouldIbuy/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17910597555399608687"
+      ],
+      "lpu": "https://www.reddit.com/r/casualconversation",
+      "allTopics": "Topics: Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Dating & Personals, Online Communities, Online Communities > Dating & Personals > Personals, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Online Journals & Personal Sites, Online Communities > Photo & Video Sharing, Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Blogging Resources & Services > Microblogging, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Social Networks",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15268888835231251931"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14106685491654640708"
+      ],
+      "lpu": "http://notsafeforwork.com/",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Offbeat, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Visuel kunst og design > Foto- og digitalkunst, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/pagead\\/images\\/mobile_unified_button_icon_white.png"
+      ],
+      "lpu": "http://www.je-bolegetoj.dk/pl/Trampoliner_8.aspx",
+      "allTopics": "Emner: Indkøb > Legetøj > Udelegetøj og legeudstyr, Indkøb > Legetøj, Indkøb > Gaver og mærkedagevarer > Fest- og helligdagsartikler, Indkøb > Beklædning > Sportstøj, Indkøb > Legetøj > Kørelegetøj og vogne ",
+      "headTopics": "Emner: Udelegetøj og legeudstyr",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/gag/aojybDg/cars-and-their-faces",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11929258044654412588"
+      ],
+      "lpu": "http://a.faciletest.com",
+      "allTopics": "Emner: Biler og køretøjer > Erhvervskøretøjer > Lastbiler og trailere, Biler og køretøjer > Lastvogne og SUV'er > Lastbiler, Biler og køretøjer > Indkøb af køretøj, Biler og køretøjer, Biler og køretøjer > Campingvogne og autocampere, Biler og køretøjer > Scootere og knallerter, Biler og køretøjer > Erhvervskøretøjer, Biler og køretøjer > Mærker på motorkøretøjer > Isuzu ",
+      "headTopics": "Emner: Lastbiler og trailere",
+      "type": "targeted"
+    }
+  ]
+}

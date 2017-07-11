@@ -1,0 +1,10 @@
+{
+	"topPages": [
+		"http://startpage.lenovo.com",
+		"http://yahoo.com",
+		"http://dailymail.co.uk",
+		"http://reddit.com",
+		"http://imgur.com",
+		"http://9gag.com"
+	]
+}

@@ -1,0 +1,208 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-true_blood_actor_nelsan_ellis_dead_at_39-ap": {
+      "allTopics": "Emner: Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-shows om science-fiction og fantasy, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning, Kunst og underholdning > Tv og video > Tv-programmer og referencer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-krimiserier, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Tv og video, Kunst og underholdning > Film > Science fiction- og fantasyfilm, Kunst og underholdning > Film > Romantiske film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Familieorienterede tv-shows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Film > DVD- og videobutikker, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Musik og lyd > Lydspor, Kunst og underholdning > Film > Action- og eventyrfilm > Kampsportsfilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-lægeserier, Kunst og underholdning > Tv og video > Onlinevideo > Webserier ",
+      "headTopics": "Emner: Tv-shows om science-fiction og fantasy"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-the_latest_northern_california_fire_destroys_10_st-ap": {
+      "allTopics": "Emner: Nyheder > Vejret, Nyheder > Lokale nyheder ",
+      "headTopics": "Emner: Vejret"
+    },
+    "http://startpage.lenovo.com/player/category/entertainment/article/newsy_now-elmer_fudd_is_hunting_someone_other_than_bugs_bunn-newsy": {
+      "allTopics": "Emner: Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Familieorienterede tv-shows, Kunst og underholdning > Film > Action- og eventyrfilm > Superheltefilm, Kunst og underholdning > Film > Animationsfilm, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Film > Familiefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tegneserier og animation, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo > Webserier ",
+      "headTopics": "Emner: Tegnefilm"
+    },
+    "http://startpage.lenovo.com/?inc=2047": {
+      "allTopics": "Emner: Bøger og litteratur, Bøger og litteratur > Litterære klassikere, Bøger og litteratur > Boghandlere ",
+      "headTopics": "Emner: Bøger og litteratur"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Emner: Nyheder > Aviser, Nyheder > Sladder og sladdernyheder, Nyheder > Lokale nyheder, Nyheder, Nyheder > Journalistik og nyhedsindustri, Nyheder > Politik > Opinion og kommentar, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Aviser"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/wiki/index": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/r/explainlikeimfive/": {
+      "allTopics": "Emner: Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Familieorienterede tv-shows, Kunst og underholdning > Scenekunst > Magi, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Film > Action- og eventyrfilm > Kampsportsfilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion ",
+      "headTopics": "Emner: Onlinevideo"
+    },
+    "https://www.reddit.com/r/BeautyBoxes/comments/4rpg0v/june_sweatybox_is_a_fitnessbeauty_box_new_to_me/?st=j4wyg888&sh=e862612a": {
+      "allTopics": "Emner: Skønhed og fitness > Ansigts- og kropspleje > Make-up og kosmetik, Skønhed og fitness, Skønhed og fitness > Ansigts- og kropspleje, Skønhed og fitness > Kosmetiske procedurer, Skønhed og fitness > Hårpleje, Skønhed og fitness > Ansigts- og kropspleje > Hud- og neglepleje, Skønhed og fitness > Ansigts- og kropspleje > Parfume og dufte, Skønhed og fitness > Kosmetologi og skønhedseksperter ",
+      "headTopics": "Emner: Make-up og kosmetik"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-true_blood_actor_nelsan_ellis_dead_at_39-ap",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/338376872842244432"
+      ],
+      "lpu": "http://www.wallmans.dk/",
+      "allTopics": "Emner: Kunst og underholdning > Arrangementer, aktiviteter og oversigter, Kunst og underholdning > Scenekunst > Cirkus, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Føde- og drikkevareevents, Kunst og underholdning > Scenekunst ",
+      "headTopics": "Emner: Arrangementer, aktiviteter og oversigter",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-the_latest_northern_california_fire_destroys_10_st-ap",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10021083900481784677"
+      ],
+      "lpu": "https://www.newchic.com/sandals-4188/p-1165880.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning, Indkøb > Beklædning > Fodtøj > Hverdagssko, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Fodtøj > Sportssko, Indkøb > Beklædning > Dametøj, Indkøb > Discount- og outlet-butikker, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Sportstøj, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Beklædningstjenester, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Fritidstøj > T-shirts, Indkøb > Grossister og kuratorer ",
+      "headTopics": "Emner: Fodtøj",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/category/entertainment/article/newsy_now-elmer_fudd_is_hunting_someone_other_than_bugs_bunn-newsy",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/12193343349517329059"
+      ],
+      "lpu": "http://cpm.wargaming.net/px2noz6q/",
+      "allTopics": "Emner: Spil > Onlinespil > Massive Multiplayer, Spil > Rollespil, Spil > Computer- og videospil > Spilmedier og -referencer > Snyd og tip til spil, Spil > Computer- og videospil > Strategispil, Spil > Computer- og videospil > Spilmedier og -referencer, Spil > Computer- og videospil, Spil > Onlinespil, Spil > Computer- og videospil > Skydespil, Spil > Computer- og videospil > Action- og platformspil, Spil, Spil > Computer- og videospil > Eventyrspil, Spil > Kortspil > Samlekortspil, Spil > Computer- og videospil > Simulationsspil, Spil > Brætspil > Miniature- og krigsspil, Spil > Computer- og videospil > Kampspil ",
+      "headTopics": "Emner: Massive Multiplayer",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/?inc=2047",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3843320432641941997"
+      ],
+      "lpu": "https://senestenyt.com/2017/06/26/how-gates-ties-his-philanthropy-with-business/",
+      "allTopics": "Emner: Mennesker og samfund > Sociale emner og støttesager > Velgørenhed og filantropi, Mennesker og samfund > Sociale emner og støttesager > Fattigdom og sult, Mennesker og samfund > Familie og forhold > Familie > Opdragelse > Adoption, Mennesker og samfund > Sociale emner og støttesager, Mennesker og samfund > Sociale emner og støttesager > Menneskerettigheder og friheder ",
+      "headTopics": "Emner: Velgørenhed og filantropi",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/15526134148695997488",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9318127857231533297"
+      ],
+      "lpu": "https://puppet.com/download-learning-vm",
+      "allTopics": "Emner: Indkøb > Legetøj > Dukker, Indkøb > Forbrugerressourcer > Kundeservice > Teknisk support, Indkøb > Legetøj > Dukker og dukketilbehør ",
+      "headTopics": "Emner: Dukker",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1389917464820718237"
+      ],
+      "lpu": "http://www.reddit.com/r/raining",
+      "allTopics": "Emner: Nyheder > Vejret ",
+      "headTopics": "Emner: Vejret",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8104894073163236098"
+      ],
+      "lpu": "https://www.reddit.com/r/fixingmovies",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Movies, Arts & Entertainment > Movies > Movie Reference > Movie Reviews & Previews, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Movies > Comedy Films, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Movies > Action & Adventure Films > Martial Arts Films, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/wiki/index",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/wiki/index",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17203662559884477337"
+      ],
+      "lpu": "https://www.housers.com/en/projects",
+      "allTopics": "Emner: Finans > Investering, Finans > Finansiel planlægning og styring > Formue- og porteføljestyring, Finans > Investering > Pengeoverførsel > Investeringsselskaber, Finans > Investering > Aktier og obligationer > Gældsbeviser, Finans > Investering > Aktier og obligationer, Finans > Investering > Kurtage, Finans > Bankvæsen > Opsparingskonti, Finans > Finansiel planlægning og styring, Finans > Investering > Afledte instrumenter, Finans > Investering > Pengeoverførsel > Hedgefonde, Finans > Investering > Aktier og obligationer > Børser, Finans > Investering > Pengeoverførsel > Exchange Traded Funds (ETF'er) ",
+      "headTopics": "Emner: Investering",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6575851681259830635"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarycolorscapes",
+      "allTopics": "Topics: Online Communities > Online Goodies > Skins Themes & Wallpapers, Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Online Goodies > Clip Art & Animated GIFs, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Blogging Resources & Services, Online Communities > Online Goodies, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Skins Themes & Wallpapers",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4824471331282278046"
+      ],
+      "lpu": "http://www.reddit.com/r/partyparrot",
+      "allTopics": "Topics: Pets & Animals > Pets > Birds, Pets & Animals > Wildlife, Pets & Animals > Pets > Exotic Pets, Pets & Animals > Animal Products & Services > Pet Food & Supplies, Pets & Animals > Animal Products & Services > Animal Welfare, Pets & Animals > Pets, Pets & Animals > Animal Products & Services, Pets & Animals, Pets & Animals > Pets > Rabbits & Rodents, Pets & Animals > Animal Products & Services > Veterinarians ",
+      "headTopics": "Topics: Birds",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/explainlikeimfive/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/15287666865615204219"
+      ],
+      "lpu": "https://www.vikoberallebiler.dk/vardi/10-2/",
+      "allTopics": "Emner: Rejser > Flyrejser, Rejser > Rejsebureauer og -tjenester, Rejser > Flyrejser > Lufthavnsparkering og -transport, Rejser > Rejsebureauer og -tjenester > Rejsetilbud, Rejser > Specialrejser, Rejser > Hoteller og indlogering, Rejser > Krydstogter og charterrejser, Rejser > Turistmål > Strande og øer, Rejser, Rejser > Biludlejnings- og taxatjenester, Rejser > Turistmål, Rejser > Bagagetasker og rejsetilbehør, Rejser > Specialrejser > Sightseeingture, Rejser > Specialrejser > Oplevelsesrejser ",
+      "headTopics": "Emner: Flyrejser",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5559698630796215563"
+      ],
+      "lpu": "https://www.reddit.com/r/oldschoolcelebs",
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Film, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Film > Filmreferencer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/BeautyBoxes/comments/4rpg0v/june_sweatybox_is_a_fitnessbeauty_box_new_to_me/?st=j4wyg888&sh=e862612a",
+      "farmerTopic": "Beauty & Fitness",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12640744696928388692"
+      ],
+      "lpu": "https://bellroy.com/slim-your-wallet",
+      "allTopics": "Emner: Indkøb > Beklædning > Tøjtilbehør, Indkøb > Beklædning > Tøjtilbehør > Håndtasker og punge, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Formel beklædning, Indkøb > Luksusvarer, Indkøb > Gaver og mærkedagevarer > Personlige artikler ",
+      "headTopics": "Emner: Tøjtilbehør",
+      "type": "targeted"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-wildfire_evacuation_orders_lifted_in_colorado_mont-ap": {
+      "allTopics": "Emner: Nyheder, Nyheder > Aviser, Nyheder > Internationale nyheder, Nyheder > Fjernsyns- og radionyheder ",
+      "headTopics": "Emner: Nyheder"
+    },
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-3rd_mistrial_declared_in_excops_shooting_of_black-ap": {
+      "allTopics": "Emner: Nyheder, Nyheder > Internationale nyheder, Nyheder > Fjernsyns- og radionyheder ",
+      "headTopics": "Emner: Nyheder"
+    },
+    "http://startpage.lenovo.com/player/article/hello_giggles-people_are_driving_far_and_wide_to_try_the_new_cos-5min": {
+      "allTopics": "Emner: Mad og drikke > Restauranter > Pizzeriaer, Mad og drikke > Restauranter > Fast Food > Burgere, Mad og drikke, Mad og drikke > Restauranter > Fast Food, Mad og drikke > Restauranter, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Middelhavsretter, Mad og drikke > Fødevarer > Syltetøj, gelé og marmelade, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Middelhavsretter > Italiensk mad, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Østasiatisk mad > Japansk mad, Mad og drikke > Fødevarer > Mejerivarer og æg, Mad og drikke > Fødevarer > Gourmet- og specialfødevarer, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Middelhavsretter > Spansk mad, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Nordamerikansk mad, Mad og drikke > Restauranter > Spiseguider, Mad og drikke > Forhandlere af føde- og dagligvarer > Delikatesser, Mad og drikke > Madlavning og opskrifter > Mad fra hele verden > Sydøstasiatisk mad > Vietnamesisk mad, Mad og drikke > Fødevarer > Kød og alt godt fra havet > Oksekød, Mad og drikke > Udbringning af føde- og dagligvarer ",
+      "headTopics": "Emner: Pizzeriaer"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Emner: Nyheder > Aviser, Nyheder > Sladder og sladdernyheder, Nyheder > Lokale nyheder, Nyheder, Nyheder > Journalistik og nyhedsindustri, Nyheder > Politik > Opinion og kommentar, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Aviser"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/user/unknown_human": {
+      "allTopics": "Emner: Onlinefællesskaber > Onlinegodbidder > Clip Art og animerede GIF-billeder, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer, Onlinefællesskaber > Onlinegodbidder ",
+      "headTopics": "Emner: Clip Art og animerede GIF-billeder"
+    },
+    "https://www.reddit.com/r/tifu/": {
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion, Kunst og underholdning > Humor > Spoofs og satire ",
+      "headTopics": "Emner: Humor"
+    },
+    "https://www.reddit.com/r/therewasanattempt/": {
+      "allTopics": "Emner: Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Onlinegodbidder > Clip Art og animerede GIF-billeder, Onlinefællesskaber > Deling af fotos og videoer > Deling af videoer, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer ",
+      "headTopics": "Emner: Feed-værktøj og sociale bogmærker"
+    },
+    "https://www.reddit.com/wiki/search": {
+      "allTopics": "Websites: reddit.com ",
+      "headTopics": "Websites/kanaler 1"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-wildfire_evacuation_orders_lifted_in_colorado_mont-ap",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10021083900481784677"
+      ],
+      "lpu": "https://www.newchic.com/sandals-4188/p-1165880.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning, Indkøb > Beklædning > Fodtøj > Hverdagssko, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Fodtøj > Sportssko, Indkøb > Beklædning > Dametøj, Indkøb > Discount- og outlet-butikker, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Sportstøj, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Beklædningstjenester, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Fritidstøj > T-shirts, Indkøb > Grossister og kuratorer ",
+      "headTopics": "Emner: Fodtøj",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-3rd_mistrial_declared_in_excops_shooting_of_black-ap",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/338376872842244432"
+      ],
+      "lpu": "http://www.wallmans.dk/",
+      "allTopics": "Emner: Kunst og underholdning > Arrangementer, aktiviteter og oversigter, Kunst og underholdning > Scenekunst > Cirkus, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Føde- og drikkevareevents, Kunst og underholdning > Scenekunst ",
+      "headTopics": "Emner: Arrangementer, aktiviteter og oversigter",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/hello_giggles-people_are_driving_far_and_wide_to_try_the_new_cos-5min",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18137262734924120343"
+      ],
+      "lpu": "https://ad.doubleclick.net/ddm/trackclk/N496207.2436704CONNECTDK-PROGRAM/B11420345.151755087",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/hello_giggles-people_are_driving_far_and_wide_to_try_the_new_cos-5min",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13943147816547840583"
+      ],
+      "lpu": "http://www.birkenstock.com/dk/emner/ppreview-foraar-2017-kollektion/",
+      "allTopics": "Emner: Hus og have > Soveværelse og bad > Soveværelser > Madrasser, Hus og have > Soveværelse og bad > Soveværelser > Senge og hovedgærder, Hus og have > Soveværelse og bad > Soveværelser > Sengetøj og -linned ",
+      "headTopics": "Emner: Madrasser",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/4108655768897857440"
+      ],
+      "lpu": "http://www.meyersmad.dk/koeb-mad/frokostordning/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12891161862587987249"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/pensionsplan-15-minutter/3a/index.php",
+      "allTopics": "Emner: Finans > Finansiel planlægning og styring > Fratrædelse og pension, Finans > Investering, Finans > Investering > Pengeoverførsel > Investeringsselskaber, Finans > Finansiel planlægning og styring, Finans > Investering > Kurtage, Finans > Finansiel planlægning og styring > Formue- og porteføljestyring, Finans > Forsikring > Livsforsikring, Finans > Bankvæsen > Opsparingskonti, Finans > Investering > Afledte instrumenter, Finans > Investering > Pengeoverførsel > Hedgefonde, Finans > Investering > Aktier og obligationer > Gældsbeviser, Finans > Investering > Pengeoverførsel > Exchange Traded Funds (ETF'er) ",
+      "headTopics": "Emner: Fratrædelse og pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1825075598390226901"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/bedre-end-banken/6f/index.php",
+      "allTopics": "Topics: Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing, Finance > Investing > Funds, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts, Finance > Financial Planning & Management > Asset & Portfolio Management ",
+      "headTopics": "Topics: Retirement & Pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3843320432641941997"
+      ],
+      "lpu": "https://senestenyt.com/2017/06/26/how-gates-ties-his-philanthropy-with-business/",
+      "allTopics": "Emner: Mennesker og samfund > Sociale emner og støttesager > Velgørenhed og filantropi, Mennesker og samfund > Sociale emner og støttesager > Fattigdom og sult, Mennesker og samfund > Familie og forhold > Familie > Opdragelse > Adoption, Mennesker og samfund > Sociale emner og støttesager, Mennesker og samfund > Sociale emner og støttesager > Menneskerettigheder og friheder ",
+      "headTopics": "Emner: Velgørenhed og filantropi",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/unknown_human",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17342200210219457069"
+      ],
+      "lpu": "https://www.reddit.com/r/tinysubredditoftheday",
+      "allTopics": "Emner: Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Onlinejournaler og personlige websites, Onlinefællesskaber > Bloggingressourcer og -tjenester > Microblogs, Onlinefællesskaber > Deling af fotos og videoer, Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer, Onlinefællesskaber > Kontaktannoncer og personlige > Personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder ",
+      "headTopics": "Emner: Feed-værktøj og sociale bogmærker",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/unknown_human",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8530806037606288028"
+      ],
+      "lpu": "https://www.reddit.com/r/sunset",
+      "allTopics": "Emner: Onlinefællesskaber > Onlinegodbidder > Computertemaer og baggrunde, Onlinefællesskaber > Onlinegodbidder > Clip Art og animerede GIF-billeder, Onlinefællesskaber > Onlinegodbidder, Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer ",
+      "headTopics": "Emner: Computertemaer og baggrunde",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/tifu/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9791785482299250011"
+      ],
+      "lpu": "https://www.reddit.com/r/sciencehumour",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/therewasanattempt/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10346931471145466712"
+      ],
+      "lpu": "https://www.reddit.com/r/fantrailers",
+      "allTopics": "Emner: Bøger og litteratur > Fanfiktion ",
+      "headTopics": "Emner: Fanfiktion",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/wiki/search",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9701332995547280461"
+      ],
+      "lpu": "https://www.storybase.com",
+      "allTopics": "Emner: Internet og telekommunikation > Webtjenester > Søgemaskineoptimering og marketing, Internet og telekommunikation > Webtjenester > Affilierede programmer, Internet og telekommunikation > Webtjenester > Webstatistikker og -analyser, Internet og telekommunikation > Søgemaskiner, Internet og telekommunikation > Webtjenester, Internet og telekommunikation > Webtjenester > Webdesign og udvikling, Internet og telekommunikation > E-mail og messaging > Spam og e-mailfiltre ",
+      "headTopics": "Emner: Søgemaskineoptimering og marketing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/wiki/search",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/viewad\\/4745153\\/kdk_lordagsondag_KUPP_q216_300x250.jpg"
+      ],
+      "lpu": "https://www.komplett.dk/kampagne/2550/weekendtilbud",
+      "allTopics": "Emner: Computere og elektronik, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Hovedtelefoner, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Højttalere, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Stereoanlæg og -komponenter, Computere og elektronik > Forbrugerelektronik, Computere og elektronik > Computerhardware, Computere og elektronik > Forbrugerelektronik > Lydudstyr, Computere og elektronik > Forbrugerelektronik > Tv- og videoudstyr > Hjemmebiografsystemer, Computere og elektronik > Forbrugerelektronik > Bilelektronik > Lydsystemer til biler, Computere og elektronik > Computerhardware > Computerdrev og -lagerenheder > Cd- og dvd-drev og -brændere, Computere og elektronik > Computerhardware > Computerudstyr, Computere og elektronik > Forbrugerelektronik > Gadgets og bærbare elektroniske enheder > MP3-afspillere og transportable medieafspillere, Computere og elektronik > Software > Operativsystemer, Computere og elektronik > Virksomhedsteknologi ",
+      "headTopics": "Emner: Computere og elektronik",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13408840298776062627"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6978023\\/300x600.jpg"
+      ],
+      "lpu": "http://track.victoriahearts.com/2c2074bf-941b-4c8f-82b5-4af097aa2e8a",
+      "allTopics": "Emner: Onlinefællesskaber > Kontaktannoncer og personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Ægteskabstjenester, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Forum- og chatleverandører ",
+      "headTopics": "Emner: Kontaktannoncer og personlige",
+      "type": "targeted"
+    }
+  ]
+}

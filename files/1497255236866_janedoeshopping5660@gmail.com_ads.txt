@@ -1,0 +1,190 @@
+{
+  "basePages": {
+    "http://www.bluemaize.net/": {
+      "allTopics": "Topics: Shopping, Shopping > Shopping Portals & Search Engines, Shopping > Mass Merchants & Department Stores, Shopping > Apparel, Shopping > Consumer Resources, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Auctions, Shopping > Consumer Resources > Product Reviews & Price Comparisons > Price Comparisons, Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs, Shopping > Discount & Outlet Stores ",
+      "headTopics": "Topics: Shopping"
+    },
+    "http://www.bluemaize.net/rings/": {
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Athletic Shoes"
+    },
+    "http://www.bluemaize.net/shorts/": {
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Athletic Shoes"
+    },
+    "http://www.bluemaize.net/bras/": {
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories > Gems & Jewelry, Shopping > Apparel, Shopping > Apparel > Clothing Accessories > Gems & Jewelry > Rings, Shopping > Apparel > Casual Apparel, Shopping > Discount & Outlet Stores, Shopping > Apparel > Women's Clothing, Shopping > Luxury Goods, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Outerwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Gems & Jewelry"
+    },
+    "http://www.bluemaize.net/privacy-policy": {
+      "allTopics": "Topics: Internet & Telecom > Web Services > Web Stats & Analytics, Internet & Telecom > Web Services > Search Engine Optimization & Marketing, Internet & Telecom > Web Apps & Online Tools, Internet & Telecom > Web Services > Web Design & Development, Internet & Telecom > Search Engines, Internet & Telecom > Web Services > Affiliate Programs, Internet & Telecom > Web Services > Web Hosting & Domain Registration, Internet & Telecom > Service Providers > ISPs ",
+      "headTopics": "Topics: Web Stats & Analytics"
+    },
+    "http://www.bluemaize.net/toys/shopping-toys": {
+      "allTopics": "Topics: Shopping > Toys, Shopping > Apparel > Clothing Accessories > Gems & Jewelry, Shopping, Shopping > Toys > Building Toys, Shopping > Apparel > Clothing Accessories > Gems & Jewelry > Rings, Shopping > Toys > Stuffed Toys, Shopping > Toys > Dolls & Accessories, Shopping > Toys > Outdoor Toys & Play Equipment, Shopping > Toys > Action Figures, Shopping > Toys > Die-cast & Toy Vehicles, Shopping > Toys > Ride-On Toys & Wagons, Shopping > Wholesalers & Liquidators, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Toys"
+    },
+    "http://mystore411.com/": {
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Discount & Outlet Stores ",
+      "headTopics": "Topics: Mass Merchants & Department Stores"
+    },
+    "https://www.outletbound.com/": {
+      "allTopics": "Topics: Shopping > Mass Merchants & Department Stores, Shopping > Discount & Outlet Stores, Shopping, Shopping > Apparel, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Shopping Portals & Search Engines, Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs, Shopping > Wholesalers & Liquidators, Shopping > Entertainment Media ",
+      "headTopics": "Topics: Mass Merchants & Department Stores"
+    },
+    "https://www.outletbound.com/shop-online": {
+      "allTopics": "Topics: Shopping > Discount & Outlet Stores, Shopping > Mass Merchants & Department Stores, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping, Shopping > Apparel > Women's Clothing, Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Outerwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Discount & Outlet Stores"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://www.bluemaize.net/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/6814754417244613834"
+      ],
+      "lpu": "https://www.algolia.com/lp/magento.html",
+      "allTopics": "Topics: Business & Industrial > Business Services > E-Commerce Services, Business & Industrial > Advertising & Marketing > Marketing, Business & Industrial > Business Services > E-Commerce Services > Merchant Services & Payment Systems, Business & Industrial > Small Business > Business Formation, Business & Industrial > Business Operations > Management > Supply Chain Management, Business & Industrial > Retail Trade, Business & Industrial > Business Services, Business & Industrial > Advertising & Marketing > Sales ",
+      "headTopics": "Topics: E-Commerce Services",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/rings/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17098701464029802754"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/bedre-end-banken/6f/index.php",
+      "allTopics": "Topics: Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Investing > Funds > Exchange Traded Funds, Finance > Financial Planning & Management, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Funds > Hedge Funds, Finance > Banking > Savings Accounts, Finance > Investing > Derivatives, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Retirement & Pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14658756669159277553"
+      ],
+      "lpu": "http://www.zendesk.com",
+      "allTopics": "Topics: Computers & Electronics > Enterprise Technology, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM), Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Software > Multimedia Software > Desktop Publishing, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software, Computers & Electronics > Software > Business & Productivity Software > Calendar & Scheduling Software, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Software > Business & Productivity Software > Accounting & Financial Software ",
+      "headTopics": "Topics: Enterprise Technology",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/shorts/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3536214578259555524"
+      ],
+      "lpu": "https://bravafabrics.com/en/long-sleeves-printed-shirts/9-fixed-gear-rider-printed-shirt.html",
+      "allTopics": "Topics: Autos & Vehicles > Bicycles & Accessories, Autos & Vehicles > Bicycles & Accessories > Road Bikes, Autos & Vehicles > Bicycles & Accessories > Mountain Bikes, Autos & Vehicles > Bicycles & Accessories > Bike Frames, Autos & Vehicles > Bicycles & Accessories > Cruiser Bikes, Autos & Vehicles > Bicycles & Accessories > Bike Parts & Repair, Autos & Vehicles > Hybrid & Alternative Vehicles > Electric & Plug-In Vehicles, Autos & Vehicles > Bicycles & Accessories > Bike Accessories, Autos & Vehicles > Bicycles & Accessories > Bike Helmets & Protective Gear, Autos & Vehicles > Bicycles & Accessories > BMX Bikes, Autos & Vehicles > Bicycles & Accessories > Kid's Bikes ",
+      "headTopics": "Topics: Bicycles & Accessories",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6440707\\/728x90_DK_M_IMG_MPM_MIX_mob_football_zanka_2017.gif"
+      ],
+      "lpu": "https://www.zalando.dk/herrer/adidas.nudie.only-sons/",
+      "allTopics": "Topics: Shopping > Apparel > Eyewear > Sunglasses, Shopping > Apparel > Eyewear, Shopping > Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Clothing Accessories > Watches, Shopping > Luxury Goods, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Footwear, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Discount & Outlet Stores ",
+      "headTopics": "Topics: Sunglasses",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/bras/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14028192562285262209"
+      ],
+      "lpu": "https://www.qnts.dk/",
+      "allTopics": "Topics: Shopping > Apparel > Women's Clothing, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Undergarments, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Sleepwear, Shopping > Apparel, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Footwear, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Outerwear, Shopping > Apparel > Swimwear, Shopping > Apparel > Formal Wear, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Women's Clothing",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/privacy-policy",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/14955304721049622896"
+      ],
+      "lpu": "http://pushgroup.co.uk/dk/pay-per-click-ppc-management/",
+      "allTopics": "Topics: Internet & Telecom > Web Services > Search Engine Optimization & Marketing, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Web Services > Affiliate Programs, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Web Services > Web Stats & Analytics, Internet & Telecom > Web Services, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Search Engine Optimization & Marketing",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/6440707\\/728x90_DK_M_IMG_MPM_MIX_mob_nordic_trends_sporty_2017.gif"
+      ],
+      "lpu": "https://www.zalando.dk/herre-sporty/",
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Footwear, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Outerwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Athletic Shoes",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.bluemaize.net/toys/shopping-toys",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14170209791298371927",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10462398183632167169",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8343392550651987779"
+      ],
+      "lpu": "http://www.msk.dk/",
+      "allTopics": "Topics: Jobs & Education > Education > Primary & Secondary Schooling (K-12), Jobs & Education > Education > Colleges & Universities, Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Teaching & Classroom Resources > Lesson Plans, Jobs & Education > Education > Teaching & Classroom Resources, Jobs & Education > Education, Jobs & Education > Education > Study Abroad, Jobs & Education > Education > Alumni & Reunions, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education ",
+      "headTopics": "Topics: Primary & Secondary Schooling (K-12)",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://mystore411.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6440707\\/728x90_DK_M_GIF_MPM_MIX_mob_summer_1721.jpg"
+      ],
+      "lpu": "https://www.zalando.dk/sommer-2017-herrer/",
+      "allTopics": "Topics: Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Footwear, Shopping > Apparel > Footwear > Casual Shoes, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel ",
+      "headTopics": "Topics: Athletic Shoes",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17912242639199735713",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9640737886912243716",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10057176402326693",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/15228563296998654077"
+      ],
+      "lpu": "http://www.grammarly.com/",
+      "allTopics": "Topics: Reference > Language Resources, Reference > Language Resources > Foreign Language Resources, Reference > General Reference > Dictionaries & Encyclopedias, Reference > Language Resources > Foreign Language Resources > Translation Tools & Resources, Reference > Language Resources > Foreign Language Resources > Foreign Language Study, Reference > General Reference > Educational Resources, Reference > General Reference, Reference > General Reference > Forms Guides & Templates ",
+      "headTopics": "Topics: Language Resources",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.outletbound.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/5110224\\/806423_SAS_Eurobonus_300x250_DK.jpg"
+      ],
+      "lpu": "https://www.sas.dk/eurobonus/bliv-medlem/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.outletbound.com/shop-online",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15972012631124545269"
+      ],
+      "lpu": "http://lumoa.me/en/connected-devices",
+      "allTopics": "Topics: Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM), Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP) ",
+      "headTopics": "Topics: Customer Relationship Management (CRM)",
+      "type": "targeted"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-5_people_electrocuted_in_pool_at_water_park_in_tur-ap": {
+      "allTopics": "Topics: News, News > World News, News > Newspapers, News > Broadcast & Network News ",
+      "headTopics": "Topics: News"
+    },
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Electronics & Electrical > Electronic Components, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Computer Hardware, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "http://www.dailymail.co.uk/femail/article-4412440/Average-salary-145-UK-jobs-revealed.html": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/photoshopbattles/": {
+      "allTopics": "Topics: Computers & Electronics > Software > Multimedia Software > Photo & Video Software, Computers & Electronics > Software > Multimedia Software > Graphics & Animation Software ",
+      "headTopics": "Topics: Photo & Video Software"
+    },
+    "https://www.reddit.com/r/dataisbeautiful/": {
+      "allTopics": "Topics: Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology, Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM), Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software ",
+      "headTopics": "Topics: Data Management"
+    },
+    "https://www.reddit.com/rising/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Music & Audio > Rock Music > Classic Rock & Oldies, Arts & Entertainment > Fun & Trivia > Flash-Based Entertainment, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/r/Documentaries/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Movies > Documentary Films, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Movies > Action & Adventure Films > Martial Arts Films, Arts & Entertainment > Performing Arts > Magic ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/recover": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-5_people_electrocuted_in_pool_at_water_park_in_tur-ap",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17813311020152763477"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1061180.html",
+      "allTopics": "Topics: Shopping > Apparel > Headwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Discount & Outlet Stores, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Headwear",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-5_people_electrocuted_in_pool_at_water_park_in_tur-ap",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16893367754628310784"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1142288.html",
+      "allTopics": "Topics: Shopping > Apparel > Headwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Discount & Outlet Stores, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Formal Wear, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Headwear",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8479713452240601363"
+      ],
+      "lpu": "http://www.detur.dk/fly-hotel/k%25C3%25B8benhavn-bodrum",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/17413586026356904631",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4486204519602302274",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7737446344875008795"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/aktiemarkedsudsigt/4c/index.php",
+      "allTopics": "Topics: Finance > Investing, Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/2174707633929692989"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/bedre-end-banken/6f/index.php",
+      "allTopics": "Topics: Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing, Finance > Investing > Funds, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts, Finance > Financial Planning & Management > Asset & Portfolio Management ",
+      "headTopics": "Topics: Retirement & Pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/femail/article-4412440/Average-salary-145-UK-jobs-revealed.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/6257957\\/1131_KU_bachelor_banner_Kvote1_300x250_1.png"
+      ],
+      "lpu": "http://clicktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/femail/article-4412440/Average-salary-145-UK-jobs-revealed.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/4108655768897857440"
+      ],
+      "lpu": "http://www.meyersmad.dk/koeb-mad/frokostordning/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/60195288\\/20170511024045843\\/index.html"
+      ],
+      "lpu": "https://r-ad.bsx.agency/",
+      "allTopics": "Topics: Autos & Vehicles > Vehicle Parts & Accessories > Vehicle Fuels & Lubricants, Autos & Vehicles > Hybrid & Alternative Vehicles, Autos & Vehicles > Vehicle Shopping > Fuel Economy & Gas Prices ",
+      "headTopics": "Topics: Vehicle Fuels & Lubricants",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/14455818332905675998"
+      ],
+      "lpu": "http://labjack.com/products",
+      "allTopics": "Topics: Computers & Electronics > Electronics & Electrical > Test & Measurement, Computers & Electronics > Electronics & Electrical > Electronic Components, Computers & Electronics > Electronics & Electrical, Computers & Electronics > Electronics & Electrical > Electromechanical Devices, Computers & Electronics > Electronics & Electrical > Data Sheets & Electronics Reference, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Electronics & Electrical > Optoelectronics & Fiber ",
+      "headTopics": "Topics: Test & Measurement",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8465208565757208452"
+      ],
+      "lpu": "http://www.reddit.com/r/california",
+      "allTopics": "Topics: News > Politics > Campaigns & Elections, News > Politics > Political Polls & Surveys, News > Weather, News > Politics, News > Politics > Right-Wing Politics, News > Politics > Left-Wing Politics ",
+      "headTopics": "Topics: Campaigns & Elections",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18428296614286978180",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9008909800204233154"
+      ],
+      "lpu": "http://clickserve.dartsearch.net/link/click",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/photoshopbattles/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Cards & Greetings, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Gifts",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8530806037606288028"
+      ],
+      "lpu": "https://www.reddit.com/r/sunset",
+      "allTopics": "Topics: Online Communities > Online Goodies > Skins Themes & Wallpapers, Online Communities > Online Goodies > Clip Art & Animated GIFs, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Blogging Resources & Services, Online Communities > Online Goodies, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Skins Themes & Wallpapers",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/dataisbeautiful/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15676796849638313498"
+      ],
+      "lpu": "https://neo4j.com/book-graph-databases/",
+      "allTopics": "Topics: Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > E-Book Readers, Computers & Electronics > Computer Hardware > Computer Servers, Computers & Electronics > Software > Open Source, Computers & Electronics > Programming, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Software, Computers & Electronics > Programming > Scripting Languages, Computers & Electronics > Programming > Development Tools, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Science > Computer Science > Distributed & Parallel Computing, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Network Storage ",
+      "headTopics": "Topics: Data Management",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/rising/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17221339884021287550"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/arbitrary-day-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Cards & Greetings, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Gifts",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/Documentaries/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1910936277900104431"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/game-thrones-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Cards & Greetings, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Gifts",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13056412276303043133"
+      ],
+      "lpu": "http://klitmoller.westwind.dk/da/surf-camps",
+      "allTopics": "Topics: Sports > Water Sports > Surfing, Sports > Sporting Goods > Water Sports Equipment, Sports > Water Sports > Swimming, Sports > Extreme Sports, Sports > Sporting Goods, Sports > Sports Coaching & Training, Sports > Sporting Goods > Skateboarding Equipment, Sports > Water Sports ",
+      "headTopics": "Topics: Surfing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/601059815545450784"
+      ],
+      "lpu": "http://www.charmdate.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/recover",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/41138352\\/20160524011447832\\/index_da_dk_728x90_baseline_noloop.min.html"
+      ],
+      "lpu": "https://secure-ams.adnxs.com/click",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    }
+  ]
+}

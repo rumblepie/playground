@@ -1,0 +1,154 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-ap_photos_a_selection_of_pictures_from_the_past_we-ap-66": {
+      "allTopics": "Emner: Nyheder, Nyheder > Internationale nyheder, Nyheder > Fjernsyns- og radionyheder, Nyheder > Aviser, Nyheder > Lokale nyheder ",
+      "headTopics": "Emner: Nyheder"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/user/industrial86": {
+      "allTopics": "Emner: Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Deling af fotos og videoer, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Onlinejournaler og personlige websites, Onlinefællesskaber > Bloggingressourcer og -tjenester > Microblogs, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder ",
+      "headTopics": "Emner: Deling af fotos og billeder"
+    },
+    "https://www.reddit.com/r/Art/": {
+      "allTopics": "Emner: Kunst og underholdning > Visuel kunst og design, Kunst og underholdning > Visuel kunst og design > Malerkunst, Kunst og underholdning > Visuel kunst og design > Kunst- og kunsthåndværksartikler, Kunst og underholdning > Visuel kunst og design > Kunstmuseer og gallerier, Kunst og underholdning > Visuel kunst og design > Kunstuddannelse, Kunst og underholdning > Musik og lyd > Musikmemorabilia, Kunst og underholdning > Visuel kunst og design > Design > Grafisk design, Kunst og underholdning > Visuel kunst og design > Skulptur, Kunst og underholdning > Film > Filmmemorabilia, Kunst og underholdning > Visuel kunst og design > Design > Industrielt design og produktdesign, Kunst og underholdning > Visuel kunst og design > Design ",
+      "headTopics": "Emner: Visuel kunst og design"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-ap_photos_a_selection_of_pictures_from_the_past_we-ap-66",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/338376872842244432"
+      ],
+      "lpu": "http://www.wallmans.dk/",
+      "allTopics": "Emner: Kunst og underholdning > Arrangementer, aktiviteter og oversigter, Kunst og underholdning > Scenekunst > Cirkus, Kunst og underholdning > Arrangementer, aktiviteter og oversigter > Føde- og drikkevareevents, Kunst og underholdning > Scenekunst ",
+      "headTopics": "Emner: Arrangementer, aktiviteter og oversigter",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-ap_photos_a_selection_of_pictures_from_the_past_we-ap-66",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10021083900481784677"
+      ],
+      "lpu": "https://www.newchic.com/sandals-4188/p-1165880.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Fodtøj, Indkøb > Beklædning, Indkøb > Beklædning > Fodtøj > Hverdagssko, Indkøb > Beklædning > Fodtøj > Støvler, Indkøb > Beklædning > Fritidstøj, Indkøb > Beklædning > Fodtøj > Sportssko, Indkøb > Beklædning > Dametøj, Indkøb > Discount- og outlet-butikker, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Sportstøj, Indkøb > Beklædning > Overtøj, Indkøb > Beklædning > Beklædningstjenester, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Fritidstøj > T-shirts, Indkøb > Grossister og kuratorer ",
+      "headTopics": "Emner: Fodtøj",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4824471331282278046"
+      ],
+      "lpu": "http://www.reddit.com/r/partyparrot",
+      "allTopics": "Topics: Pets & Animals > Pets > Birds, Pets & Animals > Wildlife, Pets & Animals > Pets > Exotic Pets, Pets & Animals > Animal Products & Services > Pet Food & Supplies, Pets & Animals > Animal Products & Services > Animal Welfare, Pets & Animals > Pets, Pets & Animals > Animal Products & Services, Pets & Animals, Pets & Animals > Pets > Rabbits & Rodents, Pets & Animals > Animal Products & Services > Veterinarians ",
+      "headTopics": "Topics: Birds",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2332227160725150870"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarydragons",
+      "allTopics": "Topics: Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > Visual Art & Design, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Movies > Animated Films, Arts & Entertainment > Visual Art & Design > Painting, Arts & Entertainment > Visual Art & Design > Sculpture ",
+      "headTopics": "Topics: Cartoons",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17013806722216105479"
+      ],
+      "lpu": "https://www.reddit.com/r/oldnews",
+      "allTopics": "Topics: News > Newspapers, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Sports News, News > Politics, News > Gossip & Tabloid News, News > Business News, News > World News, News > Politics > Left-Wing Politics, News > Broadcast & Network News, News > Business News > Economy News, News > Health News, News > Politics > Media Critics & Watchdogs ",
+      "headTopics": "Topics: Newspapers",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3931771345052126631"
+      ],
+      "lpu": "http://www.reddit.com/r/exhibit_Art",
+      "allTopics": "Emner: Kunst og underholdning > Visuel kunst og design > Kunstmuseer og gallerier, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion ",
+      "headTopics": "Emner: Kunstmuseer og gallerier",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/industrial86",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7974106611672275079"
+      ],
+      "lpu": "https://www.reddit.com/r/totallynotrobots",
+      "allTopics": "Topics: Science > Engineering & Technology > Robotics, Science > Computer Science > Machine Learning & Artificial Intelligence ",
+      "headTopics": "Topics: Robotics",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6575851681259830635"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarycolorscapes",
+      "allTopics": "Topics: Online Communities > Online Goodies > Skins Themes & Wallpapers, Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Online Goodies > Clip Art & Animated GIFs, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Blogging Resources & Services, Online Communities > Online Goodies, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Skins Themes & Wallpapers",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8530806037606288028"
+      ],
+      "lpu": "https://www.reddit.com/r/sunset",
+      "allTopics": "Emner: Onlinefællesskaber > Onlinegodbidder > Computertemaer og baggrunde, Onlinefællesskaber > Onlinegodbidder > Clip Art og animerede GIF-billeder, Onlinefællesskaber > Onlinegodbidder, Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer ",
+      "headTopics": "Emner: Computertemaer og baggrunde",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17342200210219457069"
+      ],
+      "lpu": "https://www.reddit.com/r/tinysubredditoftheday",
+      "allTopics": "Emner: Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Onlinejournaler og personlige websites, Onlinefællesskaber > Bloggingressourcer og -tjenester > Microblogs, Onlinefællesskaber > Deling af fotos og videoer, Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer, Onlinefællesskaber > Kontaktannoncer og personlige > Personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder ",
+      "headTopics": "Emner: Feed-værktøj og sociale bogmærker",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/Art/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/viewad\\/4745153\\/kdk_lordagsondag_KUPP_q216_300x250.jpg"
+      ],
+      "lpu": "https://www.komplett.dk/kampagne/2550/weekendtilbud",
+      "allTopics": "Emner: Hus og have > Køkkener og køkkenudstyr > Mindre husholdningsapparater, Hus og have > Køkkener og køkkenudstyr > Mindre husholdningsapparater > Blendere, Hus og have > Køkkener og køkkenudstyr > Mindre husholdningsapparater > Køkkenmaskiner, Hus og have > Køkkener og køkkenudstyr > Mindre husholdningsapparater > Brødristere og toastovne, Hus og have > Køkkener og køkkenudstyr > Køkkengrej og service, Hus og have > Køkkener og køkkenudstyr > Mindre husholdningsapparater > Kaffe- og espressomaskiner, Hus og have > Køkkener og køkkenudstyr > Mindre husholdningsapparater > Brødmaskiner ",
+      "headTopics": "Emner: Mindre husholdningsapparater",
+      "type": "generic"
+    }
+  ]
+}

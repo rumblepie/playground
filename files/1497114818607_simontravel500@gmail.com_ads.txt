@@ -1,0 +1,17 @@
+{
+  "basePages": {
+    "https://www.ethiojobs.net/browse-by-category/Veterinary%20Services/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "http://www.ethiojobs.net/display-job/44005/Education-Facilitator.html": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    }
+  },
+  "adRecords": []
+}

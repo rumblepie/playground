@@ -1,0 +1,162 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/sports/article/the_associated_press-federer_djokovic_highlight_wimbledons_3rdround_sch-ap": {
+      "allTopics": "Emner: Sport > Individuelle sportsgrene > Ketsjersport > Tennis, Sport > Individuelle sportsgrene > Ketsjersport, Sport > Globale sportsbegivenheder, Sport > Holdsport > Fodbold, Sport > Sportsudstyr > Tennisudstyr, Sport > Holdsport > Amerikansk fodbold, Sport > Holdsport > Håndbold, Sport > Holdsport > Basketball, Sport > Holdsport > Hockey, Sport > Holdsport > Rugby, Sport > Kampsport > Boksning, Sport > Motorsport > Bilvæddeløb, Sport > Sportsresultater og statistik, Sport > Holdsport > Volleyball, Sport > Holdsport > Baseball, Sport > Holdsport > Cricket, Sport > Holdsport > Australsk fodbold ",
+      "headTopics": "Emner: Tennis"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-south_carolina_inmate_captured_in_texas_after_seco-ap": {
+      "allTopics": "Emner: Lovgivning og myndigheder > Offentlig sikkerhed > Kriminalitet og retshåndhævelse > Fængsler og rehabilitering, Lovgivning og myndigheder > Offentlig sikkerhed > Kriminalitet og retshåndhævelse, Lovgivning og myndigheder > Jura > Strafferet, Lovgivning og myndigheder > Offentlig sikkerhed > Kriminalitet og retshåndhævelse > Bander og organiseret kriminalitet, Lovgivning og myndigheder > Offentlig sikkerhed > Lovhåndhævelse, Lovgivning og myndigheder > Offentlig sikkerhed > Kriminalitet og retshåndhævelse > Økonomisk og erhvervsmæssig kriminalitet, Lovgivning og myndigheder ",
+      "headTopics": "Emner: Fængsler og rehabilitering"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Emner: Nyheder > Aviser, Nyheder > Sladder og sladdernyheder, Nyheder > Lokale nyheder, Nyheder, Nyheder > Journalistik og nyhedsindustri, Nyheder > Politik > Opinion og kommentar, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Aviser"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/user/lvdybird": {
+      "allTopics": "Emner: Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Deling af fotos og videoer, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Onlinejournaler og personlige websites, Onlinefællesskaber > Bloggingressourcer og -tjenester > Microblogs, Onlinefællesskaber > Bloggingressourcer og -tjenester, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder ",
+      "headTopics": "Emner: Deling af fotos og billeder"
+    },
+    "https://www.reddit.com/user/MagnumPear": {
+      "allTopics": "Emner: Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Bloggingressourcer og -tjenester > Microblogs, Onlinefællesskaber > Bloggingressourcer og -tjenester ",
+      "headTopics": "Emner: Feed-værktøj og sociale bogmærker"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/sports/article/the_associated_press-federer_djokovic_highlight_wimbledons_3rdround_sch-ap",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14179632948159404373"
+      ],
+      "lpu": "https://www.scandichotels.dk/mode-konference-event",
+      "allTopics": "Emner: Rejser > Hoteller og indlogering, Rejser > Rejsebureauer og -tjenester, Rejser > Turistmål > Strande og øer, Rejser > Rejsebureauer og -tjenester > Rejsetilbud, Rejser, Rejser > Turistmål > Feriesteder med bjerge og ski, Rejser > Turistmål > Temaparker, Rejser > Turistmål, Rejser > Turistmål > Søer og floder, Rejser > Specialrejser, Rejser > Specialrejser > Økoturisme, Rejser > Specialrejser > Bondegårdsferie ",
+      "headTopics": "Emner: Hoteller og indlogering",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-south_carolina_inmate_captured_in_texas_after_seco-ap",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3843320432641941997"
+      ],
+      "lpu": "https://senestenyt.com/2017/06/26/how-gates-ties-his-philanthropy-with-business/",
+      "allTopics": "Emner: Mennesker og samfund > Sociale emner og støttesager > Velgørenhed og filantropi, Mennesker og samfund > Sociale emner og støttesager > Fattigdom og sult, Mennesker og samfund > Familie og forhold > Familie > Opdragelse > Adoption, Mennesker og samfund > Sociale emner og støttesager, Mennesker og samfund > Sociale emner og støttesager > Menneskerettigheder og friheder ",
+      "headTopics": "Emner: Velgørenhed og filantropi",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12891161862587987249"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/pensionsplan-15-minutter/3a/index.php",
+      "allTopics": "Emner: Finans > Finansiel planlægning og styring > Fratrædelse og pension, Finans > Investering, Finans > Investering > Pengeoverførsel > Investeringsselskaber, Finans > Finansiel planlægning og styring, Finans > Investering > Kurtage, Finans > Finansiel planlægning og styring > Formue- og porteføljestyring, Finans > Forsikring > Livsforsikring, Finans > Bankvæsen > Opsparingskonti, Finans > Investering > Afledte instrumenter, Finans > Investering > Pengeoverførsel > Hedgefonde, Finans > Investering > Aktier og obligationer > Gældsbeviser, Finans > Investering > Pengeoverførsel > Exchange Traded Funds (ETF'er) ",
+      "headTopics": "Emner: Fratrædelse og pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11651599389290735060"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1146957.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Kostumer, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Tøjtilbehør, Biler og køretøjer > Cykler og tilbehør > Cykeltøj, Indkøb > Beklædning > Nattøj ",
+      "headTopics": "Emner: Hovedbeklædning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1922035852400511067"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/aktiemarkedsudsigt/4c/index.php",
+      "allTopics": "Topics: Finance > Investing, Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13730181774575733835"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/bedre-end-banken/6f/index.php",
+      "allTopics": "Topics: Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing, Finance > Investing > Funds, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts, Finance > Financial Planning & Management > Asset & Portfolio Management ",
+      "headTopics": "Topics: Retirement & Pension",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/lvdybird",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17342200210219457069"
+      ],
+      "lpu": "https://www.reddit.com/r/tinysubredditoftheday",
+      "allTopics": "Emner: Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Sociale netværk, Onlinefællesskaber > Onlinejournaler og personlige websites, Onlinefællesskaber > Bloggingressourcer og -tjenester > Microblogs, Onlinefællesskaber > Deling af fotos og videoer, Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Onlinegodbidder > Sociale netværksprogrammer og tilføjelsesprogrammer, Onlinefællesskaber > Kontaktannoncer og personlige > Personlige, Onlinefællesskaber > Kontaktannoncer og personlige > Fotovurderingswebsteder ",
+      "headTopics": "Emner: Feed-værktøj og sociale bogmærker",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/lvdybird",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9791785482299250011"
+      ],
+      "lpu": "https://www.reddit.com/r/sciencehumour",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/MagnumPear",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/MagnumPear",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7974106611672275079"
+      ],
+      "lpu": "https://www.reddit.com/r/totallynotrobots",
+      "allTopics": "Topics: Science > Engineering & Technology > Robotics, Science > Computer Science > Machine Learning & Artificial Intelligence ",
+      "headTopics": "Topics: Robotics",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5559698630796215563"
+      ],
+      "lpu": "https://www.reddit.com/r/oldschoolcelebs",
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Film, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Film > Filmreferencer, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning",
+      "type": "generic"
+    }
+  ]
+}

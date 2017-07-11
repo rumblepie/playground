@@ -1,0 +1,40 @@
+[
+  {
+    "basePage": "https://www.ethiojobs.net/browse-by-category/Management/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11989335241126021403"
+    ],
+    "lpu": "http://www.tableau.com/asset/top-10-business-intelligence-trends-2017",
+    "type": "generic"
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/browse-by-category/Management/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/6955430313511406466"
+    ],
+    "lpu": "https://www.vikoberallebiler.dk/vardi/10-2/",
+    "type": null
+  },
+  {
+    "basePage": "http://jobatsea.org/#sthash.YOzhcmqU.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1342940868329342066",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10640565971941494618",
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/8249495314715511112"
+    ],
+    "lpu": "http://www.singlesrussian.com/go.php",
+    "type": "targeted"
+  },
+  {
+    "basePage": "http://jobatsea.org/jobs/#sthash.zYQGgcKM.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8123064886502532980"
+    ],
+    "lpu": "http://www.russiamatches.com/go.php",
+    "type": "targeted"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "basePage": "https://www.ethiojobs.net/browse-by-category/Communications%2C%20PR%20and%20Journalism/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4020716701161650691",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3809236438892967816"
+    ],
+    "lpu": "https://www.tableau.com/asset/define-analytics",
+    "type": "generic"
+  }
+]

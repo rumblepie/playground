@@ -1,0 +1,279 @@
+{
+  "basePages": {
+    "https://www.ethiojobs.net/browse-by-category/Customer%20Service/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/display-job/134703/EFSVL-Cash-Transfer-Program-(CTP)-Team-Leader--Re-Advert.html": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/display-job/134696/LOGISTICS-OFFICER---Re-Advert.html": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/browse-by-category/Social%20Sciences%20and%20Community/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "http://www.openculture.com/": {
+      "allTopics": "Interests: Education > Post-Secondary Education, Education > Post-Secondary Education > Business Education, Education, Education > Study Abroad Programs, Education > Test Preparation & Tutoring, Education > Post-Secondary Education > Arts & Design Education ",
+      "headTopics": "In-market audiences: Post-Secondary Education"
+    },
+    "http://www.openculture.com/category/language_lessons": {
+      "allTopics": null,
+      "headTopics": null
+    },
+    "http://www.openculture.com/2012/02/23_free_essays_stories_by_david_foster_wallace_available_on_the_web.html": {
+      "allTopics": "Topics: Books & Literature, Books & Literature > Literary Classics, Books & Literature > Book Retailers, Books & Literature > Fan Fiction, Books & Literature > Children's Literature ",
+      "headTopics": "Topics: Books & Literature"
+    },
+    "https://www.fresherslive.com/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.fresherslive.com/interview-tips": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Career Resources & Planning"
+    },
+    "http://jobatsea.org/#sthash.3fwKDdCm.dpbs": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "http://jobatsea.org/jobs/On_shore/#sthash.bqwaUByx.dpbs": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "https://www.ethiojobs.net/browse-by-category/Customer%20Service/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18077008196975770224"
+      ],
+      "lpu": "http://www.danmark.date/campaign",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/display-job/134703/EFSVL-Cash-Transfer-Program-(CTP)-Team-Leader--Re-Advert.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17905531573635186873"
+      ],
+      "lpu": "https://Instapage.com/learn",
+      "allTopics": "Topics: Business & Industrial > Advertising & Marketing > Marketing, Business & Industrial > Advertising & Marketing, Business & Industrial > Advertising & Marketing > Brand Management, Business & Industrial > Business Services > E-Commerce Services, Business & Industrial > Business Services > Signage, Business & Industrial > Business Operations > Management > Strategic Planning, Business & Industrial > Business Services > Writing & Editing Services, Business & Industrial > Advertising & Marketing > Telemarketing, Business & Industrial > Advertising & Marketing > Public Relations, Business & Industrial > Advertising & Marketing > Sales ",
+      "headTopics": "Topics: Marketing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/display-job/134696/LOGISTICS-OFFICER---Re-Advert.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9158932639082381454"
+      ],
+      "lpu": "http://online.zebra.com/download-vdc-report",
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Computer Peripherals > Printers, Copiers & Fax > Printers, Computers & Electronics, Computers & Electronics > Computer Hardware > Computer Peripherals > Printers, Copiers & Fax, Computers & Electronics > Computer Hardware > Computer Peripherals > Printers, Copiers & Fax > Ink & Toner, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Computer Hardware > Computer Peripherals > Printers, Copiers & Fax > Scanners, Computers & Electronics > Computer Hardware > Computer Peripherals, Computers & Electronics > Computer Hardware > Computer Peripherals > Printers, Copiers & Fax > Copiers, Computers & Electronics > Computer Hardware > Computer Peripherals > Printers, Copiers & Fax > Fax Machines ",
+      "headTopics": "Topics: Printers",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/browse-by-category/Social%20Sciences%20and%20Community/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15473000865993529002",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/589154868951763245"
+      ],
+      "lpu": "https://www.zoho.com/reports/kpi-dashboards.html",
+      "allTopics": "Topics: Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM), Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology, Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software, Computers & Electronics > Software > Business & Productivity Software > Accounting & Financial Software, Computers & Electronics > Software > Open Source, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Multimedia Software > Desktop Publishing, Computers & Electronics > Software > Business & Productivity Software > Presentation Software, Computers & Electronics > Software > Business & Productivity Software > Calendar & Scheduling Software, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Software > Business & Productivity Software > Project Management Software ",
+      "headTopics": "Topics: Business & Productivity Software",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.openculture.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/824390620726650165"
+      ],
+      "lpu": "http://try.csod.co.uk/hrm-asset-toxicemployee-goog-display/",
+      "allTopics": "Topics: Business & Industrial > Business Operations > Human Resources, Business & Industrial > Business Operations > Human Resources > Compensation & Benefits, Business & Industrial > Business Operations > Human Resources > Payroll Services, Business & Industrial > Business Operations > Human Resources > Corporate Training, Business & Industrial > Business Operations > Management, Business & Industrial > Business Operations > Human Resources > Recruitment & Staffing, Business & Industrial > Business Services > Outsourcing, Business & Industrial > Business Services > Knowledge Management ",
+      "headTopics": "Topics: Human Resources",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.openculture.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/12620071385177919720",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/14109224497848410252",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/4265937410296726791"
+      ],
+      "lpu": "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem",
+      "allTopics": "Topics: Business & Industrial > Advertising & Marketing > Sales, Business & Industrial > Business Operations > Human Resources > Corporate Training, Business & Industrial > Business Operations > Management, Business & Industrial > Business Operations > Human Resources, Business & Industrial > Business Services > Consulting, Business & Industrial > Business Education, Business & Industrial > Business Operations > Management > Project Management, Business & Industrial > Business Operations, Business & Industrial > Advertising & Marketing > Telemarketing, Business & Industrial > Business Services > Corporate Events ",
+      "headTopics": "Topics: Sales",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.openculture.com/category/language_lessons",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12746162214541541923",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16994671066435746416"
+      ],
+      "lpu": "https://go.babbel.com/aw9-engall/default",
+      "allTopics": "Topics: Business & Industrial > Business Operations > Human Resources, Business & Industrial > Business Operations > Human Resources > Recruitment & Staffing, Business & Industrial > Business Operations > Human Resources > Corporate Training, Business & Industrial > Business Operations > Management, Business & Industrial > Business Services > Consulting, Business & Industrial > Business Operations > Human Resources > Payroll Services, Business & Industrial > Business Finance > Risk Management, Business & Industrial > Business Services > Outsourcing, Business & Industrial > Business Services > Knowledge Management, Business & Industrial > Business Services > Fire & Security Services ",
+      "headTopics": "Topics: Human Resources",
+      "type": null
+    },
+    {
+      "basePage": "http://www.openculture.com/category/language_lessons",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/17108668886518397012"
+      ],
+      "lpu": "http://shortcuttospanish.com",
+      "allTopics": "Topics: Reference > Language Resources > Foreign Language Resources > Foreign Language Study, Reference > Language Resources > Foreign Language Resources, Reference > Language Resources, Reference > Language Resources > Foreign Language Resources > Translation Tools & Resources, Reference > General Reference > Educational Resources, Reference ",
+      "headTopics": "Topics: Foreign Language Study",
+      "type": null
+    },
+    {
+      "basePage": "http://www.openculture.com/category/language_lessons",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3522611361289742337"
+      ],
+      "lpu": "https://ecelaspanish.com/",
+      "allTopics": "Topics: Reference > Language Resources > Foreign Language Resources > Foreign Language Study, Reference > Language Resources > Foreign Language Resources, Reference > Language Resources, Reference > Language Resources > Foreign Language Resources > Translation Tools & Resources, Reference > General Reference > Educational Resources ",
+      "headTopics": "Topics: Foreign Language Study",
+      "type": null
+    },
+    {
+      "basePage": "http://www.openculture.com/category/language_lessons",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7897842319047552289"
+      ],
+      "lpu": "http://www.flowfestival.com",
+      "allTopics": "Topics: Arts & Entertainment > Events & Listings > Concerts & Music Festivals, Arts & Entertainment > Events & Listings > Event Ticket Sales, Arts & Entertainment > Music & Audio > Jazz & Blues > Jazz, Arts & Entertainment > Events & Listings, Arts & Entertainment > Music & Audio > Classical Music, Arts & Entertainment > Music & Audio > Rock Music, Arts & Entertainment > Music & Audio > Rock Music > Classic Rock & Oldies, Arts & Entertainment > Music & Audio > Dance & Electronic Music, Arts & Entertainment > Music & Audio > Rock Music > Metal (Music), Arts & Entertainment > Events & Listings > Live Sporting Events, Arts & Entertainment > Events & Listings > Bars, Clubs & Nightlife, Arts & Entertainment > Music & Audio > Jazz & Blues > Blues, Arts & Entertainment > Music & Audio > World Music > Reggae & Caribbean Music, Arts & Entertainment > Performing Arts, Arts & Entertainment > Events & Listings > Film Festivals, Arts & Entertainment > Music & Audio > Jazz & Blues, Arts & Entertainment > Entertainment Industry > Recording Industry > Music Awards, Arts & Entertainment > Music & Audio > Vocals & Show Tunes, Arts & Entertainment > Events & Listings > Food & Beverage Events ",
+      "headTopics": "Topics: Concerts & Music Festivals",
+      "type": null
+    },
+    {
+      "basePage": "http://www.openculture.com/2012/02/23_free_essays_stories_by_david_foster_wallace_available_on_the_web.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9308133162160946182",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/180879619039271516",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5668061161700260841"
+      ],
+      "lpu": "http://www.grammarly.com/",
+      "allTopics": "Topics: Reference > Language Resources, Reference > Language Resources > Foreign Language Resources, Reference > General Reference > Dictionaries & Encyclopedias, Reference > Language Resources > Foreign Language Resources > Translation Tools & Resources, Reference > Language Resources > Foreign Language Resources > Foreign Language Study, Reference > General Reference > Educational Resources, Reference > General Reference, Reference > General Reference > Forms Guides & Templates ",
+      "headTopics": "Topics: Language Resources",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.openculture.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16615694066347141293",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12264396947458718552"
+      ],
+      "lpu": "http://www.teknologisk.dk/kurser/firmakurser",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.openculture.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7252560557513726921"
+      ],
+      "lpu": "https://badgeland.dk/multi-badgemaskine-lille-pakke.html",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.fresherslive.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/8249495314715511112",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3916949896201878952",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/3137542149075511225",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5311307843293034930",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12593205874026730817",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10640565971941494618",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17972496026904010481",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2299494561673637349",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9839610958816464496",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1342940868329342066",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4096056830817049528"
+      ],
+      "lpu": "http://www.singlesrussian.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.fresherslive.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10608128266467846352",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/16032500960987560366",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10331168820595722277",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/15123305975818202279"
+      ],
+      "lpu": "http://www.russiamatches.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Dating & Personals > Photo Rating Sites, Online Communities > Social Networks, Online Communities > Forum & Chat Providers ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.fresherslive.com/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5818289960046830492"
+      ],
+      "lpu": "http://www.charmdate.com/go.php",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.fresherslive.com/interview-tips",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10273268927891583660"
+      ],
+      "lpu": "http://www.accademialascala.it/en/management/courses/master-performing-arts.html",
+      "allTopics": "Topics: Jobs & Education > Education > Colleges & Universities, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Education > Study Abroad ",
+      "headTopics": "Topics: Colleges & Universities",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://jobatsea.org/#sthash.3fwKDdCm.dpbs",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7918044100552796185"
+      ],
+      "lpu": "http://invest.gwdcanada.com/investor",
+      "allTopics": "Topics: Finance > Investing, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Funds, Finance > Investing > Stocks & Bonds, Finance > Investing > Commodities & Futures Trading, Finance > Investing > Brokerages & Day Trading, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Stocks & Bonds > Exchanges, Finance > Financial Planning & Management, Finance > Investing > Funds > Hedge Funds, Finance > Banking > Savings Accounts, Finance > Investing > Derivatives, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://jobatsea.org/jobs/On_shore/#sthash.bqwaUByx.dpbs",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9453833612421502778"
+      ],
+      "lpu": "http://www.atlantic-marine.co.uk",
+      "allTopics": "Topics: Business & Industrial > Transportation & Logistics > Maritime Transport, Business & Industrial > Transportation & Logistics > Freight & Trucking, Business & Industrial > Transportation & Logistics > Import & Export, Business & Industrial > Transportation & Logistics, Business & Industrial > Transportation & Logistics > Public Storage, Business & Industrial > Transportation & Logistics > Warehousing ",
+      "headTopics": "Topics: Maritime Transport",
+      "type": "targeted"
+    }
+  ]
+}

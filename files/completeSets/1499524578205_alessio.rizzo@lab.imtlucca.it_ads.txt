@@ -1,0 +1,145 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-kendall_and_kylie_jenner_sued_over_tupac_shakur_ts-ap": {
+      "allTopics": "Emner: Kunst og underholdning > Nyheder om kendte og underholdning, Kunst og underholdning > Musik og lyd > Urban og hip-hop > Rap og hip-hop, Kunst og underholdning > Tv og video > Tv-shows og programmer, Kunst og underholdning > Film, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-realityshows, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Film > Bollywood og sydasiatiske film, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Underholdningsindustri > Film- og tv-industri ",
+      "headTopics": "Emner: Nyheder om kendte og underholdning"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Emner: Nyheder > Aviser, Nyheder > Sladder og sladdernyheder, Nyheder > Lokale nyheder, Nyheder, Nyheder > Journalistik og nyhedsindustri, Nyheder > Politik > Opinion og kommentar, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Aviser"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/tifu/": {
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-drama > Tv-sæbeoperaer, Kunst og underholdning > Tv og video > Tv-netværk og stationer, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegnefilm, Kunst og underholdning > Tv og video > Tv-shows og programmer > Talentshows og tv-underholdning, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-komedier, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-talkshows, Kunst og underholdning > Tv og video > Tv-shows og programmer > Tv-dokumentar og nonfiktion, Kunst og underholdning > Humor > Spoofs og satire ",
+      "headTopics": "Emner: Humor"
+    },
+    "https://www.reddit.com/wiki/index": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/r/australia/": {
+      "allTopics": "Emner: Nyheder > Politik > Kampagner og valg, Nyheder > Politik, Nyheder > Politik > Politiske rundspørger og opinionsmålinger, Nyheder > Politik > Venstrefløjspolitik, Nyheder > Politik > Højrefløjspolitik, Nyheder > Sladder og sladdernyheder > Skandaler og undersøgelser ",
+      "headTopics": "Emner: Kampagner og valg"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-kendall_and_kylie_jenner_sued_over_tupac_shakur_ts-ap",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1342019621932736420"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1146957.html",
+      "allTopics": "Emner: Indkøb > Beklædning > Hovedbeklædning, Indkøb > Beklædning > Dametøj, Indkøb > Beklædning > Børnetøj, Indkøb > Beklædning > Herretøj, Indkøb > Beklædning > Kostumer, Indkøb > Beklædning > Formel beklædning, Indkøb > Beklædning > Formel beklædning > Brudebeklædning, Indkøb > Beklædning > Uniformer og arbejdstøj, Indkøb > Beklædning > Dametøj > Nederdele, Indkøb > Beklædning > Tøjtilbehør, Biler og køretøjer > Cykler og tilbehør > Cykeltøj, Indkøb > Beklædning > Nattøj ",
+      "headTopics": "Emner: Hovedbeklædning",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/5876039\\/1498742227605\\/uge27_sommerkampagne_Xperia_XA1-PS4_300x250.html"
+      ],
+      "lpu": "http://ad.360yield.com/click/WsFVHEdrX6oUBB6SU.j4fZGoV-f38w2wfDmR-1O2ha4HZI15tIlu-z-v8v8f8fkOCkW0ly6nnX27Ol7DrrqqqYsrViSpvYWEZXRMGkupv2RwXJtgb.GqUuXB4w88KFB6Ukvh8Afk.6UKA6xw7nlU3FdRwcr5-bCGYdrEuQpFk1KvUOxlEyZYNO89U81RPQu4qiCsrf3XZD2DPgPoW8NkFviXoiseGGh4UDCDZWht9IealbkETq-GmIJLUcapRL2F3BogXQ642AWkUoYmmQFtA3eTeb04nZv2eYyvX8HSnfmeB2uwb7jYUHHnFbR5vrXzV.y7f7eSsjLtip4n8YHbxozu-VAZrL0OS0CNPgnKUALkuCZB3IomMjZfz1qGBznOKw16iy9Qh07waSQGWAHtmMQ4m-iMU4e5BMoNA5HWurXLs3W2058XDHhrX2WCB4bZ3xqhakPaHKe7gHpthOMzdAO.pomR9uG7QTlIgl0nMoRZq9AhbwGo8TVrZ--UE-Gez6VcsqLO9n8ucxogGdIt0M.ESYVkXh2mLATy6O8zSXR8tH9PqRSKWdvjmKs6eEoaltW3cNM4fYDR2Tes0iykOAQeVTo%3D//http%253A%252F%252Frs.gwallet.com%252Fr1%252Fadclick%252Fc571942T1003555B88674F96798R17S53b49071019d%252F_kfjpqezg4mjk7car94nitgxdyycqmcie3qxmfcd45bu3g176b6q85z4pc8161kt9i7myuszbuuxz8sfstfbdu1jrhruh63m6ct1puciftqhucsc4ukth6k58utto11c1aspup7ga53ppdi657g77wwg44sjsy16u5mwyhtrt41qhnpb5ecapmmqjummyuydfbxyz81wnaw7nds8wcxr9f3mmi4pwwbx7wksp5afnhkchnse4f5kxztg17xugq7hu",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3020089959073160941"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/tifu/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2332227160725150870"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarydragons",
+      "allTopics": "Topics: Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > Visual Art & Design, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Movies > Animated Films, Arts & Entertainment > Visual Art & Design > Painting, Arts & Entertainment > Visual Art & Design > Sculpture ",
+      "headTopics": "Topics: Cartoons",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/wiki/index",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16110205090823397801"
+      ],
+      "lpu": "http://www.meyersmad.dk/koeb-mad/frokostordning/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/viewad\\/4745153\\/kdk_lordagsondag_KUPP_q216_300x250.jpg"
+      ],
+      "lpu": "https://www.komplett.dk/kampagne/2550/weekendtilbud",
+      "allTopics": "Emner: Computere og elektronik, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Hovedtelefoner, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Højttalere, Computere og elektronik > Forbrugerelektronik > Lydudstyr > Stereoanlæg og -komponenter, Computere og elektronik > Forbrugerelektronik, Computere og elektronik > Computerhardware, Computere og elektronik > Forbrugerelektronik > Lydudstyr, Computere og elektronik > Forbrugerelektronik > Tv- og videoudstyr > Hjemmebiografsystemer, Computere og elektronik > Forbrugerelektronik > Bilelektronik > Lydsystemer til biler, Computere og elektronik > Computerhardware > Computerdrev og -lagerenheder > Cd- og dvd-drev og -brændere, Computere og elektronik > Computerhardware > Computerudstyr, Computere og elektronik > Forbrugerelektronik > Gadgets og bærbare elektroniske enheder > MP3-afspillere og transportable medieafspillere, Computere og elektronik > Software > Operativsystemer, Computere og elektronik > Virksomhedsteknologi ",
+      "headTopics": "Emner: Computere og elektronik",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15798377332569272541"
+      ],
+      "lpu": "https://www.reddit.com/r/tropical",
+      "allTopics": "Emner: Rejser > Turistmål > Strande og øer, Rejser > Rejsebureauer og -tjenester > Rejsetilbud, Rejser > Hoteller og indlogering, Rejser > Rejsebureauer og -tjenester, Rejser > Krydstogter og charterrejser, Rejser, Rejser > Rejsevejledninger og rejsekataloger ",
+      "headTopics": "Emner: Strande og øer",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/australia/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14952004647907673630"
+      ],
+      "lpu": "http://www.gyprock.com.au/Pages/Products/Adhesives-Sealants/Cornice-Cement-90.aspx",
+      "allTopics": "Emner: Virksomheder og industri > Konstruktion og vedligeholdelse > Byggematerialer, Virksomheder og industri > Kemikalieindustri > Belægninger og klæbemidler, Virksomheder og industri > Industrimaterialer og udstyr > Tungt maskineri, Virksomheder og industri > Konstruktion og vedligeholdelse, Virksomheder og industri > Konstruktion og vedligeholdelse > Byggematerialer > Træ og plastic, Virksomheder og industri > Konstruktion og vedligeholdelse > Byggematerialer > VVS-armaturer og -udstyr, Virksomheder og industri > Industrimaterialer og udstyr, Virksomheder og industri > Metal og minedrift, Virksomheder og industri > Konstruktion og vedligeholdelse > Byggematerialer > Søm, skruer og bolte, Virksomheder og industri > Konstruktion og vedligeholdelse > Bygningskontrakter og -konsulentvirksomhed, Virksomheder og industri > Kemikalieindustri > Plast og polymerer, Virksomheder og industri > Konstruktion og vedligeholdelse > Ingeniørvidenskab ",
+      "headTopics": "Emner: Byggematerialer",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/97874112051902302"
+      ],
+      "lpu": "http://ondisplay.dk",
+      "allTopics": "Topics: Business & Industrial > Business Services > Office Supplies, Business & Industrial > Transportation & Logistics > Mail & Package Delivery, Business & Industrial > Transportation & Logistics > Mail & Package Delivery > Couriers & Messengers, Business & Industrial > Printing & Publishing > Document & Printing Services > Business Cards & Stationary, Business & Industrial > Printing & Publishing > Document & Printing Services, Business & Industrial > Transportation & Logistics > Packaging, Business & Industrial > Advertising & Marketing > Promotional Items & Corporate Gifts, Business & Industrial > Business Services > Office Services ",
+      "headTopics": "Topics: Office Supplies",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Home & Garden",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/370063518628866801"
+      ],
+      "lpu": "https://www.dti.dk/specialists/courses-and-conferences/33259",
+      "allTopics": "Topics: Business & Industrial > Business Operations > Human Resources > Corporate Training, Business & Industrial, Business & Industrial > Advertising & Marketing > Sales, Business & Industrial > Business Operations > Management, Business & Industrial > Business Operations > Human Resources, Business & Industrial > Business Services > Consulting, Business & Industrial > Business Education, Business & Industrial > Business Operations > Management > Project Management, Business & Industrial > Business Services > Quality Control & Tracking, Business & Industrial > Business Operations, Business & Industrial > Business Services > Corporate Events ",
+      "headTopics": "Topics: Corporate Training",
+      "type": "generic"
+    }
+  ]
+}

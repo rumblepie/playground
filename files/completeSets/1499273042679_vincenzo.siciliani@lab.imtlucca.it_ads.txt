@@ -1,0 +1,306 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-poland_moves_toward_extradition_of_us_man_in_nazi-ap": {
+      "allTopics": "Emner: Reference > Humaniora > Historie > Militærhistorie ",
+      "headTopics": "Emner: Militærhistorie"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-poland_moves_toward_extradition_of_us_man_in_nazi-ap": {
+      "allTopics": "Emner: Reference > Humaniora > Historie > Militærhistorie, Reference, Reference > Humaniora > Historie ",
+      "headTopics": "Emner: Militærhistorie"
+    },
+    "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-the_latest_reigning_womens_champ_wins_at_hot_dog_c-ap": {
+      "allTopics": "Emner: Hobby og fritid > Konkurrencer, priser og præmier ",
+      "headTopics": "Emner: Konkurrencer, priser og præmier"
+    },
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Computer Hardware > Computer Components, Computers & Electronics > Computer Hardware > Hardware Modding & Tuning, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Data Backup & Recovery, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Computer Hardware > Computer Drives & Storage, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/player/article/storyful_studio-multivehicle_incident_on_interstate_81_outside_tam-5min": {
+      "allTopics": "Sites: startpage.lenovo.com ",
+      "headTopics": "Sites/Channels 1"
+    },
+    "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html": {
+      "allTopics": "Emner: Biler og køretøjer > Indkøb af køretøj, Biler og køretøjer > Mærker på motorkøretøjer > VW (Folkevogn), Biler og køretøjer > Mærker på motorkøretøjer > Hyundai, Biler og køretøjer > Mærker på motorkøretøjer, Biler og køretøjer > Mærker på motorkøretøjer > Toyota, Biler og køretøjer > Mærker på motorkøretøjer > Vauxhall-Opel, Biler og køretøjer > Mærker på motorkøretøjer > Mercedes-Benz, Biler og køretøjer > Mærker på motorkøretøjer > Audi, Biler og køretøjer > Mærker på motorkøretøjer > Citroën, Biler og køretøjer > Mærker på motorkøretøjer > Peugeot, Biler og køretøjer > Mærker på motorkøretøjer > Fiat, Biler og køretøjer > Mærker på motorkøretøjer > Renault-Samsung, Biler og køretøjer > Mærker på motorkøretøjer > Kia, Biler og køretøjer > Mærker på motorkøretøjer > SEAT, Biler og køretøjer > Indkøb af køretøj > Bilspecifikationer, anmeldelser og sammenligninger ",
+      "headTopics": "Emner: Indkøb af køretøj"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/r/gadgets/": {
+      "allTopics": "Emner: Computere og elektronik > Forbrugerelektronik > Gadgets og bærbare elektroniske enheder, Computere og elektronik, Computere og elektronik > Forbrugerelektronik > GPS og navigation, Computere og elektronik > Software > Operativsystemer > Mobiloperativsystemer > Apple iOS, Computere og elektronik > Software > Operativsystemer > Mac OS, Computere og elektronik > Computerhardware > Bærbare computere og notebooks > Tablet-pc'er, Computere og elektronik > Forbrugerelektronik > Tv- og videoudstyr > Videoafspillere og -optagere > DVD-afspillere og -optagere, Computere og elektronik > Forbrugerelektronik > Bilelektronik, Computere og elektronik > Forbrugerelektronik > Gadgets og bærbare elektroniske enheder > MP3-afspillere og transportable medieafspillere, Computere og elektronik > Software > Operativsystemer > Mobiloperativsystemer > Windows Mobile OS, Computere og elektronik > Forbrugerelektronik > Bilelektronik > Bilvideo, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Forbrugerelektronik > Gadgets og bærbare elektroniske enheder > PDA'er og håndholdte enheder, Computere og elektronik > Software > Operativsystemer > Mobiloperativsystemer > Symbian OS ",
+      "headTopics": "Emner: Gadgets og bærbare elektroniske enheder"
+    },
+    "https://www.reddit.com/user/MlgMonday": {
+      "allTopics": "Emner: Onlinefællesskaber > Feed-værktøj og sociale bogmærker, Onlinefællesskaber > Deling af fotos og videoer > Deling af fotos og billeder, Onlinefællesskaber > Deling af fotos og videoer > Deling af videoer, Onlinefællesskaber > Deling af fotos og videoer ",
+      "headTopics": "Emner: Feed-værktøj og sociale bogmærker"
+    },
+    "https://www.reddit.com/r/europe/": {
+      "allTopics": "Emner: Sport > Holdsport > Fodbold, Sport > Sportsresultater og statistik, Sport > Fantasisport, Sport > Globale sportsbegivenheder, Sport > Sportsudstyr > Fodboldudstyr ",
+      "headTopics": "Emner: Fodbold"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-poland_moves_toward_extradition_of_us_man_in_nazi-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1623871112404859963",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14097609774121778007"
+      ],
+      "lpu": "http://wikibuy.com/instant",
+      "allTopics": "Emner: Indkøb > Forbrugerressourcer > Rabatter og kupontilbud, Indkøb > Forbrugerressourcer > Kundeservice > Programmer og kort til kundeloyalitet, Indkøb > Indkøbsportaler og søgemaskiner, Indkøb > Grossister og stormagasiner, Indkøb > Discount- og outlet-butikker, Indkøb > Beklædning, Indkøb > Gaver og mærkedagevarer > Gaver, Indkøb > Grossister og kuratorer ",
+      "headTopics": "Emner: Rabatter og kupontilbud",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-poland_moves_toward_extradition_of_us_man_in_nazi-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6820508142741790650"
+      ],
+      "lpu": "http://beautifulskinlab.com/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-poland_moves_toward_extradition_of_us_man_in_nazi-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4094657459676975605"
+      ],
+      "lpu": "http://Tophatter.com/",
+      "allTopics": "Emner: Indkøb > Auktioner, Indkøb > Indkøbsportaler og søgemaskiner, Indkøb > Antikviteter og samleobjekter, Indkøb > Beklædning > Børnetøj, Indkøb > Grossister og kuratorer, Indkøb > Forbrugerressourcer > Kundeservice > Garantier og servicekontrakter ",
+      "headTopics": "Emner: Auktioner",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-the_latest_reigning_womens_champ_wins_at_hot_dog_c-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16110205090823397801",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6066928964424838679"
+      ],
+      "lpu": "http://www.meyersmad.dk/koeb-mad/frokostordning/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-the_latest_reigning_womens_champ_wins_at_hot_dog_c-ap",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14329896341339949295"
+      ],
+      "lpu": "http://traffic.fstsrvfst.com/jsp/redirect/865580549/index.jsp",
+      "allTopics": "Emner: Internet og telekommunikation > Mobil og trådløs > Mobilprogrammer og tilføjelsesprogrammer > Android-apps, Internet og telekommunikation > Mobil og trådløs > Mobilprogrammer og tilføjelsesprogrammer > iOS-apps, Internet og telekommunikation > Mobil og trådløs > Mobilprogrammer og tilføjelsesprogrammer ",
+      "headTopics": "Emner: Android-apps",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/5268239\\/1488546657837\\/index.html"
+      ],
+      "lpu": "http://a.rfihub.com/acs/b/c3Q9aHRtbCZhYT0yOTU5MzIxLDEwNjk3MTc3MSwxMzQ0NTA3LDY3MzEzMzczLDEwMTk5NSw4NjM3NjksMmRlZjUwZGU4MWQxN2UyNmVjZGE5NjQ2MmVkYmIxYjEscCwyNTQ5NywzNjAwNTEsMjg4Mzc0MzMsMjg4NzUzLDcxMDA2NyZtdD0xJnJiPTY0JnJlPTM0NzAxJmhjaT0mdXVpZD02MzgxNzQxNTA4Njg0OTc4MTgmZGk9JmRjPTMmZGlzcmM9MCZkaWQ9dGlkXzg2Mzc2OXxtZWRfcmVndWxhcg../n/https://kampagner.nordicbet.dk/casino-welcome-bonus/da/",
+      "allTopics": "Emner: Spil > Terningespil, Spil > Onlinespil, Spil > Computer- og videospil > Spilmedier og -referencer > Snyd og tip til spil, Spil > Kortspil, Spil, Spil > Brætspil, Spil > Brikspil, Spil > Brætspil > Skak og abstrakte strategispil, Spil > Spillemaskiner og arkadespil, Spil > Bordspil ",
+      "headTopics": "Emner: Terningespil",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/article/storyful_studio-multivehicle_incident_on_interstate_81_outside_tam-5min",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1631778786528562370"
+      ],
+      "lpu": "http://go.improvemortgage.com/e3c5b914-e5ae-4465-980d-28c238351126",
+      "allTopics": "Emner: Finans > Kredit og udlån > Lån > Ejendomsfinansiering > Realkreditlån, Finans > Kredit og udlån > Lån > Ejendomsfinansiering, Finans > Kredit og udlån > Lån > Køretøjsfinansiering > Bilfinansiering, Finans > Kredit og udlån > Lån > Private lån, Finans > Kredit og udlån, Finans > Kredit og udlån > Lån, Finans > Bevillinger, legater og finansiel bistand > Statstilskud, Finans > Bankvæsen > Opsparingskonti, Finans > Kredit og udlån > Lån > Køretøjsfinansiering, Finans > Kredit og udlån > Lån > Private lån > Kortfristede lån og kontante forskud, Finans > Kredit og udlån > Kreditrapportering og -overvågning, Finans > Kredit og udlån > Debitorstyring, Finans > Investering > Aktier og obligationer > Gældsbeviser ",
+      "headTopics": "Emner: Realkreditlån",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/6125801\\/1496733011986\\/index.html"
+      ],
+      "lpu": "https://www.grohe.dk/da_dk/smarthome/grohe-sense-water-security-system/",
+      "allTopics": "Emner: Virksomheder og industri > Konstruktion og vedligeholdelse > Byggematerialer > VVS-armaturer og -udstyr, Virksomheder og industri > Energi og elektricitetsværker > Renovation, Virksomheder og industri > Industrimaterialer og udstyr, Virksomheder og industri > Industrimaterialer og udstyr > Væskehåndtering, Virksomheder og industri > Energi og elektricitetsværker > Elektricitet, Virksomheder og industri > Industrimaterialer og udstyr > Væskehåndtering > Ventiler, slanger og armaturer, Virksomheder og industri > Energi og elektricitetsværker > Vandforsyning og -behandling, Virksomheder og industri > Produktion > Fabriksautomatisering ",
+      "headTopics": "Emner: VVS-armaturer og -udstyr",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9456327206892775373",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7782452311572109221"
+      ],
+      "lpu": "http://clickserve.dartsearch.net/link/click",
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/news/article-4429144/Car-dealers-clocked-cars-sold-eBay-Autotrader.html",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/7366272799120186539"
+      ],
+      "lpu": "http://www.addressy.com/",
+      "allTopics": "Emner: Computere og elektronik > Netværk, Computere og elektronik > Software > Operativsystemer > Linux og Unix, Computere og elektronik > Netværk > Dataformater og protokoller, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Operativsystemer, Computere og elektronik > Netværk > Netværksudstyr, Computere og elektronik > Computerhardware > Computerdrev og -lagerenheder > Netværkslagring, Computere og elektronik > Computerhardware > Computerservere, Computere og elektronik > Netværk > Virtuelt privat netværk og fjernadgang, Videnskab > Computervidenskab > Distribueret og parallelt computerarbejde, Computere og elektronik > Programmering > Scriptsprog, Computere og elektronik > Netværk > Netværksovervågning og -administration, Computere og elektronik > Computersikkerhed > Netværkssikkerhed, Computere og elektronik > El og elektronik > Optoelektronik og fiberoptik, Computere og elektronik > Software > Internetsoftware ",
+      "headTopics": "Emner: Netværk",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12345951741832496564"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Emner: Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Programmering > Windows og .NET, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Programmering, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Programmering > Java (programmeringssprog), Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Programmering > C og C++, Computere og elektronik > Software > Open source, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management) ",
+      "headTopics": "Emner: Udviklingsværktøjer",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17292029346331024546"
+      ],
+      "lpu": "https://www.reddit.com/r/Keratoconus/",
+      "allTopics": "Emner: Sundhed > Synspleje, Sundhed > Synspleje > Øjenundersøgelser og optometri, Sundhed > Synspleje > Synskorrigering med laser, Sundhed > Synspleje > Briller og kontaktlinser, Sundhed > Sundhedsforhold, Sundhed > Medicinske faciliteter og tjenester > Hospitaler og behandlingscentre, Sundhed > Apoteker > Lægemidler og sygdomsforebyggelse, Sundhed > Sundhedsforhold > Genetiske sygdomme, Sundhed > Mentalhygiejne > Indlærings- og udviklingsproblemer > ADD og ADHD, Sundhed > Sundhedsforhold > Diabetes, Sundhed > Medicinske faciliteter og tjenester > Medicinske procedurer > Kirurgi, Sundhed > Medicinske faciliteter og tjenester, Sundhed > Medicinsk udstyr > Hjælpeteknologi ",
+      "headTopics": "Emner: Synspleje",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9791785482299250011"
+      ],
+      "lpu": "https://www.reddit.com/r/sciencehumour",
+      "allTopics": "Emner: Kunst og underholdning > Humor, Kunst og underholdning > Offbeat, Kunst og underholdning > Humor > Politisk humor, Kunst og underholdning > Tv og video > Onlinevideo, Kunst og underholdning > Onlinemedier > Online billedgallerier, Kunst og underholdning > Sjov og spas, Kunst og underholdning > Humor > Livekomedier, Kunst og underholdning > Tegneserier og animation > Tegneserier, Kunst og underholdning > Tv og video > Tv-reklamer, Kunst og underholdning > Humor > Spoofs og satire, Kunst og underholdning > Tv og video > Onlinevideo > Webserier, Kunst og underholdning > Offbeat > Kontroversielt og bizart ",
+      "headTopics": "Emner: Humor",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/gadgets/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9701332995547280461"
+      ],
+      "lpu": "https://www.storybase.com",
+      "allTopics": "Emner: Internet og telekommunikation > Webtjenester > Søgemaskineoptimering og marketing, Internet og telekommunikation > Webtjenester > Affilierede programmer, Internet og telekommunikation > Webtjenester > Webstatistikker og -analyser, Internet og telekommunikation > Webtjenester, Internet og telekommunikation > Søgemaskiner, Internet og telekommunikation > Webtjenester > Webdesign og udvikling, Internet og telekommunikation > E-mail og messaging > Spam og e-mailfiltre ",
+      "headTopics": "Emner: Søgemaskineoptimering og marketing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > East Asian Cuisine > Chinese Cuisine, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2332227160725150870"
+      ],
+      "lpu": "https://www.reddit.com/r/imaginarydragons",
+      "allTopics": "Topics: Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > Visual Art & Design, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Movies > Animated Films, Arts & Entertainment > Visual Art & Design > Painting, Arts & Entertainment > Visual Art & Design > Sculpture ",
+      "headTopics": "Topics: Cartoons",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/MlgMonday",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17013806722216105479"
+      ],
+      "lpu": "https://www.reddit.com/r/oldnews",
+      "allTopics": "Topics: News > Newspapers, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Sports News, News > Politics, News > Gossip & Tabloid News, News > Business News, News > World News, News > Politics > Left-Wing Politics, News > Broadcast & Network News, News > Business News > Economy News, News > Health News, News > Politics > Media Critics & Watchdogs ",
+      "headTopics": "Topics: Newspapers",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/MlgMonday",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5371718272733359765"
+      ],
+      "lpu": "https://www.reddit.com/r/rubberducks",
+      "allTopics": "Topics: People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby & Toddler Toys, People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers, People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby Care & Hygiene ",
+      "headTopics": "Topics: Baby & Toddler Toys",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14742059913860453710"
+      ],
+      "lpu": "http://www.reddit.com/r/imaginaryfeels",
+      "allTopics": "Emner: Kunst og underholdning > Visuel kunst og design, Kunst og underholdning > Visuel kunst og design > Malerkunst, Kunst og underholdning > Visuel kunst og design > Skulptur, Kunst og underholdning > Visuel kunst og design > Kunstuddannelse, Kunst og underholdning > Visuel kunst og design > Kunstmuseer og gallerier, Kunst og underholdning > Visuel kunst og design > Kunst- og kunsthåndværksartikler, Kunst og underholdning > Scenekunst, Kunst og underholdning > Musik og lyd > Musikmemorabilia, Kunst og underholdning > Visuel kunst og design > Design > Grafisk design, Kunst og underholdning > Visuel kunst og design > Design > Industrielt design og produktdesign, Kunst og underholdning > Visuel kunst og design > Design, Kunst og underholdning > Film > Filmmemorabilia ",
+      "headTopics": "Emner: Visuel kunst og design",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9007114057570493407"
+      ],
+      "lpu": "https://www.reddit.com/r/btc",
+      "allTopics": "Topics: Finance > Investing > Currencies & Foreign Exchange, Finance, Finance > Investing > Brokerages & Day Trading, Finance > Banking > Money Transfer & Wire Services ",
+      "headTopics": "Topics: Currencies & Foreign Exchange",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/europe/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6766609306834518665"
+      ],
+      "lpu": "https://www.omada.net/en-us/more/resources/gartners-critical-capabilities-2017",
+      "allTopics": "Emner: Computere og elektronik > Software > Virksomheds- og produktivitetssoftware, Computere og elektronik > Virksomhedsteknologi, Computere og elektronik > Computersikkerhed > Netværkssikkerhed, Computere og elektronik > Virksomhedsteknologi > Planlægning af virksomhedsressourcer (ERP, Enterprise Resource Planning), Computere og elektronik > Virksomhedsteknologi > Kundestyring (CRM, Customer Relationship Management), Computere og elektronik > Software > Internetsoftware > Indholdsstyring, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnearkssoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Regnskabs- og økonomisoftware, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Virksomhedsteknologi > Dataadministration, Computere og elektronik > Software > Multimediesoftware > Desktop Publishing, Computere og elektronik > Computersikkerhed, Computere og elektronik > Netværk > Netværksovervågning og -administration, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse ",
+      "headTopics": "Emner: Virksomheds- og produktivitetssoftware",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/12032854410572893452"
+      ],
+      "lpu": "https://www.expressvpn.com/denmark",
+      "allTopics": "Emner: Computere og elektronik > Netværk > Virtuelt privat netværk og fjernadgang, Computere og elektronik > Software, Computere og elektronik > Software > Internetsoftware > Proxyservere og filtrering, Computere og elektronik > Software > Freeware og shareware, Computere og elektronik > Software > Softwareværktøjer, Computere og elektronik > Programmering, Computere og elektronik > Netværk > Dataformater og protokoller, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til tekstbehandling, Computere og elektronik > Software > Operativsystemer > Linux og Unix, Computere og elektronik > Computerhardware > Computerservere, Computere og elektronik > Netværk, Computere og elektronik > Software > Open source, Computere og elektronik > Netværk > Netværksovervågning og -administration, Computere og elektronik > Computersikkerhed > Netværkssikkerhed, Computere og elektronik > Programmering > Udviklingsværktøjer, Computere og elektronik > Software > Operativsystemer, Computere og elektronik > Software > Virksomheds- og produktivitetssoftware > Software til projektledelse, Computere og elektronik > Software > Internetsoftware ",
+      "headTopics": "Emner: Virtuelt privat netværk og fjernadgang",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Autos & Vehicles",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/14342618170691733856"
+      ],
+      "lpu": "https://www.bildeleshop.dk/",
+      "allTopics": "Emner: Biler og køretøjer > Dele og tilbehør til biler, Biler og køretøjer > Dele og tilbehør til biler > Motor og transmission, Biler og køretøjer > Dele og tilbehør til biler > Biludstyr udvendigt, Biler og køretøjer > Dele og tilbehør til biler > Biludstyr indvendigt, Biler og køretøjer, Biler og køretøjer > Motorcykler, Biler og køretøjer > Scootere og knallerter, Biler og køretøjer > Vedligeholdelse af køretøjer, Biler og køretøjer > Erhvervskøretøjer > Lastbiler og trailere, Biler og køretøjer > Lastvogne og SUV'er > Lastbiler, Biler og køretøjer > Ombyggede biler og sportsvogne ",
+      "headTopics": "Emner: Dele og tilbehør til biler",
+      "type": "targeted"
+    }
+  ]
+}

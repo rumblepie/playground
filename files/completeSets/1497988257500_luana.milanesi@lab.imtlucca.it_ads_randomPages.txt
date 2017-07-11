@@ -1,0 +1,218 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/news/read/article/afp-tiger_woods_says_hes_getting_professional_help-afp": {
+      "allTopics": "Topics: Sports > Individual Sports > Golf, Sports > Sporting Goods > Golf Equipment, Sports > Sports Coaching & Training ",
+      "headTopics": "Topics: Golf"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-ap_sources_spicer_seeks_more_strategic_role_at_whi-ap": {
+      "allTopics": "Topics: News > Politics, News, News > Politics > Right-Wing Politics, News > Politics > Left-Wing Politics, News > Gossip & Tabloid News > Scandals & Investigations, News > Politics > Campaigns & Elections, News > World News, News > Broadcast & Network News, News > Politics > Opinion & Commentary, News > Politics > Media Critics & Watchdogs ",
+      "headTopics": "Topics: Politics"
+    },
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware, Computers & Electronics > Software > Operating Systems > Mobile OS > Android OS, Computers & Electronics > Software > Operating Systems > Mobile OS > Apple iOS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Computer Components > Sound & Video Cards, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > PDAs & Handhelds, Computers & Electronics > Computer Hardware > Computer Peripherals > Computer Monitors & Displays, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "http://www.dailymail.co.uk/femail/index.html": {
+      "allTopics": "Topics: News > Gossip & Tabloid News, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Gossip & Tabloid News"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing, Online Communities > Photo & Video Sharing > Photo & Image Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/user/Laogama": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/afp-tiger_woods_says_hes_getting_professional_help-afp",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10193026107175002308"
+      ],
+      "lpu": "https://www.newchic.com/gloves-4193/p-1120299.html",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories, Shopping > Apparel, Shopping > Apparel > Outerwear, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Headwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Discount & Outlet Stores, Shopping > Apparel > Formal Wear, Shopping > Wholesalers & Liquidators, Shopping > Gifts & Special Event Items > Custom & Personalized Items ",
+      "headTopics": "Topics: Clothing Accessories",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/afp-tiger_woods_says_hes_getting_professional_help-afp",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/3603648171012602298"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-ap_sources_spicer_seeks_more_strategic_role_at_whi-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5110649206810571193"
+      ],
+      "lpu": "https://www.newchic.com/hats-and-caps-4192/p-1117031.html",
+      "allTopics": "Topics: Shopping > Apparel > Headwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing, Shopping > Discount & Outlet Stores, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Formal Wear, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Headwear",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/597\\/s1.adformdsp.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-ap_sources_spicer_seeks_more_strategic_role_at_whi-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8925958716569835393"
+      ],
+      "lpu": "http://www.teknologisk.dk/kurser/firmakurser",
+      "allTopics": "Topics: Jobs & Education > Education > Training & Certification, Jobs & Education > Education > Vocational & Continuing Education > Computer Education, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Jobs > Job Listings > Education Jobs ",
+      "headTopics": "Topics: Training & Certification",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15463690177052104316"
+      ],
+      "lpu": "https://www.axel.dk/webshop/outlet",
+      "allTopics": "Topics: Shopping > Apparel > Men's Clothing, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Undergarments, Shopping > Apparel > Formal Wear, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Sleepwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Footwear, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Swimwear, Shopping > Apparel > Headwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Footwear > Boots ",
+      "headTopics": "Topics: Men's Clothing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/6739824\\/1495615106956\\/20170605_AmericanTourister_Summer2017_DK_300x250\\/index.html"
+      ],
+      "lpu": "http://www.americantourister.dk/beready/index-da.htm",
+      "allTopics": "Topics: Travel > Luggage & Travel Accessories, Travel > Air Travel ",
+      "headTopics": "Topics: Luggage & Travel Accessories",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/femail/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15049201863571231773"
+      ],
+      "lpu": "http://www.dailymail.co.uk/",
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News > Journalism & News Industry, News, News > Politics > Opinion & Commentary, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers",
+      "type": "contextual"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/femail/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4486204519602302274"
+      ],
+      "lpu": "https://www.fisherinvestments.eu/dk/aktiemarkedsudsigt/4c/index.php",
+      "allTopics": "Topics: Finance > Investing, Finance > Financial Planning & Management > Retirement & Pension, Finance > Investing > Funds > Mutual Funds, Finance > Investing > Funds, Finance > Investing > Stocks & Bonds > Bonds, Finance > Financial Planning & Management > Asset & Portfolio Management, Finance > Investing > Stocks & Bonds, Finance > Investing > Brokerages & Day Trading, Finance > Financial Planning & Management, Finance > Investing > Funds > Exchange Traded Funds, Finance > Investing > Funds > Hedge Funds, Finance > Investing > Derivatives, Finance > Banking > Savings Accounts, Finance > Investing > Real Estate Investment Trusts ",
+      "headTopics": "Topics: Investing",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3020089959073160941"
+      ],
+      "lpu": "https://www.mulesoft.com/lp/whitepaper/api/rising-value-apis/",
+      "allTopics": "Topics: Computers & Electronics > Programming > Development Tools, Computers & Electronics > Enterprise Technology, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Programming > Windows & .NET, Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Software > Open Source, Computers & Electronics > Programming, Computers & Electronics > Programming > Java (Programming Language), Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Programming > C & C++, Computers & Electronics > Software > Multimedia Software > Desktop Publishing, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Software > Business & Productivity Software > Accounting & Financial Software, Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM) ",
+      "headTopics": "Topics: Development Tools",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7974106611672275079"
+      ],
+      "lpu": "https://www.reddit.com/r/totallynotrobots",
+      "allTopics": "Topics: Science > Engineering & Technology > Robotics, Science > Computer Science > Machine Learning & Artificial Intelligence ",
+      "headTopics": "Topics: Robotics",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2018747690941193760"
+      ],
+      "lpu": "http://www.reddit.com/r/ebes",
+      "allTopics": "Topics: Arts & Entertainment > Offbeat > Occult & Paranormal, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Offbeat, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Movies > Horror Films, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Performing Arts > Magic, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Occult & Paranormal",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/Laogama",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/5559698630796215563"
+      ],
+      "lpu": "https://www.reddit.com/r/oldschoolcelebs",
+      "allTopics": "Topics: Arts & Entertainment > Celebrities & Entertainment News, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Movies, Arts & Entertainment > TV & Video > TV Shows & Programs, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Reality Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Movies > Movie Reference, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Entertainment Industry, Arts & Entertainment > Entertainment Industry > Film & TV Industry ",
+      "headTopics": "Topics: Celebrities & Entertainment News",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/4920388699204177901"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Custom & Personalized Items, Shopping > Gifts & Special Event Items > Cards & Greetings ",
+      "headTopics": "Topics: Gifts",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/601059815545450784",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1102901335028174999",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6515727603852153380"
+      ],
+      "lpu": "http://www.charmdate.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15268888835231251931"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    }
+  ]
+}

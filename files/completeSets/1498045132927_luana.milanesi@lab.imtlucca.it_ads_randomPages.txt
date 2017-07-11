@@ -1,0 +1,267 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware, Computers & Electronics > Software > Operating Systems > Mobile OS > Android OS, Computers & Electronics > Software > Operating Systems > Mobile OS > Apple iOS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Computer Components > Sound & Video Cards, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > PDAs & Handhelds, Computers & Electronics > Computer Hardware > Computer Peripherals > Computer Monitors & Displays, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-deliberations_in_milwaukee_police_shooting_enter_s-ap": {
+      "allTopics": "Topics: News, News > Newspapers, News > World News, News > Broadcast & Network News ",
+      "headTopics": "Topics: News"
+    },
+    "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-apnewsbreak_congressmans_wife_works_parttime_in_24-ap": {
+      "allTopics": "Topics: Law & Government > Legal > Legal Services, Law & Government, Law & Government > Legal > Accident & Personal Injury Law, Law & Government > Legal > Family Law ",
+      "headTopics": "Topics: Legal Services"
+    },
+    "http://startpage.lenovo.com/player/category/entertainment/article/newsy_now-barbies_boyfriend_ken_just_got_a_diversity_makeove-newsy": {
+      "allTopics": "Topics: Beauty & Fitness > Hair Care, Beauty & Fitness > Fashion & Style, Beauty & Fitness > Cosmetology & Beauty Professionals, Beauty & Fitness > Hair Care > Hair Loss, Beauty & Fitness > Face & Body Care > Make-Up & Cosmetics, Beauty & Fitness, Beauty & Fitness > Fashion & Style > Fashion Designers & Collections, Beauty & Fitness > Face & Body Care > Hygiene & Toiletries, Beauty & Fitness > Face & Body Care, Beauty & Fitness > Face & Body Care > Unwanted Body & Facial Hair Removal, Beauty & Fitness > Spas & Beauty Services ",
+      "headTopics": "Topics: Hair Care"
+    },
+    "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-coroner_cocaine_among_drugs_found_in_carrie_fisher-ap": {
+      "allTopics": "Topics: Arts & Entertainment > Celebrities & Entertainment News, Arts & Entertainment > Movies, Arts & Entertainment > TV & Video > TV Shows & Programs, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > Entertainment Industry > Film & TV Industry, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Reality Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Movies > Movie Reference, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Entertainment Industry > Film & TV Industry > Film & TV Awards, Arts & Entertainment > Entertainment Industry ",
+      "headTopics": "Topics: Celebrities & Entertainment News"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "https://www.reddit.com/user/SpiteChickens": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/user/pencer": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/user/DeLaRey": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/r/Futurology/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Photo & Video Sharing > Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/ugly": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > Online Media, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15123408393797634787",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14170209791298371927",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13547305687085458569"
+      ],
+      "lpu": "http://www.msk.dk/",
+      "allTopics": "Topics: Jobs & Education > Education > Colleges & Universities, Jobs & Education > Education > Primary & Secondary Schooling (K-12), Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Teaching & Classroom Resources > Lesson Plans, Jobs & Education > Education > Teaching & Classroom Resources, Jobs & Education > Education, Jobs & Education > Education > Study Abroad, Jobs & Education > Education > Alumni & Reunions, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education ",
+      "headTopics": "Topics: Colleges & Universities",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-deliberations_in_milwaukee_police_shooting_enter_s-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15048287707320313729"
+      ],
+      "lpu": "https://www.newchic.com/sandals-4188/p-1139798.html",
+      "allTopics": "Topics: Shopping > Apparel > Footwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Apparel > Footwear > Boots, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Apparel > Apparel Services, Shopping > Apparel > Uniforms & Workwear ",
+      "headTopics": "Topics: Footwear",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/news/article/the_associated_press-apnewsbreak_congressmans_wife_works_parttime_in_24-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11113680741090205281",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8925958716569835393"
+      ],
+      "lpu": "http://www.teknologisk.dk/kurser/firmakurser",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/category/entertainment/article/newsy_now-barbies_boyfriend_ken_just_got_a_diversity_makeove-newsy",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adform.net\\/stoat\\/597\\/s1.adform.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/ImageTag:types\\/Standard"
+      ],
+      "lpu": "https://track.adform.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/category/entertainment/article/the_associated_press-coroner_cocaine_among_drugs_found_in_carrie_fisher-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15057960189035363388"
+      ],
+      "lpu": "http://fodder-uden-smerte.eu",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16378194473786513598"
+      ],
+      "lpu": "http://www.travelmarket.dk/afbudsrejser.cfm",
+      "allTopics": "Topics: Travel > Travel Agencies & Services, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel, Travel > Specialty Travel > Adventure Travel, Travel > Specialty Travel > Sightseeing Tours, Travel > Hotels & Accommodations, Travel > Air Travel, Travel > Bus & Rail, Travel > Tourist Destinations > Beaches & Islands, Travel > Travel Guides & Travelogues, Travel > Tourist Destinations, Travel > Cruises & Charters, Travel > Tourist Destinations > Theme Parks, Travel, Travel > Tourist Destinations > Mountain & Ski Resorts, Travel > Travel Agencies & Services > Tourist Boards & Visitor Centers, Travel > Specialty Travel > Agritourism ",
+      "headTopics": "Topics: Travel Agencies & Services",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/SpiteChickens",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15798377332569272541"
+      ],
+      "lpu": "https://www.reddit.com/r/tropical",
+      "allTopics": "Topics: Travel > Tourist Destinations > Beaches & Islands, Travel > Travel Agencies & Services > Vacation Offers, Travel > Hotels & Accommodations, Travel > Travel Agencies & Services, Travel > Travel Guides & Travelogues, Travel > Cruises & Charters, Travel ",
+      "headTopics": "Topics: Beaches & Islands",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/SpiteChickens",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17910597555399608687"
+      ],
+      "lpu": "https://www.reddit.com/r/casualconversation",
+      "allTopics": "Topics: Online Communities > Social Networks, Online Communities > Forum & Chat Providers, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Dating & Personals, Online Communities, Online Communities > Dating & Personals > Personals, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Online Journals & Personal Sites, Online Communities > Photo & Video Sharing, Online Communities > Blogging Resources & Services > Microblogging, Online Communities > Virtual Worlds, Online Communities > Dating & Personals > Photo Rating Sites ",
+      "headTopics": "Topics: Social Networks",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/pencer",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/16958013688620289436"
+      ],
+      "lpu": "https://www.reddit.com/r/campfirecooking",
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Food > Breakfast Foods, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Cooking & Recipes > Soups & Stews, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/user/DeLaRey",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17342200210219457069"
+      ],
+      "lpu": "https://www.reddit.com/r/tinysubredditoftheday",
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Dating & Personals > Personals, Online Communities > Online Goodies > Social Network Apps & Add-Ons, Online Communities > Online Journals & Personal Sites, Online Communities > Photo & Video Sharing, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/Futurology/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adform.net\\/stoat\\/597\\/s1.adform.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:types\\/ThirdParty"
+      ],
+      "lpu": "https://r-ad.bsx.agency/",
+      "allTopics": "Topics: Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Uniforms & Workwear, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Men's Clothing ",
+      "headTopics": "Topics: Clothing Accessories",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9084735749243838399"
+      ],
+      "lpu": "https://sportmaster.dk/eavis",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17716115632412621622"
+      ],
+      "lpu": "https://www.banggood.com/AFSJEEP-Summer-Mens-Cargo-Shorts-Water-repellent-Breathable-Loose-Casual-Shorts-p-1137087.html",
+      "allTopics": "Topics: Shopping > Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Casual Apparel, Shopping > Discount & Outlet Stores, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Undergarments, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Formal Wear, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Apparel",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14593852919161078614"
+      ],
+      "lpu": "https://www.axel.dk/webshop/outlet",
+      "allTopics": "Topics: Shopping > Apparel > Men's Clothing, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Undergarments, Shopping > Apparel > Formal Wear, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Sleepwear, Shopping > Apparel, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Footwear, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Swimwear, Shopping > Apparel > Headwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Footwear > Boots ",
+      "headTopics": "Topics: Men's Clothing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/ugly",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/ugly",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9580038576916955008"
+      ],
+      "lpu": "https://www.quint.dk/webshop/outlet",
+      "allTopics": "Topics: Shopping > Apparel > Casual Apparel, Shopping > Apparel, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Suits & Business Attire, Shopping > Apparel > Undergarments, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Footwear, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Swimwear, Shopping > Apparel > Casual Apparel > T-Shirts, Shopping > Apparel > Outerwear, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Discount & Outlet Stores, Shopping > Apparel > Formal Wear, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Casual Apparel",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/5434017\\/1495534177408\\/300x250.html"
+      ],
+      "lpu": "https://www.patriziapepe.com/shop/donna/newarrivals-a015208-s1-1-1",
+      "allTopics": "Topics: Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping > Apparel > Clothing Accessories, Shopping > Apparel > Casual Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Undergarments, Shopping > Apparel > Women's Clothing > Skirts, Shopping > Apparel > Women's Clothing > Dresses, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Swimwear, Shopping > Apparel > Outerwear, Shopping > Apparel > Suits & Business Attire, Shopping > Discount & Outlet Stores, Shopping > Apparel > Formal Wear, Shopping > Wholesalers & Liquidators, Shopping > Apparel > Sleepwear ",
+      "headTopics": "Topics: Women's Clothing",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/2103489550135447708"
+      ],
+      "lpu": "https://www.kaufmann.dk/webshop/outlet",
+      "allTopics": "Keywords: tøj udsalg ",
+      "headTopics": "Tøj",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/4906771\\/1470906267938\\/DK_-Ready-_ENHANCED_2_300x250.html"
+      ],
+      "lpu": "https://secure-ams.adnxs.com/click",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    }
+  ]
+}

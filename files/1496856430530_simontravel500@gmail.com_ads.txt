@@ -1,0 +1,49 @@
+[
+  {
+    "basePage": "https://www.ethiojobs.net/browse-by-category/Social%20Sciences%20and%20Community/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10154061812951650443",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/1666151823332149121",
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8974729427799057572"
+    ],
+    "lpu": "http://www.russiamatches.com/go.php",
+    "type": "generic"
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/SNNPR/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/45565663\\/20160922244949061\\/index.html"
+    ],
+    "lpu": "http://",
+    "type": null
+  },
+  {
+    "basePage": "https://www.ethiojobs.net/browse-by-category/Communications%2C%20PR%20and%20Journalism/",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9517778881499597077"
+    ],
+    "lpu": "http://www.thaimatches.com/go.php",
+    "type": "targeted"
+  },
+  {
+    "basePage": "http://jobatsea.org/#sthash.IaVKvHFb.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1342940868329342066"
+    ],
+    "lpu": "http://www.singlesrussian.com/go.php",
+    "type": "targeted"
+  },
+  {
+    "basePage": "http://jobatsea.org/jobs/Harbour/#sthash.p0hYflcR.dpbs",
+    "farmerTopic": "Jobs & Education",
+    "resources": [
+      "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13996768295573091843"
+    ],
+    "lpu": "http://www.charmdate.com/go.php",
+    "type": "targeted"
+  }
+]

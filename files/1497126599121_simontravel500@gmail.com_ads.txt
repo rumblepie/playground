@@ -1,0 +1,62 @@
+{
+  "basePages": {
+    "https://www.ethiojobs.net/browse-by-category/Veterinary%20Services/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    },
+    "http://www.ethiojobs.net/display-job/44005/Education-Facilitator.html": {
+      "allTopics": "Topics: Jobs & Education > Jobs > Job Listings, Jobs & Education > Jobs > Job Listings > Temporary & Seasonal Jobs, Jobs & Education > Jobs > Job Listings > Clerical & Administrative Jobs, Jobs & Education > Jobs > Job Listings > Retail Jobs, Jobs & Education > Jobs > Job Listings > Sales & Marketing Jobs, Jobs & Education > Jobs > Job Listings > Accounting & Finance Jobs, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Jobs, Jobs & Education > Jobs > Resumes & Portfolios, Jobs & Education > Jobs > Job Listings > Government & Public Sector Jobs, Jobs & Education > Jobs > Job Listings > IT & Technical Jobs, Jobs & Education > Internships, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education > Jobs > Job Listings > Health & Medical Jobs, Jobs & Education > Jobs > Job Listings > Executive & Management Jobs, Jobs & Education > Jobs > Job Listings > Legal Jobs ",
+      "headTopics": "Topics: Job Listings"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "https://www.ethiojobs.net/browse-by-category/Veterinary%20Services/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1263894042562448091"
+      ],
+      "lpu": "http://www.banknorwegian.dk/Kreditkort",
+      "allTopics": "Topics: Finance > Credit & Lending > Credit Cards, Finance > Banking, Finance > Banking > Debit & Checking Services, Finance > Credit & Lending, Finance > Banking > ATMs & Branch Locations, Finance > Credit & Lending > Debt Management, Finance > Banking > Money Transfer & Wire Services, Finance > Credit & Lending > Loans > Home Financing > Mortgages, Finance > Credit & Lending > Credit Reporting & Monitoring, Finance > Credit & Lending > Loans, Finance > Banking > Savings Accounts, Finance > Credit & Lending > Loans > Personal Loans, Finance > Credit & Lending > Loans > Personal Loans > Short-Term Loans & Cash Advances ",
+      "headTopics": "Topics: Credit Cards",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18077008196975770224"
+      ],
+      "lpu": "http://www.danmark.date/campaign",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.ethiojobs.net/find-jobs-in-ethiopia/Oromia/",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5823642904699370402"
+      ],
+      "lpu": "https://business.linkedin.com/sales-solutions/cx/16/01/request-demo-sem",
+      "allTopics": "Topics: Business & Industrial > Advertising & Marketing > Sales, Business & Industrial > Business Operations > Human Resources > Corporate Training, Business & Industrial > Business Operations > Management, Business & Industrial > Business Operations > Human Resources, Business & Industrial > Business Services > Consulting, Business & Industrial > Business Education, Business & Industrial > Business Operations > Management > Project Management, Business & Industrial > Business Operations, Business & Industrial > Advertising & Marketing > Telemarketing, Business & Industrial > Business Services > Corporate Events ",
+      "headTopics": "Topics: Sales",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.ethiojobs.net/display-job/44005/Education-Facilitator.html",
+      "farmerTopic": "Jobs & Education",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/16913216721130494142"
+      ],
+      "lpu": "http://www.russiamatches.com/go.php",
+      "allTopics": "Topics: Online Communities > Dating & Personals, Online Communities > Dating & Personals > Personals, Online Communities > Dating & Personals > Matrimonial Services, Online Communities > Dating & Personals > Photo Rating Sites, Online Communities > Social Networks, Online Communities > Forum & Chat Providers ",
+      "headTopics": "Topics: Dating & Personals",
+      "type": "targeted"
+    }
+  ]
+}

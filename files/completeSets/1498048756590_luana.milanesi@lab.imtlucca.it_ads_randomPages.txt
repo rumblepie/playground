@@ -1,0 +1,334 @@
+{
+  "basePages": {
+    "http://startpage.lenovo.com/": {
+      "allTopics": "Topics: Computers & Electronics > Computer Hardware > Laptops & Notebooks, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Computer Hardware > Desktop Computers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Computer Hardware, Computers & Electronics > Software > Operating Systems > Mobile OS > Android OS, Computers & Electronics > Software > Operating Systems > Mobile OS > Apple iOS, Computers & Electronics > Computer Hardware > Computer Components > Chips & Processors, Computers & Electronics > Computer Hardware > Computer Components > Sound & Video Cards, Computers & Electronics > Software > Device Drivers, Computers & Electronics > Electronics & Electrical > Power Supplies, Computers & Electronics > Consumer Electronics > Electronic Accessories, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > PDAs & Handhelds, Computers & Electronics > Computer Hardware > Computer Peripherals > Computer Monitors & Displays, Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives, Computers & Electronics > Computer Hardware > Computer Components > Computer Memory, Computers & Electronics > Computer Hardware > Computer Peripherals ",
+      "headTopics": "Topics: Laptops & Notebooks"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-family_freed_student_who_died_has_completed_his_jo-ap": {
+      "allTopics": "Interests: News Junkies, News Junkies > World News Junkies, News Junkies > Political News Junkies ",
+      "headTopics": "Affinity audiences: News Junkies"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-oj_simpson_getting_july_20_parole_hearing_date_in-ap": {
+      "allTopics": "Topics: Law & Government > Legal, Law & Government, Law & Government > Government > Courts & Judiciary, Law & Government > Legal > Constitutional Law & Civil Rights, Law & Government > Legal > Legal Education ",
+      "headTopics": "Topics: Legal"
+    },
+    "http://startpage.lenovo.com/player/category/entertainment/article/newsy_now-barbies_boyfriend_ken_just_got_a_diversity_makeove-newsy": {
+      "allTopics": "Topics: Beauty & Fitness > Hair Care, Beauty & Fitness > Fashion & Style, Beauty & Fitness > Cosmetology & Beauty Professionals, Beauty & Fitness > Hair Care > Hair Loss, Beauty & Fitness > Face & Body Care > Make-Up & Cosmetics, Beauty & Fitness, Beauty & Fitness > Fashion & Style > Fashion Designers & Collections, Beauty & Fitness > Face & Body Care > Hygiene & Toiletries, Beauty & Fitness > Face & Body Care, Beauty & Fitness > Face & Body Care > Unwanted Body & Facial Hair Removal, Beauty & Fitness > Spas & Beauty Services ",
+      "headTopics": "Topics: Hair Care"
+    },
+    "http://startpage.lenovo.com/news/read/article/the_associated_press-daniel_daylewis_says_hes_retiring_from_acting-ap": {
+      "allTopics": "Topics: Arts & Entertainment > Movies, Arts & Entertainment > Celebrities & Entertainment News, Arts & Entertainment > Entertainment Industry > Film & TV Industry > Film & TV Awards, Arts & Entertainment > TV & Video > TV Shows & Programs, Arts & Entertainment > Entertainment Industry > Film & TV Industry, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Reality Shows, Arts & Entertainment > Movies > Movie Reference, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > Entertainment Industry > Film & TV Industry > Film & TV Production, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Movies > Classic Films, Arts & Entertainment > Events & Listings > Film Festivals ",
+      "headTopics": "Topics: Movies"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "allTopics": "Topics: News > Newspapers, News > Gossip & Tabloid News, News > Local News, News, News > Politics > Opinion & Commentary, News > Journalism & News Industry, News > Gossip & Tabloid News > Scandals & Investigations ",
+      "headTopics": "Topics: Newspapers"
+    },
+    "https://www.reddit.com/": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Social Networks, Online Communities > Photo & Video Sharing > Video Sharing, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Photo & Video Sharing, Online Communities > Blogging Resources & Services > Microblogging ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/?count=25&after=t3_6igyc2": {
+      "allTopics": "Topics: Online Communities > Feed Aggregation & Social Bookmarking, Online Communities > Photo & Video Sharing > Photo & Image Sharing, Online Communities > Photo & Video Sharing > Video Sharing, Online Communities > Photo & Video Sharing ",
+      "headTopics": "Topics: Feed Aggregation & Social Bookmarking"
+    },
+    "https://www.reddit.com/wiki/search": {
+      "allTopics": "Topics: Internet & Telecom > Search Engines ",
+      "headTopics": "Topics: Search Engines"
+    },
+    "https://www.reddit.com/r/food/": {
+      "allTopics": "Topics: Food & Drink > Cooking & Recipes, Food & Drink > Food > Meat & Seafood > Poultry, Food & Drink > Food > Meat & Seafood, Food & Drink > Food > Condiments & Dressings, Food & Drink > Food > Baked Goods, Food & Drink > Food > Meat & Seafood > Pork, Food & Drink > Cooking & Recipes > Salads, Food & Drink > Cooking & Recipes > Cuisines > Southeast Asian Cuisine, Food & Drink > Food > Meat & Seafood > Beef, Food & Drink > Cooking & Recipes > Desserts, Food & Drink > Cooking & Recipes > Healthy Eating, Food & Drink > Cooking & Recipes > Cuisines > Vegetarian Cuisine, Food & Drink > Food > Meat & Seafood > Fish & Seafood, Food & Drink > Food > Breakfast Foods, Food & Drink > Cooking & Recipes > Cuisines > Mediterranean Cuisine > Italian Cuisine, Food & Drink > Cooking & Recipes > Soups & Stews, Food & Drink > Cooking & Recipes > Cuisines, Food & Drink > Cooking & Recipes > Cuisines > Eastern European Cuisine, Food & Drink > Food > Jams, Jellies & Preserves, Food & Drink > Cooking & Recipes > Cuisines > German Cuisine ",
+      "headTopics": "Topics: Cooking & Recipes"
+    },
+    "https://www.reddit.com/r/news/comments/6ihlfi/craftsman_tools_steals_small_inventors_wrench/": {
+      "allTopics": "Topics: Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas, Arts & Entertainment > Humor, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talent & Variety Shows, Arts & Entertainment > Music & Audio > World Music > African Music, Arts & Entertainment > Movies > Bollywood & South Asian Film, Arts & Entertainment > TV & Video > TV Networks & Stations, Arts & Entertainment > Comics & Animation > Cartoons, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Talk Shows, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Family-Oriented Shows, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Documentary & Nonfiction ",
+      "headTopics": "Topics: Online Video"
+    },
+    "https://www.reddit.com/r/deals/": {
+      "allTopics": "Topics: Shopping > Consumer Resources > Coupons & Discount Offers, Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs, Shopping > Shopping Portals & Search Engines, Shopping > Apparel, Shopping > Mass Merchants & Department Stores, Shopping > Gifts & Special Event Items > Gifts, Shopping > Discount & Outlet Stores, Shopping > Wholesalers & Liquidators ",
+      "headTopics": "Topics: Coupons & Discount Offers"
+    },
+    "https://9gag.com/": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > TV & Video > TV Shows & Programs > TV Comedies, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    },
+    "https://9gag.com/gag/aynnZQV/i-hate-shopping": {
+      "allTopics": "Topics: Arts & Entertainment > Humor, Arts & Entertainment > Offbeat, Arts & Entertainment > TV & Video > Online Video, Arts & Entertainment > Online Media > Online Image Galleries, Arts & Entertainment > Fun & Trivia, Arts & Entertainment > Comics & Animation > Comics, Arts & Entertainment > Humor > Political Humor, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Offbeat > Edgy & Bizarre, Arts & Entertainment > Humor > Spoofs & Satire, Arts & Entertainment > TV & Video > Online Video > Web Series, Arts & Entertainment > TV & Video > TV Commercials ",
+      "headTopics": "Topics: Humor"
+    }
+  },
+  "adRecords": [
+    {
+      "basePage": "http://startpage.lenovo.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14170209791298371927",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/13547305687085458569",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15123408393797634787"
+      ],
+      "lpu": "http://www.msk.dk/",
+      "allTopics": "Topics: Jobs & Education > Education > Colleges & Universities, Jobs & Education > Education > Primary & Secondary Schooling (K-12), Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Education > Teaching & Classroom Resources > Lesson Plans, Jobs & Education > Education > Teaching & Classroom Resources, Jobs & Education > Education, Jobs & Education > Education > Study Abroad, Jobs & Education > Education > Alumni & Reunions, Jobs & Education > Jobs > Job Listings > Education Jobs, Jobs & Education ",
+      "headTopics": "Topics: Colleges & Universities",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-family_freed_student_who_died_has_completed_his_jo-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11113680741090205281"
+      ],
+      "lpu": "http://www.teknologisk.dk/kurser/firmakurser",
+      "allTopics": "Topics: Jobs & Education > Education > Training & Certification, Jobs & Education > Education > Vocational & Continuing Education > Computer Education, Jobs & Education > Education > Standardized & Admissions Tests, Jobs & Education > Jobs > Career Resources & Planning, Jobs & Education > Education > Distance Learning, Jobs & Education > Education > Vocational & Continuing Education, Jobs & Education > Jobs > Job Listings > Education Jobs ",
+      "headTopics": "Topics: Training & Certification",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-family_freed_student_who_died_has_completed_his_jo-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/15048287707320313729"
+      ],
+      "lpu": "https://www.newchic.com/sandals-4188/p-1139798.html",
+      "allTopics": "Topics: Shopping > Apparel > Footwear, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Apparel > Footwear > Boots, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Women's Clothing, Shopping > Apparel, Shopping > Apparel > Formal Wear > Bridal Wear, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Clothing Accessories > Handbags & Purses, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Men's Clothing, Shopping > Apparel > Clothing Accessories, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Apparel > Apparel Services, Shopping > Apparel > Uniforms & Workwear ",
+      "headTopics": "Topics: Footwear",
+      "type": "generic"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-oj_simpson_getting_july_20_parole_hearing_date_in-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17956461162365677949"
+      ],
+      "lpu": "https://www.newchic.com/sneakers-3622/p-1108378.html",
+      "allTopics": "Topics: Shopping > Apparel > Footwear, Shopping > Apparel > Footwear > Athletic Shoes, Shopping > Apparel > Footwear > Casual Shoes, Shopping > Apparel > Footwear > Boots, Shopping > Apparel > Athletic Apparel, Shopping > Apparel > Women's Clothing, Shopping > Apparel > Children's Clothing, Shopping > Apparel > Men's Clothing, Shopping > Discount & Outlet Stores, Autos & Vehicles > Bicycles & Accessories > Cycling Apparel, Shopping > Apparel > Apparel Services, Shopping > Apparel > Uniforms & Workwear ",
+      "headTopics": "Topics: Footwear",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/player/category/entertainment/article/newsy_now-barbies_boyfriend_ken_just_got_a_diversity_makeove-newsy",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adform.net\\/stoat\\/597\\/s1.adform.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/ImageTag:types\\/Standard"
+      ],
+      "lpu": "https://track.adform.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://startpage.lenovo.com/news/read/article/the_associated_press-daniel_daylewis_says_hes_retiring_from_acting-ap",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/14705135677248943692"
+      ],
+      "lpu": "https://zulumob.go2cloud.org/aff_c",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/18345006406926111669"
+      ],
+      "lpu": "http://www.floryday.com/da/Skjorter-r9851/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/9023780836309380817"
+      ],
+      "lpu": "http://www.travelmarket.dk/billige-flybilletter.cfm",
+      "allTopics": "Topics: Travel > Air Travel, Travel > Travel Agencies & Services, Travel > Air Travel > Airport Parking & Transportation, Travel > Travel Agencies & Services > Vacation Offers, Travel > Specialty Travel, Travel > Specialty Travel > Adventure Travel, Travel > Hotels & Accommodations, Travel > Tourist Destinations > Beaches & Islands, Travel > Travel Guides & Travelogues, Travel > Tourist Destinations, Travel > Cruises & Charters, Travel, Travel > Car Rental & Taxi Services, Travel > Specialty Travel > Sightseeing Tours, Travel > Travel Agencies & Services > Tourist Boards & Visitor Centers ",
+      "headTopics": "Topics: Air Travel",
+      "type": "targeted"
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1263894042562448091",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/10332440892755133511",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/5749520884556604515",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/6227431851477672064",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/9084735749243838399",
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/1082347496811876657"
+      ],
+      "lpu": "",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "http://www.dailymail.co.uk/home/index.html",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/6125801\\/1496733011986\\/index.html"
+      ],
+      "lpu": "https://www.grohe.dk/da_dk/smarthome/grohe-sense-water-security-system/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/7699709935803171934"
+      ],
+      "lpu": "https://www.starwindsoftware.com/starwind-cloud-vtl-for-aws-and-veeam-redefining-tape-backup-for-the-cloud-era",
+      "allTopics": "Topics: Internet & Telecom > Web Services > Hosted Data Storage, Internet & Telecom > Web Services, Internet & Telecom > Teleconferencing ",
+      "headTopics": "Topics: Hosted Data Storage",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/?count=25&after=t3_6igyc2",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/11155299212206015722"
+      ],
+      "lpu": "https://www.telenor.dk/shop/mobil/apple/apple-iphone-7-32gb-sort",
+      "allTopics": "Topics: Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > MP3 & Portable Media Players, Computers & Electronics > Computer Hardware > Computer Servers, Computers & Electronics > Software > Operating Systems > Mac OS, Computers & Electronics > Software > Operating Systems > Mobile OS > Apple iOS, Computers & Electronics > Networking > Data Formats & Protocols, Computers & Electronics > Computer Hardware > Laptops & Notebooks > Tablet PCs, Computers & Electronics > Software > Multimedia Software > Audio & Music Software, Computers & Electronics > Software > Multimedia Software > Media Players, Computers & Electronics > Consumer Electronics > Audio Equipment, Computers & Electronics > Consumer Electronics > Audio Equipment > Stereo Systems & Components, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > PDAs & Handhelds, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Consumer Electronics > Gadgets & Portable Electronics > E-Book Readers, Computers & Electronics > Consumer Electronics > TV & Video Equipment > Video Players & Recorders > DVD Players & Recorders ",
+      "headTopics": "Topics: MP3 & Portable Media Players",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/3254173664438157822"
+      ],
+      "lpu": "https://www.3.dk/mobiler-tablets/mobiler/samsung-galaxy-s8/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://www.reddit.com/wiki/search",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6400800\\/gartner-critical-capabilities-300x250-DK.jpg"
+      ],
+      "lpu": "http://www.sitecore.net/da-dk/landing/xc/2016/gmq/gmq-2016-gated",
+      "allTopics": "Topics: Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Software > Open Source, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Software > Multimedia Software > Desktop Publishing, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software, Computers & Electronics > Software > Business & Productivity Software > Calendar & Scheduling Software, Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Software > Business & Productivity Software > Accounting & Financial Software, Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM) ",
+      "headTopics": "Topics: Content Management",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/food/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.2mdn.net\\/6400800\\/GMQ-Banner_Danish_-300x250.gif"
+      ],
+      "lpu": "http://www.sitecore.net/da-dk/landing/xc/2017/gartner-critical-capabilities-wcm-2016",
+      "allTopics": "Topics: Computers & Electronics > Software > Business & Productivity Software, Computers & Electronics > Software > Internet Software > Content Management, Computers & Electronics > Enterprise Technology, Computers & Electronics > Enterprise Technology > Enterprise Resource Planning (ERP), Computers & Electronics > Enterprise Technology > Customer Relationship Management (CRM), Computers & Electronics > Software > Business & Productivity Software > Spreadsheet Software, Computers & Electronics > Software > Business & Productivity Software > Project Management Software, Computers & Electronics > Software > Open Source, Computers & Electronics > Enterprise Technology > Data Management, Computers & Electronics > Software > Business & Productivity Software > Presentation Software, Computers & Electronics > Software > Multimedia Software > Desktop Publishing, Computers & Electronics > Software > Business & Productivity Software > Word Processing Software, Computers & Electronics > Software > Business & Productivity Software > Calendar & Scheduling Software, Computers & Electronics > Software > Business & Productivity Software > Accounting & Financial Software ",
+      "headTopics": "Topics: Business & Productivity Software",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/17292029346331024546"
+      ],
+      "lpu": "https://www.reddit.com/r/Keratoconus/",
+      "allTopics": "Topics: Health > Vision Care, Health > Vision Care > Eye Exams & Optometry, Health > Vision Care > Laser Vision Correction, Health > Vision Care > Eyeglasses & Contacts, Health > Health Conditions, Health > Pharmacy > Drugs & Medications, Health > Medical Facilities & Services > Hospitals & Treatment Centers, Health > Health Conditions > Diabetes, Health > Medical Facilities & Services > Medical Procedures > Surgery, Health > Medical Facilities & Services, Health > Health Conditions > Pain Management > Headaches & Migraines, Health > Health Conditions > Genetic Disorders, Health > Medical Facilities & Services > Doctors' Offices, Health > Medical Devices & Equipment > Assistive Technology ",
+      "headTopics": "Topics: Vision Care",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/news/comments/6ihlfi/craftsman_tools_steals_small_inventors_wrench/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/5900009\\/Oslo_Ext_300x250-v2.jpg"
+      ],
+      "lpu": "http://www.oslobroadway.com/",
+      "allTopics": "Topics: Arts & Entertainment > Performing Arts > Broadway & Musical Theater, Arts & Entertainment > Events & Listings > Event Ticket Sales, Arts & Entertainment > Movies > Musical Films, Arts & Entertainment > Music & Audio > Vocals & Show Tunes, Arts & Entertainment, Arts & Entertainment > Movies > Animated Films, Arts & Entertainment > Events & Listings > Concerts & Music Festivals, Arts & Entertainment > Events & Listings > Live Sporting Events, Arts & Entertainment > Performing Arts > Acting & Theater, Arts & Entertainment > Events & Listings, Arts & Entertainment > Humor > Live Comedy, Arts & Entertainment > Events & Listings > Movie Listings & Theater Showtimes, Arts & Entertainment > Entertainment Industry > Recording Industry, Arts & Entertainment > Performing Arts > Opera, Arts & Entertainment > Entertainment Industry > Recording Industry > Music Awards, Arts & Entertainment > Performing Arts, Arts & Entertainment > Performing Arts > Circus ",
+      "headTopics": "Topics: Broadway & Musical Theater",
+      "type": "contextual"
+    },
+    {
+      "basePage": "https://www.reddit.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/6494198172966679607"
+      ],
+      "lpu": "https://www.redditgifts.com/exchanges/prequel-memes-2017/",
+      "allTopics": "Topics: Shopping > Gifts & Special Event Items > Gifts, Shopping > Gifts & Special Event Items, Shopping > Gifts & Special Event Items > Custom & Personalized Items, Shopping > Gifts & Special Event Items > Cards & Greetings ",
+      "headTopics": "Topics: Gifts",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://www.reddit.com/r/deals/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/10177624678739387040"
+      ],
+      "lpu": "https://dis-kbh.dk/vaerthttps://dis-kbh.dk/vaertsfamilie/vind-rejse-new-york-to-personer/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/daca_images\\/simgad\\/3991028298142980254"
+      ],
+      "lpu": "https://www.banknorwegian.dk/Kreditkort",
+      "allTopics": "Topics: Finance > Credit & Lending > Credit Cards, Finance > Banking > Debit & Checking Services, Finance > Banking, Finance > Banking > Money Transfer & Wire Services, Finance > Credit & Lending > Debt Management, Finance > Credit & Lending, Finance > Credit & Lending > Loans, Finance > Credit & Lending > Loans > Student Loans & College Financing, Finance > Insurance > Travel Insurance, Finance > Credit & Lending > Credit Reporting & Monitoring, Finance > Credit & Lending > Loans > Home Financing > Home Refinancing, Finance > Credit & Lending > Loans > Personal Loans, Finance > Banking > ATMs & Branch Locations, Finance > Credit & Lending > Loans > Personal Loans > Short-Term Loans & Cash Advances ",
+      "headTopics": "Topics: Credit Cards",
+      "type": "targeted"
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/4906771\\/1470906267938\\/DK_-Ready-_ENHANCED_2_300x250.html"
+      ],
+      "lpu": "https://secure-fra.adnxs.com/click",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/12061981411957199804",
+        "https:\\/\\/tpc.googlesyndication.com\\/simgad\\/8760220127017566783"
+      ],
+      "lpu": "http://9gag.com/apps",
+      "allTopics": "Topics: Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons, Internet & Telecom > Mobile & Wireless > Mobile Phones > Smart Phones, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > iOS Apps, Internet & Telecom > Email & Messaging > Text & Instant Messaging, Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Ringtones & Mobile Themes ",
+      "headTopics": "Topics: Android Apps",
+      "type": "generic"
+    },
+    {
+      "basePage": "https://9gag.com/gag/aynnZQV/i-hate-shopping",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s0.2mdn.net\\/ads\\/richmedia\\/studio\\/pv2\\/60217752\\/20170525233716779\\/index.html"
+      ],
+      "lpu": "https://adserver.adtech.de/adlink/1282/6393559/0/225/AdId%3D18064924",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    },
+    {
+      "basePage": "https://9gag.com/gag/aynnZQV/i-hate-shopping",
+      "farmerTopic": "Shopping",
+      "resources": [
+        "https:\\/\\/s1.adformdsp.net\\/stoat\\/597\\/s1.adformdsp.net\\/load\\/v\\/0.0.125\\/e\\/.wMDAo\\/i\\/8IF-ACAABAAA\\/r:AdConstructor:contents\\/HTML:types\\/Standard"
+      ],
+      "lpu": "https://server.adformdsp.net/C/",
+      "allTopics": null,
+      "headTopics": null,
+      "type": null
+    }
+  ]
+}
